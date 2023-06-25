@@ -1,0 +1,4 @@
+Sorex araneus coronavirus T14.fas
+KY370053.1
+  start     end
+       0     301

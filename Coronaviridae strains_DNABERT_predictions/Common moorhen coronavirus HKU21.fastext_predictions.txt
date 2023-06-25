@@ -1,0 +1,9 @@
+Common moorhen coronavirus HKU21.fas
+NC_016996.1
+  start     end
+   14803   14817
+   14819   14837
+JQ065049.1
+  start     end
+   14803   14817
+   14819   14837
