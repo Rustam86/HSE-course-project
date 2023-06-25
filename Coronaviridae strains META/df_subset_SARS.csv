@@ -1,0 +1,345 @@
+,GenBank ID,Accession,Description,Collection Date,Geographic Location,Sequence Length,Host,Intervals total length,Intervals mean length
+0,KY352407.1,KY352407.1,"Severe acute respiratory syndrome-related coronavirus strain BtKY72, complete genome",Aug-2007,['Kenya'],29274,Rhinolophus sp. (bat),2243.0,118.05263157894737
+1,CQ903009.1,CQ903009.1,Sequence 13 from Patent WO2004094667,25-MAY-2020,,29727,,2374.0,263.77777777777777
+2,KU973692.1,KU973692.1,"UNVERIFIED: Severe acute respiratory syndrome-related coronavirus isolate F46, complete genome",2012,['China'],29722,bat,3100.0,134.7826086956522
+3,HW375992.1,HW375992.1,JP 2012255024-A/1: MODIFIED SMALL INTERFERING RNA MOLECULES AND METHODS OF USE,18-FEB-2014,,29751,,2374.0,263.77777777777777
+4,HW269828.1,HW269828.1,JP 2012105686-A/1: MODIFIED SMALL INTERFERING RNA MOLECULES AND METHODS OF USE,16-OCT-2013,,29751,,2374.0,263.77777777777777
+5,FJ959407.1,FJ959407.1,"SARS coronavirus isolate A001, complete genome",26-SEP-2009,['China'],29694,palm civet,2530.0,281.1111111111111
+6,DQ898174.1,DQ898174.1,"SARS coronavirus strain CV7, complete genome",07-MAY-2009,['Canada'],29751,,2361.0,295.125
+7,DQ497008.1,DQ497008.1,"SARS coronavirus strain MA-15, complete genome",20-MAR-2007,,29727,,2297.0,382.8333333333333
+8,DL008527.1,DL008527.1,NOVEL STRAIN OF SARS-ASSOCIATED CORONAVIRUS AND APPLICATIONS THEREOF,25-NOV-2009,,29746,,2361.0,295.125
+9,DJ059765.1,DJ059765.1,NOVEL STRAIN OF SARS-ASSOCIATED CORONAVIRUS AND APPLICATIONS THEREOF,25-NOV-2009,,29746,,2361.0,295.125
+10,DJ045279.1,DJ045279.1,IMAGEABLE ANIMAL MODEL OF SARS INFECTION,25-NOV-2009,,29751,,2361.0,295.125
+11,DL476508.1,DL476508.1,MODIFIED SMALL INTERFERING RNA MOLECULES AND METHODS OF USE,22-DEC-2008,,29751,,2374.0,263.77777777777777
+12,CS569493.1,CS569493.1,Sequence 1 from Patent WO2006039656,18-MAY-2007,,29751,,2374.0,263.77777777777777
+13,CS254197.1,CS254197.1,Sequence 67 from Patent WO2004011647,17-JUL-2006,,29751,,2374.0,263.77777777777777
+14,CS079029.1,CS079029.1,Sequence 17 from Patent WO2005035556,06-MAY-2005,,29736,,2398.0,149.875
+15,CS079028.1,CS079028.1,Sequence 16 from Patent WO2005035556,06-MAY-2005,,29742,,2350.0,261.1111111111111
+16,CS079027.1,CS079027.1,Sequence 15 from Patent WO2005035556,06-MAY-2005,,29727,,2361.0,295.125
+17,CS079026.1,CS079026.1,Sequence 14 from Patent WO2005035556,06-MAY-2005,,29751,,2361.0,295.125
+18,CQ918598.1,CQ918598.1,Sequence 15 from Patent WO2004096842,23-NOV-2004,,29751,,2361.0,295.125
+19,CQ918585.1,CQ918585.1,Sequence 2 from Patent WO2004096842,23-NOV-2004,,29736,,2398.0,149.875
+20,CQ918584.1,CQ918584.1,Sequence 1 from Patent WO2004096842,23-NOV-2004,,29736,,2398.0,149.875
+21,MG772934.1,MG772934.1,"Bat SARS-like coronavirus isolate bat-SL-CoVZXC21, complete genome",Jul-2015,['China'],29732,Rhinolophus pusillus,1556.0,194.5
+22,MG772933.1,MG772933.1,"Bat SARS-like coronavirus isolate bat-SL-CoVZC45, complete genome",Feb-2017,['China'],29802,Rhinolophus pusillus,1556.0,194.5
+23,AY278489.2,AY278489.2,"SARS coronavirus GD01, complete genome",15-APR-2021,,29757,,2333.0,166.64285714285714
+24,NC_004718.3,NC_004718.3,"SARS coronavirus Tor2, complete genome",20-NOV-2020,['Canada: Toronto'],29751,Homo sapiens; patient #2 with severe acute respiratory syndrome (SARS),2361.0,295.125
+25,JX163928.1,JX163928.1,"SARS coronavirus Tor2 isolate Tor2/FP1-10895, complete genome",05-Feb-2010,['USA'],29646,,2587.0,287.44444444444446
+26,JX163927.1,JX163927.1,"SARS coronavirus Tor2 isolate Tor2/FP1-10851, complete genome",05-Feb-2010,['USA'],29646,,2587.0,287.44444444444446
+27,JX163926.1,JX163926.1,"SARS coronavirus Tor2 isolate Tor2/FP1-10912, complete genome",10-Feb-2010,['USA'],29646,,2587.0,287.44444444444446
+28,JX163925.1,JX163925.1,"SARS coronavirus Tor2 isolate Tor2/FP1-10895, complete genome",05-Feb-2010,['USA'],29646,,2587.0,287.44444444444446
+29,JX163924.1,JX163924.1,"SARS coronavirus Tor2 isolate Tor2/FP1-10851, complete genome",05-Feb-2010,['USA'],29646,,2587.0,287.44444444444446
+30,JX163923.1,JX163923.1,"SARS coronavirus Tor2 isolate Tor2/FP1-10912, complete genome",10-Feb-2010,['USA'],29646,,2587.0,287.44444444444446
+31,AY274119.3,AY274119.3,"SARS coronavirus Tor2, complete genome",27-MAY-2020,['Canada: Toronto'],29751,Homo sapiens; patient #2 with severe acute respiratory syndrome (SARS),2361.0,295.125
+32,KF294457.1,KF294457.1,"Bat SARS-like coronavirus isolate Longquan-140 orf1ab polyprotein, spike glycoprotein, envelope protein, membrane protein, and nucleocapsid protein genes, complete cds",2012,['China'],29676,Rhinolophus monoceros,2636.0,94.14285714285714
+33,MK062184.1,MK062184.1,"SARS coronavirus Urbani isolate icSARS-C7-MA, complete genome",01-Jun-2017,['USA'],29874,Homo sapiens,2129.0,212.9
+34,MK062183.1,MK062183.1,"SARS coronavirus Urbani isolate icSARS-C7, complete genome",31-May-2017,['USA'],29874,Homo sapiens,2128.0,212.8
+35,MK062182.1,MK062182.1,"SARS coronavirus Urbani isolate icSARS-C3-MA, complete genome",30-May-2017,['USA'],29727,Homo sapiens,2213.0,158.07142857142858
+36,MK062181.1,MK062181.1,"SARS coronavirus Urbani isolate icSARS-C3, complete genome",29-May-2017,['USA'],29727,Homo sapiens,2213.0,158.07142857142858
+37,MK062180.1,MK062180.1,"SARS coronavirus Urbani isolate icSARS-MA, complete genome",28-May-2017,['USA'],29727,Homo sapiens,2361.0,295.125
+38,MK062179.1,MK062179.1,"SARS coronavirus Urbani isolate icSARS, complete genome",27-May-2017,['USA'],29727,Homo sapiens,2361.0,295.125
+39,KY417152.1,KY417152.1,"Bat SARS-like coronavirus isolate Rs9401, complete genome",16-Oct-2015,['China'],29769,Rhinolophus sinicus,1913.0,106.27777777777777
+40,KY417151.1,KY417151.1,"Bat SARS-like coronavirus isolate Rs7327, complete genome",24-Oct-2014,['China'],30307,Rhinolophus sinicus,1957.0,150.53846153846155
+41,KY417150.1,KY417150.1,"Bat SARS-like coronavirus isolate Rs4874, complete genome",21-Jul-2013,['China'],30311,Rhinolophus sinicus,2553.0,170.2
+42,KY417149.1,KY417149.1,"Bat SARS-like coronavirus isolate Rs4255, complete genome",17-Apr-2013,['China'],29743,Rhinolophus sinicus,2679.0,167.4375
+43,KY417148.1,KY417148.1,"Bat SARS-like coronavirus isolate Rs4247, complete genome",17-Apr-2013,['China'],29743,Rhinolophus sinicus,2592.0,288.0
+44,KY417147.1,KY417147.1,"Bat SARS-like coronavirus isolate Rs4237, complete genome",17-Apr-2013,['China'],29741,Rhinolophus sinicus,2735.0,210.3846153846154
+45,KY417146.1,KY417146.1,"Bat SARS-like coronavirus isolate Rs4231, complete genome",17-Apr-2013,['China'],29782,Rhinolophus sinicus,2462.0,175.85714285714286
+46,KY417145.1,KY417145.1,"Bat SARS-like coronavirus isolate Rf4092, complete genome",18-Sep-2012,['China'],29710,Rhinilophus ferrumequinum,1980.0,152.30769230769232
+47,KY417144.1,KY417144.1,"Bat SARS-like coronavirus isolate Rs4084, complete genome",18-Sep-2012,['China'],29770,Rhinolophus sinicus,1744.0,218.0
+48,KY417143.1,KY417143.1,"Bat SARS-like coronavirus isolate Rs4081, complete genome",18-Sep-2012,['China'],29741,Rhinolophus sinicus,2612.0,237.45454545454547
+49,KY417142.1,KY417142.1,"Bat SARS-like coronavirus isolate As6526, complete genome",12-May-2014,['China'],29725,Aselliscus stoliczkanus,2385.0,140.2941176470588
+50,KJ473816.1,KJ473816.1,"BtRs-BetaCoV/YN2013, complete genome",2013,['China'],29142,Rhinolophus sinicus,1781.0,222.625
+51,KJ473815.1,KJ473815.1,"BtRs-BetaCoV/GX2013, complete genome",2013,['China'],29161,Rhinolophus sinicus,1452.0,181.5
+52,KJ473814.1,KJ473814.1,"BtRs-BetaCoV/HuB2013, complete genome",2013,['China'],29658,Rhinolophus sinicus,2532.0,253.2
+53,KJ473813.1,KJ473813.1,"BtRf-BetaCoV/SX2013, complete genome",2013,['China'],29461,Rhinolophus ferrumequinum,1993.0,153.30769230769232
+54,KJ473812.1,KJ473812.1,"BtRf-BetaCoV/HeB2013, complete genome",2013,['China'],29443,Rhinolophus ferrumequinum,1372.0,98.0
+55,KJ473811.1,KJ473811.1,"BtRf-BetaCoV/JL2012, complete genome",2012,['China'],29037,Rhinolophus ferrumequinum,2225.0,139.0625
+56,JX993988.1,JX993988.1,"Bat coronavirus Cp/Yunnan2011, complete genome",2011,['China'],29452,Chaerephon plicata,2661.0,295.6666666666667
+57,JX993987.1,JX993987.1,"Bat coronavirus Rp/Shaanxi2011, complete genome",Sep-2011,['China'],29484,Rhinolophus pusillus,3234.0,179.66666666666666
+58,AY348314.1,AY348314.1,"SARS coronavirus Taiwan TC3, complete genome",25-JUL-2016,['Taiwan'],29573,,2355.0,294.375
+59,AY338175.1,AY338175.1,"SARS coronavirus Taiwan TC2, complete genome",25-JUL-2016,,29573,,2355.0,294.375
+60,AY338174.1,AY338174.1,"SARS coronavirus Taiwan TC1, complete genome",25-JUL-2016,,29573,,2355.0,294.375
+61,AY278741.1,AY278741.1,"SARS coronavirus Urbani, complete genome",25-JUL-2016,,29727,,2361.0,295.125
+62,DQ022305.2,DQ022305.2,"Bat SARS coronavirus HKU3-1, complete genome",25-OCT-2005,['China'],29728,,3088.0,220.57142857142858
+63,DQ084200.1,DQ084200.1,"bat SARS coronavirus HKU3-3, complete genome",28-SEP-2005,,29711,,2512.0,157.0
+64,DQ084199.1,DQ084199.1,"bat SARS coronavirus HKU3-2, complete genome",28-SEP-2005,,29687,,2542.0,141.22222222222223
+65,KP886809.1,KP886809.1,"Bat SARS-like coronavirus YNLF_34C, complete genome",23-May-2013,['China'],29723,Rhinolophus Ferrumequinum,2325.0,332.14285714285717
+66,KP886808.1,KP886808.1,"Bat SARS-like coronavirus YNLF_31C, complete genome",23-May-2013,['China'],29723,Rhinolophus Ferrumequinum,2269.0,378.1666666666667
+67,KF514423.1,KF514423.1,"SARS coronavirus wtic-MB strain SARS/VeroE6_lab/USA/WTic_c3P20/2009, complete genome",08-Jul-2009,"['USA: Nashville, TN']",29687,,2405.0,126.57894736842105
+68,KF514422.1,KF514422.1,"SARS coronavirus wtic-MB strain SARS/VeroE6_lab/USA/WTic_c1.3P20/2010, complete genome",01-Oct-2010,"['USA: Nashville, TN']",29687,,2405.0,126.57894736842105
+69,KF514421.1,KF514421.1,"SARS coronavirus wtic-MB strain SARS/VeroE6_lab/USA/WTic_c1.2P20/2010, complete genome",01-Oct-2010,"['USA: Nashville, TN']",29687,,2405.0,126.57894736842105
+70,KF514420.1,KF514420.1,"SARS coronavirus ExoN1 strain SARS/VeroE6_lab/USA/ExoN1_c5P10/2009, complete genome",19-May-2009,"['USA: Nashville, TN']",29687,,2405.0,126.57894736842105
+71,KF514419.1,KF514419.1,"SARS coronavirus wtic-MB strain SARS/VeroE6_lab/USA/WTic_c1P10/2009, complete genome",19-May-2009,"['USA: Nashville, TN']",29687,,2405.0,126.57894736842105
+72,KF514418.1,KF514418.1,"SARS coronavirus wtic-MB strain SARS/VeroE6_lab/USA/WTic_c3P1/2009, complete genome",18-Mar-2009,"['USA: Nashville, TN']",29687,,2405.0,126.57894736842105
+73,KF514417.1,KF514417.1,"SARS coronavirus ExoN1 strain SARS/VeroE6_lab/USA/ExoN1_c5.3P20/2010, complete genome",01-Oct-2010,"['USA: Nashville, TN']",29687,,2405.0,126.57894736842105
+74,KF514416.1,KF514416.1,"SARS coronavirus ExoN1 strain SARS/VeroE6_lab/USA/ExoN1_c5.8P20/2010, complete genome",01-Oct-2010,"['USA: Nashville, TN']",29687,,2405.0,126.57894736842105
+75,KF514415.1,KF514415.1,"SARS coronavirus wtic-MB strain SARS/VeroE6_lab/USA/WTic_c1.7P20/2010, complete genome",01-Oct-2010,"['USA: Nashville, TN']",29687,,2405.0,126.57894736842105
+76,KF514414.1,KF514414.1,"SARS coronavirus ExoN1 strain SARS/VeroE6_lab/USA/ExoN1_c5P20/2009, complete genome",08-Jul-2009,"['USA: Nashville, TN']",29687,,2405.0,126.57894736842105
+77,KF514413.1,KF514413.1,"SARS coronavirus wtic-MB strain SARS/VeroE6_lab/USA/WTic_c1.6P20/2010, complete genome",01-Oct-2010,"['USA: Nashville, TN']",29687,,2405.0,126.57894736842105
+78,KF514412.1,KF514412.1,"SARS coronavirus ExoN1 strain SARS/VeroE6_lab/USA/ExoN1_c13P20/2009, complete genome",08-Jul-2009,"['USA: Nashville, TN']",29687,,2405.0,126.57894736842105
+79,KF514411.1,KF514411.1,"SARS coronavirus ExoN1 strain SARS/VeroE6_lab/USA/ExoN1_c13P10/2009, complete genome",19-May-2009,"['USA: Nashville, TN']",29687,,2405.0,126.57894736842105
+80,KF514410.1,KF514410.1,"SARS coronavirus ExoN1 strain SARS/VeroE6_lab/USA/ExoN1_c8P20/2009, complete genome",08-Jul-2009,"['USA: Nashville, TN']",29687,,2405.0,126.57894736842105
+81,KF514409.1,KF514409.1,"SARS coronavirus wtic-MB strain SARS/VeroE6_lab/USA/WTic_c2P20/2009, complete genome",08-Jul-2009,"['USA: Nashville, TN']",29687,,2405.0,126.57894736842105
+82,KF514408.1,KF514408.1,"SARS coronavirus wtic-MB strain SARS/VeroE6_lab/USA/WTic_c2P1/2009, complete genome",18-Mar-2009,"['USA: Nashville, TN']",29687,,2405.0,126.57894736842105
+83,KF514407.1,KF514407.1,"SARS coronavirus ExoN1 strain SARS/VeroE6_lab/USA/ExoN1_c5.7P20/2010, complete genome",01-Oct-2010,"['USA: Nashville, TN']",29689,,2394.0,171.0
+84,KF514406.1,KF514406.1,"SARS coronavirus ExoN1 strain SARS/VeroE6_lab/USA/ExoN1_c13P1/2009, complete genome",18-Mar-2009,"['USA: Nashville, TN']",29687,,2405.0,126.57894736842105
+85,KF514405.1,KF514405.1,"SARS coronavirus ExoN1 strain SARS/VeroE6_lab/USA/ExoN1_c5.2P20/2010, complete genome",01-Oct-2010,"['USA: Nashville, TN']",29687,,2405.0,126.57894736842105
+86,KF514404.1,KF514404.1,"SARS coronavirus wtic-MB strain SARS/VeroE6_lab/USA/WTic_c1.9P20/2010, complete genome",01-Oct-2010,"['USA: Nashville, TN']",29687,,2405.0,126.57894736842105
+87,KF514403.1,KF514403.1,"SARS coronavirus ExoN1 strain SARS/VeroE6_lab/USA/ExoN1_c5.1P20/2010, complete genome",01-Oct-2010,"['USA: Nashville, TN']",29687,,2405.0,126.57894736842105
+88,KF514402.1,KF514402.1,"SARS coronavirus ExoN1 strain SARS/VeroE6_lab/USA/ExoN1_c5.6P20/2010, complete genome",01-Oct-2010,"['USA: Nashville, TN']",29687,,2405.0,126.57894736842105
+89,KF514401.1,KF514401.1,"SARS coronavirus ExoN1 strain SARS/VeroE6_lab/USA/ExoN1_c5.5P20/2010, complete genome",01-Oct-2010,"['USA: Nashville, TN']",29687,,2405.0,126.57894736842105
+90,KF514400.1,KF514400.1,"SARS coronavirus wtic-MB strain SARS/VeroE6_lab/USA/WTic_c1.8P20/2010, complete genome",01-Oct-2010,"['USA: Nashville, TN']",29687,,2405.0,126.57894736842105
+91,KF514399.1,KF514399.1,"SARS coronavirus wtic-MB strain SARS/VeroE6_lab/USA/WTic_c1.1P20/2010, complete genome",01-Oct-2010,"['USA: Nashville, TN']",29687,,2405.0,126.57894736842105
+92,KF514398.1,KF514398.1,"SARS coronavirus wtic-MB strain SARS/VeroE6_lab/USA/WTic_c1.10P20/2010, complete genome",01-Oct-2010,"['USA: Nashville, TN']",29687,,2405.0,126.57894736842105
+93,KF514397.1,KF514397.1,"SARS coronavirus wtic-MB strain SARS/VeroE6_lab/USA/WTic_c2P10/2009, complete genome",19-May-2009,"['USA: Nashville, TN']",29687,,2405.0,126.57894736842105
+94,KF514396.1,KF514396.1,"SARS coronavirus wtic-MB strain SARS/VeroE6_lab/USA/WTic_c3P10/2009, complete genome",19-May-2009,"['USA: Nashville, TN']",29687,,2405.0,126.57894736842105
+95,KF514395.1,KF514395.1,"SARS coronavirus ExoN1 strain SARS/VeroE6_lab/USA/ExoN1_c8P1/2009, complete genome",18-Mar-2009,"['USA: Nashville, TN']",29687,,2405.0,126.57894736842105
+96,KF514394.1,KF514394.1,"SARS coronavirus wtic-MB strain SARS/VeroE6_lab/USA/WTic_c1P20/2009, complete genome",08-Jul-2009,"['USA: Nashville, TN']",29687,,2405.0,126.57894736842105
+97,KF514393.1,KF514393.1,"SARS coronavirus ExoN1 strain SARS/VeroE6_lab/USA/ExoN1_c5.10P20/2010, complete genome",01-Oct-2010,"['USA: Nashville, TN']",29687,,2405.0,126.57894736842105
+98,KF514392.1,KF514392.1,"SARS coronavirus wtic-MB strain SARS/VeroE6_lab/USA/WTic_c1.4P20/2010, complete genome",01-Oct-2010,"['USA: Nashville, TN']",29687,,2405.0,126.57894736842105
+99,KF514391.1,KF514391.1,"SARS coronavirus ExoN1 strain SARS/VeroE6_lab/USA/ExoN1_c5.9P20/2010, complete genome",01-Oct-2010,"['USA: Nashville, TN']",29687,,2405.0,126.57894736842105
+100,KF514390.1,KF514390.1,"SARS coronavirus ExoN1 strain SARS/VeroE6_lab/USA/ExoN1_c5.4P20/2010, complete genome",01-Oct-2010,"['USA: Nashville, TN']",29687,,2405.0,126.57894736842105
+101,KF514389.1,KF514389.1,"SARS coronavirus ExoN1 strain SARS/VeroE6_lab/USA/ExoN1_c8P10/2009, complete genome",19-May-2009,"['USA: Nashville, TN']",29687,,2405.0,126.57894736842105
+102,KF514388.1,KF514388.1,"SARS coronavirus wtic-MB strain SARS/VeroE6_lab/USA/WTic_c1.5P20/2010, complete genome",01-Oct-2010,"['USA: Nashville, TN']",29687,,2405.0,126.57894736842105
+103,JF292922.1,JF292922.1,"SARS coronavirus ExoN1 isolate c5P1, complete genome",18-Mar-2009,"['USA: Nashville, TN']",29647,,2587.0,287.44444444444446
+104,JF292921.1,JF292921.1,"SARS coronavirus wtic-MB isolate c1P1, complete genome",18-Mar-2009,"['USA: Nashville, TN']",29646,,2587.0,287.44444444444446
+105,JF292920.1,JF292920.1,"SARS coronavirus MA15 isolate d3om5, complete genome",19-Sep-2008,"['USA: Nashville, TN']",29646,Mus musculus; old,2587.0,287.44444444444446
+106,JF292919.1,JF292919.1,"SARS coronavirus MA15 isolate d3om4, complete genome",19-Sep-2008,"['USA: Nashville, TN']",29646,Mus musculus; old,2587.0,287.44444444444446
+107,JF292918.1,JF292918.1,"SARS coronavirus MA15 isolate d3om3, complete genome",19-Sep-2008,"['USA: Nashville, TN']",29646,Mus musculus; old,2587.0,287.44444444444446
+108,JF292917.1,JF292917.1,"SARS coronavirus MA15 isolate d3om2, complete genome",19-Sep-2008,"['USA: Nashville, TN']",29646,Mus musculus; old,2587.0,287.44444444444446
+109,JF292916.1,JF292916.1,"SARS coronavirus MA15 isolate d3om1, complete genome",19-Sep-2008,"['USA: Nashville, TN']",29646,Mus musculus; old,2587.0,287.44444444444446
+110,JF292915.1,JF292915.1,"SARS coronavirus MA15 isolate d4ym5, complete genome",10-Oct-2008,"['USA: Nashville, TN']",29646,Mus musculus; young,2587.0,287.44444444444446
+111,JF292914.1,JF292914.1,"SARS coronavirus MA15 isolate d4ym4, complete genome",10-Oct-2008,"['USA: Nashville, TN']",29646,Mus musculus; young,2587.0,287.44444444444446
+112,JF292913.1,JF292913.1,"SARS coronavirus MA15 isolate d4ym3, complete genome",10-Oct-2008,"['USA: Nashville, TN']",29646,Mus musculus; young,2587.0,287.44444444444446
+113,JF292912.1,JF292912.1,"SARS coronavirus MA15 isolate d4ym2, complete genome",10-Oct-2008,"['USA: Nashville, TN']",29646,Mus musculus; young,2587.0,287.44444444444446
+114,JF292911.1,JF292911.1,"SARS coronavirus MA15 isolate d4ym1, complete genome",10-Oct-2008,"['USA: Nashville, TN']",29646,Mus musculus; young,2587.0,287.44444444444446
+115,JF292910.1,JF292910.1,"SARS coronavirus MA15 isolate d2ym5, complete genome",10-Aug-2008,"['USA: Nashville, TN']",29646,Mus musculus; young,2587.0,287.44444444444446
+116,JF292909.1,JF292909.1,"SARS coronavirus MA15 isolate d2ym4, complete genome",10-Aug-2008,"['USA: Nashville, TN']",29646,Mus musculus; young,2587.0,287.44444444444446
+117,JF292908.1,JF292908.1,"SARS coronavirus MA15 isolate d2ym3, complete genome",10-Aug-2008,"['USA: Nashville, TN']",29646,Mus musculus; young,2587.0,287.44444444444446
+118,JF292907.1,JF292907.1,"SARS coronavirus MA15 isolate d2ym2, complete genome",10-Aug-2008,"['USA: Nashville, TN']",29646,Mus musculus; young,2587.0,287.44444444444446
+119,JF292906.1,JF292906.1,"SARS coronavirus MA15 ExoN1 isolate d3om5, complete genome",18-Sep-2008,"['USA: Nashville, TN']",29646,Mus musculus; old,2585.0,258.5
+120,JF292905.1,JF292905.1,"SARS coronavirus MA15 ExoN1 isolate d3om4, complete genome",18-Sep-2008,"['USA: Nashville, TN']",29646,Mus musculus; old,2585.0,258.5
+121,JF292904.1,JF292904.1,"SARS coronavirus MA15 ExoN1 isolate d3om3, complete genome",18-Sep-2008,"['USA: Nashville, TN']",29645,Mus musculus; old,2585.0,258.5
+122,JF292903.1,JF292903.1,"SARS coronavirus MA15 ExoN1 isolate d4ym5, complete genome",10-Oct-2008,"['USA: Nashville, TN']",29645,Mus musculus; young,2585.0,258.5
+123,JF292902.1,JF292902.1,"SARS coronavirus MA15 ExoN1 isolate d4ym4, complete genome",10-Oct-2008,"['USA: Nashville, TN']",29646,Mus musculus; young,2585.0,258.5
+124,HQ890546.1,HQ890546.1,"SARS coronavirus MA15 isolate d2om5, complete genome",17-Sep-2008,"['USA: Nashville, TN']",29646,Mus musculus; old,2587.0,287.44444444444446
+125,HQ890545.1,HQ890545.1,"SARS coronavirus MA15 isolate d2om4, complete genome",17-Sep-2008,"['USA: Nashville, TN']",29646,Mus musculus; old,2587.0,287.44444444444446
+126,HQ890544.1,HQ890544.1,"SARS coronavirus MA15 isolate d2om3, complete genome",17-Sep-2008,"['USA: Nashville, TN']",29646,Mus musculus; old,2587.0,287.44444444444446
+127,HQ890543.1,HQ890543.1,"SARS coronavirus MA15 isolate d2om2, complete genome",17-Sep-2008,"['USA: Nashville, TN']",29646,Mus musculus; old,2587.0,287.44444444444446
+128,HQ890542.1,HQ890542.1,"SARS coronavirus MA15 isolate d2om1, complete genome",17-Sep-2008,"['USA: Nashville, TN']",29646,Mus musculus; old,2587.0,287.44444444444446
+129,HQ890541.1,HQ890541.1,"SARS coronavirus MA15 isolate d2ym1, complete genome",08-Oct-2008,"['USA: Nashville, TN']",29646,Mus musculus; young,2587.0,287.44444444444446
+130,HQ890540.1,HQ890540.1,"SARS coronavirus MA15 ExoN1 isolate d3om2, complete genome",18-Sep-2008,"['USA: Nashville, TN']",29646,Mus musculus; old,2585.0,258.5
+131,HQ890539.1,HQ890539.1,"SARS coronavirus MA15 ExoN1 isolate d3om1, complete genome",18-Sep-2008,"['USA: Nashville, TN']",29646,Mus musculus; old,2585.0,258.5
+132,HQ890538.1,HQ890538.1,"SARS coronavirus MA15 ExoN1 isolate d2om5, complete genome",17-Sep-2008,"['USA: Nashville, TN']",29646,Mus musculus; old,2585.0,258.5
+133,HQ890537.1,HQ890537.1,"SARS coronavirus MA15 ExoN1 isolate d2om4, complete genome",17-Sep-2008,"['USA: Nashville, TN']",29646,Mus musculus; old,2585.0,258.5
+134,HQ890536.1,HQ890536.1,"SARS coronavirus MA15 ExoN1 isolate d2om3, complete genome",17-Sep-2008,"['USA: Nashville, TN']",29646,Mus musculus; old,2585.0,258.5
+135,HQ890535.1,HQ890535.1,"SARS coronavirus MA15 ExoN1 isolate d2om2, complete genome",17-Sep-2008,"['USA: Nashville, TN']",29646,Mus musculus; old,2585.0,258.5
+136,HQ890534.1,HQ890534.1,"SARS coronavirus MA15 ExoN1 isolate d2om1, complete genome",17-Sep-2008,"['USA: Nashville, TN']",29646,Mus musculus; old,2585.0,258.5
+137,HQ890533.1,HQ890533.1,"SARS coronavirus MA15 ExoN1 isolate d4ym3, complete genome",10-Oct-2008,"['USA: Nashville, TN']",29646,Mus musculus; young,2585.0,258.5
+138,HQ890532.1,HQ890532.1,"SARS coronavirus MA15 ExoN1 isolate d4ym2, complete genome",10-Oct-2008,"['USA: Nashville, TN']",29645,Mus musculus; young,2585.0,258.5
+139,HQ890531.1,HQ890531.1,"SARS coronavirus MA15 ExoN1 isolate d4ym1, complete genome",10-Oct-2008,"['USA: Nashville, TN']",29645,Mus musculus; young,2585.0,258.5
+140,HQ890530.1,HQ890530.1,"SARS coronavirus MA15 ExoN1 isolate d2ym5, complete genome",08-Oct-2008,"['USA: Nashville, TN']",29646,Mus musculus; young,2585.0,258.5
+141,HQ890529.1,HQ890529.1,"SARS coronavirus MA15 ExoN1 isolate d2ym4, complete genome",08-Oct-2008,"['USA: Nashville, TN']",29646,Mus musculus; young,2585.0,258.5
+142,HQ890528.1,HQ890528.1,"SARS coronavirus MA15 ExoN1 isolate d2ym3, complete genome",08-Oct-2008,"['USA: Nashville, TN']",29646,Mus musculus; young,2585.0,258.5
+143,HQ890527.1,HQ890527.1,"SARS coronavirus MA15 ExoN1 isolate d2ym2, complete genome",08-Oct-2008,"['USA: Nashville, TN']",29646,Mus musculus; young,2585.0,258.5
+144,HQ890526.1,HQ890526.1,"SARS coronavirus MA15 ExoN1 isolate d2ym1, complete genome",08-Oct-2008,"['USA: Nashville, TN']",29646,Mus musculus; young,2585.0,258.5
+145,KF569996.1,KF569996.1,"Rhinolophus affinis coronavirus isolate LYRa11, complete genome",2011,['China'],29805,Rhinolophus affinis,2034.0,290.57142857142856
+146,KC881006.1,KC881006.1,"Bat SARS-like coronavirus Rs3367, complete genome",19-Mar-2012,['China'],29792,Rhinolophus sinicus,1828.0,114.25
+147,KC881005.1,KC881005.1,"Bat SARS-like coronavirus RsSHC014, complete genome",17-Apr-2011,['China'],29787,Rhinolophus sinicus,2013.0,105.94736842105263
+148,KF367457.1,KF367457.1,"Bat SARS-like coronavirus WIV1, complete genome",Sep-2012,['China'],30309,Rhinolophus sinicus,1811.0,164.63636363636363
+149,JX162087.1,JX162087.1,"SARS coronavirus ExoN1 isolate c5P10, complete genome",01-Jan-2009,['USA: Tennessee'],29688,,2384.0,158.93333333333334
+150,JN854286.1,JN854286.1,"SARS coronavirus HKU-39849 isolate recSARS-CoV HKU-39849, complete genome",16-Apr-2003,['United Kingdom'],29727,,2361.0,295.125
+151,JQ316196.1,JQ316196.1,"SARS coronavirus HKU-39849 isolate UOB, complete genome",16-Apr-2003,['United Kingdom'],29727,,2361.0,295.125
+152,DQ412043.1,DQ412043.1,"Bat SARS coronavirus Rm1, complete genome",13-JUL-2006,,29749,Rhinolophus macrotis,2870.0,179.375
+153,DQ412042.1,DQ412042.1,"Bat SARS coronavirus Rf1, complete genome",13-JUL-2006,,29709,Rhinolophus ferrumequinum,1991.0,142.21428571428572
+154,AY595412.1,AY595412.1,"SARS coronavirus LLJ-2004, complete genome",07-DEC-2006,,29716,,2172.0,197.45454545454547
+155,AY463060.1,AY463060.1,"SARS coronavirus ShanghaiQXC2, complete genome",05-JAN-2004,,29013,,2674.0,191.0
+156,AY463059.1,AY463059.1,"SARS coronavirus ShanghaiQXC1, complete genome",05-JAN-2004,,29592,,2341.0,234.1
+157,AY485278.1,AY485278.1,"SARS coronavirus Sino3-11, complete genome",18-NOV-2005,,29740,,2366.0,295.75
+158,AY485277.1,AY485277.1,"SARS coronavirus Sino1-11, complete genome",18-NOV-2005,,29741,,2324.0,232.4
+159,FJ882960.1,FJ882960.1,"SARS coronavirus ExoN1 isolate P3pp34, complete genome",06-Aug-2008,['USA: Tennessee'],29646,,2586.0,287.3333333333333
+160,FJ882956.1,FJ882956.1,"SARS coronavirus ExoN1 isolate P3pp53, complete genome",06-Aug-2008,['USA: Tennessee'],29644,,2587.0,287.44444444444446
+161,FJ882955.1,FJ882955.1,"SARS coronavirus ExoN1 isolate P3pp19, complete genome",28-Mar-2008,['USA: Tennessee'],29646,,2587.0,287.44444444444446
+162,FJ882954.1,FJ882954.1,"SARS coronavirus ExoN1 isolate P3pp46, complete genome",06-Aug-2008,['USA: Tennessee'],29636,,2468.0,205.66666666666666
+163,FJ882950.1,FJ882950.1,"SARS coronavirus ExoN1 isolate P3pp60, complete genome",06-Aug-2008,['USA: Tennessee'],29646,,2587.0,287.44444444444446
+164,FJ882949.1,FJ882949.1,"SARS coronavirus wtic-MB isolate P3pp23, complete genome",28-Mar-2008,['USA: Tennessee'],29647,,2533.0,140.72222222222223
+165,FJ882947.1,FJ882947.1,"SARS coronavirus wtic-MB isolate P3pp7, complete genome",28-Mar-2008,['USA: Tennessee'],29616,,2385.0,340.7142857142857
+166,FJ882946.1,FJ882946.1,"SARS coronavirus wtic-MB isolate P3pp13, complete genome",28-Mar-2008,['USA: Tennessee'],29647,,2533.0,140.72222222222223
+167,FJ882944.1,FJ882944.1,"SARS coronavirus ExoN1 isolate P3pp23, complete genome",28-Mar-2008,['USA: Tennessee'],29628,,2357.0,235.7
+168,FJ882941.1,FJ882941.1,"SARS coronavirus ExoN1 isolate P3pp8, complete genome",28-Mar-2008,['USA: Tennessee'],29665,,2637.0,219.75
+169,FJ882940.1,FJ882940.1,"SARS coronavirus ExoN1 isolate P3pp37, complete genome",06-Aug-2008,['USA: Tennessee'],29646,,2587.0,287.44444444444446
+170,FJ882939.1,FJ882939.1,"SARS coronavirus wtic-MB isolate P3pp16, complete genome",28-Mar-2008,['USA: Tennessee'],29646,,2587.0,287.44444444444446
+171,FJ882938.1,FJ882938.1,"SARS coronavirus wtic-MB, complete genome",22-Sep-2007,['USA: Tennessee'],29687,,2405.0,126.57894736842105
+172,FJ882937.1,FJ882937.1,"SARS coronavirus wtic-MB isolate P3pp18, complete genome",28-Mar-2008,['USA: Tennessee'],29648,,2619.0,174.6
+173,FJ882936.1,FJ882936.1,"SARS coronavirus wtic-MB isolate P3pp2, complete genome",28-Mar-2008,['USA: Tennessee'],29646,,2587.0,287.44444444444446
+174,FJ882935.1,FJ882935.1,"SARS coronavirus wtic-MB isolate P3pp21, complete genome",28-Mar-2008,['USA: Tennessee'],29647,,2533.0,140.72222222222223
+175,FJ882934.1,FJ882934.1,"SARS coronavirus wtic-MB isolate P3pp29, complete genome",28-Mar-2008,['USA: Tennessee'],29647,,2587.0,287.44444444444446
+176,FJ882933.1,FJ882933.1,"SARS coronavirus wtic-MB isolate P3pp6, complete genome",28-Mar-2008,['USA: Tennessee'],29648,,2619.0,174.6
+177,FJ882932.1,FJ882932.1,"SARS coronavirus wtic-MB isolate P3pp14, complete genome",28-Mar-2008,['USA: Tennessee'],29646,,2587.0,287.44444444444446
+178,FJ882931.1,FJ882931.1,"SARS coronavirus ExoN1 isolate P3pp12, complete genome",28-Mar-2008,['USA: Tennessee'],29646,,2587.0,287.44444444444446
+179,FJ882930.1,FJ882930.1,"SARS coronavirus ExoN1, complete genome",22-Sep-2007,['USA: Tennessee'],29687,,2405.0,126.57894736842105
+180,FJ882929.1,FJ882929.1,"SARS coronavirus ExoN1 isolate P3pp1, complete genome",28-Mar-2008,['USA: Tennessee'],29665,,2830.0,202.14285714285714
+181,FJ882928.1,FJ882928.1,"SARS coronavirus ExoN1 isolate P1pp1, complete genome",28-Aug-2007,['USA: Tennessee'],29687,,2405.0,126.57894736842105
+182,FJ882927.1,FJ882927.1,"SARS coronavirus wtic-MB isolate P1pp1, complete genome",26-Sep-2007,['USA: Tennessee'],29687,,2405.0,126.57894736842105
+183,FJ882926.1,FJ882926.1,"SARS coronavirus ExoN1, complete genome",22-Sep-2007,['USA: Tennessee'],29675,,2832.0,177.0
+184,GQ153548.1,GQ153548.1,"Bat SARS coronavirus HKU3-13, complete genome",05-APR-2010,,29677,,2588.0,99.53846153846153
+185,GQ153547.1,GQ153547.1,"Bat SARS coronavirus HKU3-12, complete genome",05-APR-2010,,29704,,2932.0,146.6
+186,GQ153546.1,GQ153546.1,"Bat SARS coronavirus HKU3-11, complete genome",05-APR-2010,,29695,,2669.0,140.47368421052633
+187,GQ153545.1,GQ153545.1,"Bat SARS coronavirus HKU3-10, complete genome",05-APR-2010,,29695,,2663.0,126.80952380952381
+188,GQ153544.1,GQ153544.1,"Bat SARS coronavirus HKU3-9, complete genome",05-APR-2010,,29695,,2663.0,126.80952380952381
+189,GQ153543.1,GQ153543.1,"Bat SARS coronavirus HKU3-8, complete genome",05-APR-2010,,29681,,2887.0,144.35
+190,GQ153542.1,GQ153542.1,"Bat SARS coronavirus HKU3-7, complete genome",05-APR-2010,,29716,,2674.0,148.55555555555554
+191,GQ153541.1,GQ153541.1,"Bat SARS coronavirus HKU3-6, complete genome",05-APR-2010,,29704,,3076.0,180.94117647058823
+192,GQ153540.1,GQ153540.1,"Bat SARS coronavirus HKU3-5, complete genome",05-APR-2010,,29704,,3344.0,196.7058823529412
+193,GQ153539.1,GQ153539.1,"Bat SARS coronavirus HKU3-4, complete genome",05-APR-2010,,29704,,3061.0,180.05882352941177
+194,FJ588686.1,FJ588686.1,"Bat SARS CoV Rs672/2006, complete genome",2006,['China'],29059,Rhinolophus sinicus,2392.0,199.33333333333334
+195,AY282752.2,AY282752.2,"SARS coronavirus CUHK-Su10, complete genome",17-NOV-2003,,29736,,2337.0,179.76923076923077
+196,AY310120.1,AY310120.1,"SARS coronavirus FRA, complete genome",12-DEC-2003,,29740,,2361.0,295.125
+197,AY291315.1,AY291315.1,"SARS coronavirus Frankfurt 1, complete genome",16-MAR-2004,,29727,,2361.0,295.125
+198,AY313906.1,AY313906.1,"SARS coronavirus GD69, complete genome",28-FEB-2005,"['China: Jiangmen, Guangdong']",29754,,2266.0,206.0
+199,AY283798.2,AY283798.2,"SARS coronavirus Sin2774, complete genome",02-OCT-2003,['Singapore'],29711,,2422.0,151.375
+200,AY283797.1,AY283797.1,"SARS coronavirus Sin2748, complete genome",12-AUG-2003,['Singapore'],29706,,2589.0,172.6
+201,AY283796.1,AY283796.1,"SARS coronavirus Sin2679, complete genome",12-AUG-2003,['Singapore'],29711,,2422.0,151.375
+202,AY283795.1,AY283795.1,"SARS coronavirus Sin2677, complete genome",12-AUG-2003,['Singapore'],29705,,2576.0,171.73333333333332
+203,AY283794.1,AY283794.1,"SARS coronavirus Sin2500, complete genome",12-AUG-2003,['Singapore'],29711,,2422.0,151.375
+204,GU553365.1,GU553365.1,"SARS coronavirus HKU-39849 isolate TCVSP-HARROD-00003, complete genome",05-Dec-2007,['USA'],29644,Chlorocebus aethiops,2549.0,254.9
+205,GU553364.1,GU553364.1,"SARS coronavirus HKU-39849 isolate TCVSP-HARROD-00002, complete genome",07-Jun-2003,['China: Hong Kong'],29644,Homo sapiens,2543.0,254.3
+206,GU553363.1,GU553363.1,"SARS coronavirus HKU-39849 isolate TCVSP-HARROD-00001, complete genome",07-Jun-2003,['China: Hong Kong'],29644,Homo sapiens,2543.0,254.3
+207,AY686864.1,AY686864.1,"SARS coronavirus B039, complete genome",08-JUL-2005,,29525,palm civet,2656.0,166.0
+208,AY279354.2,AY279354.2,"SARS coronavirus BJ04, complete genome",01-SEP-2009,,29732,,2422.0,151.375
+209,AY278490.3,AY278490.3,"SARS coronavirus BJ03, complete genome",01-SEP-2009,,29740,,2780.0,126.36363636363636
+210,AY278487.3,AY278487.3,"SARS coronavirus BJ02, complete genome",01-SEP-2009,,29745,,2361.0,295.125
+211,AY278488.2,AY278488.2,"SARS coronavirus BJ01, complete genome",01-SEP-2009,,29725,,2373.0,118.65
+212,DQ071615.1,DQ071615.1,"Bat SARS coronavirus Rp3, complete genome",25-JAN-2006,['China'],29736,bat,2121.0,117.83333333333333
+213,AY304488.1,AY304488.1,"SARS coronavirus SZ16, complete genome",05-NOV-2003,['Hong Kong'],29731,,2449.0,136.05555555555554
+214,AY304486.1,AY304486.1,"SARS coronavirus SZ3, complete genome",05-NOV-2003,['Hong Kong'],29741,,2455.0,136.38888888888889
+215,FJ882962.1,FJ882962.1,"SARS coronavirus MA15 ExoN1 isolate P3pp10, complete genome",18-Dec-2008,['USA: Tennessee'],29721,,2929.0,195.26666666666668
+216,FJ882961.1,FJ882961.1,"SARS coronavirus MA15 isolate P3pp5, complete genome",25-Nov-2008,['USA: Tennessee'],29720,,2926.0,182.875
+217,FJ882959.1,FJ882959.1,"SARS coronavirus MA15 ExoN1 isolate P3pp6, complete genome",26-Nov-2008,['USA: Tennessee'],29721,,2929.0,195.26666666666668
+218,FJ882958.1,FJ882958.1,"SARS coronavirus MA15 isolate P3pp7, complete genome",25-Nov-2008,['USA: Tennessee'],29720,,2926.0,182.875
+219,FJ882957.1,FJ882957.1,"SARS coronavirus MA15, complete genome",25-Nov-2008,['USA: Tennessee'],29720,,2935.0,195.66666666666666
+220,FJ882953.1,FJ882953.1,"SARS coronavirus MA15 ExoN1 isolate P3pp4, complete genome",26-Nov-2008,['USA: Tennessee'],29648,,2620.0,174.66666666666666
+221,FJ882952.1,FJ882952.1,"SARS coronavirus MA15 isolate P3pp4, complete genome",25-Nov-2008,['USA: Tennessee'],29720,,2926.0,182.875
+222,FJ882951.1,FJ882951.1,"SARS coronavirus MA15 ExoN1 isolate P3pp3, complete genome",26-Nov-2008,['USA: Tennessee'],29721,,2929.0,195.26666666666668
+223,FJ882948.1,FJ882948.1,"SARS coronavirus MA15 isolate P3pp3, complete genome",25-Nov-2008,['USA: Tennessee'],29720,,2926.0,182.875
+224,FJ882945.1,FJ882945.1,"SARS coronavirus MA15 isolate P3pp6, complete genome",25-Nov-2008,['USA: Tennessee'],29720,,2926.0,182.875
+225,FJ882943.1,FJ882943.1,"SARS coronavirus MA15 ExoN1, complete genome",21-Nov-2008,['USA: North Carolina'],29720,,2923.0,171.94117647058823
+226,FJ882942.1,FJ882942.1,"SARS coronavirus MA15 ExoN1 isolate P3pp5, complete genome",26-Nov-2008,['USA: Tennessee'],29721,,3080.0,220.0
+227,DQ648857.1,DQ648857.1,"Bat coronavirus (BtCoV/279/2005), complete genome",19-JUL-2006,,29741,,3332.0,166.6
+228,DQ648856.1,DQ648856.1,"Bat coronavirus (BtCoV/273/2005), complete genome",19-JUL-2006,,29704,,2247.0,187.25
+229,AY864805.1,AY864805.1,"SARS coronavirus BJ162, complete genome",08-JUN-2006,['China: Beijing'],29751,,2361.0,295.125
+230,AY686863.1,AY686863.1,"SARS coronavirus A022, complete genome",21-JUL-2006,,29499,,2476.0,412.6666666666667
+231,AY714217.1,AY714217.1,"SARS Coronavirus CDC#200301157, complete genome",28-SEP-2004,['USA'],29727,,2361.0,295.125
+232,AY572038.1,AY572038.1,"SARS coronavirus civet020, complete genome",01-DEC-2005,['China: Southern China'],29683,civet,2527.0,252.7
+233,AY572035.1,AY572035.1,"SARS coronavirus civet010, complete genome",01-DEC-2005,['China: Southern China'],29518,civet,2535.0,253.5
+234,AY572034.1,AY572034.1,"SARS coronavirus civet007, complete genome",01-DEC-2005,['China: Southern China'],29540,civet,2921.0,162.27777777777777
+235,AY654624.1,AY654624.1,"SARS coronavirus TJF, complete genome",07-MAR-2005,,29745,,2405.0,185.0
+236,AY390556.1,AY390556.1,"SARS coronavirus GZ02, complete genome",31-JAN-2004,['China: Guangzhou'],29760,,2131.0,266.375
+237,AY508724.1,AY508724.1,"SARS coronavirus NS-1, complete genome",17-JAN-2004,,29732,,2422.0,151.375
+238,AY502932.1,AY502932.1,"SARS coronavirus TW9, complete genome",25-FEB-2004,['Taiwan'],29729,,2357.0,235.7
+239,AY502931.1,AY502931.1,"SARS coronavirus TW8, complete genome",25-FEB-2004,['Taiwan'],29729,,2361.0,295.125
+240,AY502930.1,AY502930.1,"SARS coronavirus TW7, complete genome",25-FEB-2004,['Taiwan'],29729,,2361.0,295.125
+241,AY502929.1,AY502929.1,"SARS coronavirus TW6, complete genome",25-FEB-2004,['Taiwan'],29729,,2361.0,295.125
+242,AY502928.1,AY502928.1,"SARS coronavirus TW5, complete genome",25-FEB-2004,['Taiwan'],29729,,2361.0,295.125
+243,AY502927.1,AY502927.1,"SARS coronavirus TW4, complete genome",25-FEB-2004,['Taiwan'],29729,,2361.0,295.125
+244,AY502926.1,AY502926.1,"SARS coronavirus TW3, complete genome",25-FEB-2004,['Taiwan'],29729,,2361.0,295.125
+245,AY502925.1,AY502925.1,"SARS coronavirus TW2, complete genome",25-FEB-2004,['Taiwan'],29729,,2361.0,295.125
+246,AY502924.1,AY502924.1,"SARS coronavirus TW11, complete genome",25-FEB-2004,['Taiwan'],29727,,2354.0,294.25
+247,AY502923.1,AY502923.1,"SARS coronavirus TW10, complete genome",25-FEB-2004,['Taiwan'],29729,,2361.0,295.125
+248,AY357076.1,AY357076.1,"SARS coronavirus PUMC03, complete genome",17-NOV-2003,,29745,,2553.0,196.3846153846154
+249,AY357075.1,AY357075.1,"SARS coronavirus PUMC02, complete genome",17-NOV-2003,,29738,,2392.0,184.0
+250,AY350750.1,AY350750.1,"SARS coronavirus PUMC01, complete genome",17-NOV-2003,,29738,,2621.0,131.05
+251,AY427439.1,AY427439.1,"SARS coronavirus AS, complete genome",21-OCT-2003,,29711,,2422.0,151.375
+252,AY345988.1,AY345988.1,"SARS coronavirus CUHK-AG03, complete genome",29-NOV-2003,,29736,,2398.0,149.875
+253,AY345987.1,AY345987.1,"SARS coronavirus CUHK-AG02, complete genome",29-NOV-2003,,29736,,2398.0,149.875
+254,AY345986.1,AY345986.1,"SARS coronavirus CUHK-AG01, complete genome",29-NOV-2003,,29736,,2398.0,149.875
+255,AY278554.2,AY278554.2,"SARS coronavirus CUHK-W1, complete genome",31-JUL-2003,"['China: Hong Kong, Prince of Wales Hospital']",29736,,2398.0,149.875
+256,DQ182595.1,DQ182595.1,"SARS coronavirus ZJ0301 from China, complete genome",21-Apr-2003,['China: Hangzhou'],29706,,2405.0,160.33333333333334
+257,AY323977.2,AY323977.2,"SARS coronavirus HSR 1, complete genome",18-MAR-2004,['Italy'],29751,,2361.0,295.125
+258,AY291451.1,AY291451.1,"SARS coronavirus TW1, complete genome",25-FEB-2004,['Taiwan'],29729,,2361.0,295.125
+259,FJ882963.1,FJ882963.1,"SARS coronavirus P2, complete genome",10-Aug-2004,['USA'],29682,Homo sapiens,2373.0,118.65
+260,AY772062.1,AY772062.1,"SARS coronavirus WH20, complete genome",25-MAR-2009,,29461,,2349.0,293.625
+261,EU371564.1,EU371564.1,"SARS coronavirus BJ182-12, complete genome",06-JAN-2009,,29512,,2329.0,332.7142857142857
+262,EU371563.1,EU371563.1,"SARS coronavirus BJ182-8, complete genome",06-JAN-2009,,29602,,2455.0,245.5
+263,EU371562.1,EU371562.1,"SARS coronavirus BJ182-4, complete genome",06-JAN-2009,,29602,,2455.0,245.5
+264,EU371561.1,EU371561.1,"SARS coronavirus BJ182b, complete genome",06-JAN-2009,,29602,,2455.0,245.5
+265,EU371560.1,EU371560.1,"SARS coronavirus BJ182a, complete genome",06-JAN-2009,,29731,,2507.0,313.375
+266,EU371559.1,EU371559.1,"SARS coronavirus ZJ02, complete genome",06-JAN-2009,,29731,,2361.0,295.125
+267,DJ066921.1,DJ066921.1,A sensitive and specific test to detect SARS coronavirus,23-JAN-2008,,29727,,2361.0,295.125
+268,AY864806.1,AY864806.1,"SARS coronavirus BJ202, complete genome",14-SEP-2006,,29751,,2361.0,295.125
+269,DQ640652.1,DQ640652.1,"SARS coronavirus GDH-BJH01, complete genome",12-JUN-2006,['China'],29746,Homo sapiens,2635.0,202.69230769230768
+270,AP006561.1,AP006561.1,"SARS coronavirus TWY genomic RNA, complete genome",17-MAY-2006,,29727,,2361.0,295.125
+271,AP006560.1,AP006560.1,"SARS coronavirus TWS genomic RNA, complete genome",17-MAY-2006,,29727,,2361.0,295.125
+272,AP006559.1,AP006559.1,"SARS coronavirus TWK genomic RNA, complete genome",17-MAY-2006,,29727,,2361.0,295.125
+273,AP006558.1,AP006558.1,"SARS coronavirus TWJ genomic RNA, complete genome",17-MAY-2006,,29725,,2366.0,295.75
+274,AP006557.1,AP006557.1,"SARS coronavirus TWH genomic RNA, complete genome",17-MAY-2006,,29727,,2361.0,295.125
+275,AB257344.1,AB257344.1,"SARS coronavirus Frankfurt 1 genomic RNA, nearly complete genome, clone: persistent virus #21",19-APR-2006,,29632,,2437.0,162.46666666666667
+276,AY394850.2,AY394850.2,"SARS coronavirus WHU, complete genome",10-MAY-2005,,29728,,2395.0,239.5
+277,AY545919.1,AY545919.1,"SARS coronavirus isolate CFB/SZ/94/03, complete genome",01-MAR-2005,['China'],29739,,2590.0,185.0
+278,AY545918.1,AY545918.1,"SARS coronavirus isolate HC/GZ/32/03, complete genome",01-MAR-2005,['China'],29737,,2637.0,202.84615384615384
+279,AY545917.1,AY545917.1,"SARS coronavirus isolate HC/GZ/81/03, complete genome",01-MAR-2005,['China'],29739,,2570.0,171.33333333333334
+280,AY545916.1,AY545916.1,"SARS coronavirus isolate HC/SZ/266/03, complete genome",01-MAR-2005,['China'],29721,,2637.0,202.84615384615384
+281,AY545915.1,AY545915.1,"SARS coronavirus isolate HC/SZ/DM1/03, complete genome",01-MAR-2005,['China'],29714,,3017.0,143.66666666666666
+282,AY545914.1,AY545914.1,"SARS coronavirus isolate HC/SZ/79/03, complete genome",01-MAR-2005,['China: Shenzhen'],29723,,2570.0,151.1764705882353
+283,AY613950.1,AY613950.1,"SARS coronavirus PC4-227, complete genome",28-FEB-2005,['China'],29728,palm civet,2466.0,411.0
+284,AY613949.1,AY613949.1,"SARS coronavirus PC4-136, complete genome",28-FEB-2005,['China'],29730,palm civet,2464.0,410.6666666666667
+285,AY613948.1,AY613948.1,"SARS coronavirus PC4-13, complete genome",28-FEB-2005,['China'],29730,palm civet,2484.0,414.0
+286,AY613947.1,AY613947.1,"SARS coronavirus GZ0402, complete genome",28-FEB-2005,['China'],29730,,2465.0,410.8333333333333
+287,AY568539.1,AY568539.1,"SARS coronavirus GZ0401, complete genome",28-FEB-2005,"['China: December 22, 2003']",29730,,2467.0,493.4
+288,AY515512.1,AY515512.1,"SARS coronavirus HC/SZ/61/03, complete genome",01-JAN-2005,['China'],29731,Paguma larvata (Himalayan palm civets),2479.0,130.47368421052633
+289,AY559097.1,AY559097.1,"SARS coronavirus Sin3408L, complete genome",24-SEP-2004,['Singapore'],29715,,2588.0,184.85714285714286
+290,AY559096.1,AY559096.1,"SARS coronavirus Sin850, complete genome",24-SEP-2004,['Singapore'],29720,,2958.0,140.85714285714286
+291,AY559095.1,AY559095.1,"SARS coronavirus Sin847, complete genome",24-SEP-2004,['Singapore'],29719,,2717.0,209.0
+292,AY559094.1,AY559094.1,"SARS coronavirus Sin846, complete genome",24-SEP-2004,['Singapore'],29577,,2550.0,212.5
+293,AY559093.1,AY559093.1,"SARS coronavirus Sin845, complete genome",24-SEP-2004,['Singapore'],29712,,2425.0,161.66666666666666
+294,AY559092.1,AY559092.1,"SARS coronavirus SinP5, complete genome",24-SEP-2004,['Singapore'],29713,,2436.0,143.2941176470588
+295,AY559091.1,AY559091.1,"SARS coronavirus SinP4, complete genome",24-SEP-2004,['Singapore'],29710,,2422.0,151.375
+296,AY559090.1,AY559090.1,"SARS coronavirus SinP3, complete genome",24-SEP-2004,['Singapore'],29725,,2658.0,132.9
+297,AY559089.1,AY559089.1,"SARS coronavirus SinP2, complete genome",24-SEP-2004,['Singapore'],29717,,2673.0,148.5
+298,AY559088.1,AY559088.1,"SARS coronavirus SinP1, complete genome",24-SEP-2004,['Singapore'],29714,,2573.0,197.92307692307693
+299,AY559087.1,AY559087.1,"SARS coronavirus Sin3725V, complete genome",24-SEP-2004,['Singapore'],29716,,2354.0,138.47058823529412
+300,AY559086.1,AY559086.1,"SARS coronavirus Sin849, complete genome",24-SEP-2004,['Singapore'],29661,,2390.0,170.71428571428572
+301,AY559085.1,AY559085.1,"SARS coronavirus Sin848, complete genome",24-SEP-2004,['Singapore'],29713,,2425.0,161.66666666666666
+302,AY559084.1,AY559084.1,"SARS coronavirus Sin3765V, complete genome",24-SEP-2004,['Singapore'],29722,,2425.0,161.66666666666666
+303,AY559083.1,AY559083.1,"SARS coronavirus Sin3408, complete genome",24-SEP-2004,['Singapore'],29767,,2294.0,176.46153846153845
+304,AY559082.1,AY559082.1,"SARS coronavirus Sin852, complete genome",24-SEP-2004,['Singapore'],29670,,2286.0,175.84615384615384
+305,AY559081.1,AY559081.1,"SARS coronavirus Sin842, complete genome",24-SEP-2004,['Singapore'],29716,,2641.0,176.06666666666666
+306,AY395004.1,AY395004.1,"SARS coronavirus HZS2-Bb, partial genome",29-JAN-2004,,29620,,2636.0,292.8888888888889
+307,AY395003.1,AY395003.1,"SARS coronavirus ZS-C, complete genome",29-JAN-2004,,29647,,2285.0,457.0
+308,AY395002.1,AY395002.1,"SARS coronavirus LC5, complete genome",29-JAN-2004,,29350,,2357.0,168.35714285714286
+309,AY395001.1,AY395001.1,"SARS coronavirus LC4, complete genome",29-JAN-2004,,29350,,2357.0,168.35714285714286
+310,AY395000.1,AY395000.1,"SARS coronavirus LC3, complete genome",29-JAN-2004,,29350,,2357.0,168.35714285714286
+311,AY394999.1,AY394999.1,"SARS coronavirus LC2, complete genome",29-JAN-2004,,29350,,2357.0,168.35714285714286
+312,AY394998.1,AY394998.1,"SARS coronavirus LC1, complete genome",29-JAN-2004,,29736,,2398.0,149.875
+313,AY394997.1,AY394997.1,"SARS coronavirus ZS-A, complete genome",29-JAN-2004,,29683,,2337.0,179.76923076923077
+314,AY394996.1,AY394996.1,"SARS coronavirus ZS-B, complete genome",29-JAN-2004,,29683,,2337.0,179.76923076923077
+315,AY394995.1,AY394995.1,"SARS coronavirus HSZ-Cc, complete genome",29-JAN-2004,,29765,,2435.0,143.23529411764707
+316,AY394994.1,AY394994.1,"SARS coronavirus HSZ-Bc, complete genome",29-JAN-2004,,29765,,2435.0,143.23529411764707
+317,AY394993.1,AY394993.1,"SARS coronavirus HGZ8L2, complete genome",29-JAN-2004,,29736,,2398.0,149.875
+318,AY394992.1,AY394992.1,"SARS coronavirus HZS2-C, complete genome",29-JAN-2004,,29736,,2398.0,149.875
+319,AY394991.1,AY394991.1,"SARS coronavirus HZS2-Fc, complete genome",29-JAN-2004,,29736,,2398.0,149.875
+320,AY394990.1,AY394990.1,"SARS coronavirus HZS2-E, complete genome",29-JAN-2004,,29736,,2398.0,149.875
+321,AY394989.1,AY394989.1,"SARS coronavirus HZS2-D, complete genome",29-JAN-2004,,29736,,2398.0,149.875
+322,AY394988.1,AY394988.1,"SARS coronavirus JMD, partial genome",29-JAN-2004,,29665,,2344.0,167.42857142857142
+323,AY394987.1,AY394987.1,"SARS coronavirus HZS2-Fb, complete genome",29-JAN-2004,,29709,,2509.0,228.0909090909091
+324,AY394986.1,AY394986.1,"SARS coronavirus HSZ-Cb, complete genome",29-JAN-2004,,29729,,2471.0,411.8333333333333
+325,AY394985.1,AY394985.1,"SARS coronavirus HSZ-Bb, complete genome",29-JAN-2004,,29530,,1437.0,143.7
+326,AY394984.1,AY394984.1,"SARS coronavirus HSZ-A, partial genome",29-JAN-2004,,29733,,2465.0,352.14285714285717
+327,AY394983.1,AY394983.1,"SARS coronavirus HSZ2-A, complete genome",29-JAN-2004,,29699,,2271.0,567.75
+328,AY394982.1,AY394982.1,"SARS coronavirus HGZ8L1-B, partial genome",29-JAN-2004,,29646,,2271.0,567.75
+329,AY394981.1,AY394981.1,"SARS coronavirus HGZ8L1-A, partial genome",29-JAN-2004,,29726,,2485.0,414.1666666666667
+330,AY394980.1,AY394980.1,"SARS coronavirus GZ-D, partial genome",29-JAN-2004,,29705,,2083.0,189.36363636363637
+331,AY394979.1,AY394979.1,"SARS coronavirus GZ-C, complete genome",29-JAN-2004,,29645,,2269.0,453.8
+332,AY394978.1,AY394978.1,"SARS coronavirus GZ-B, complete genome",29-JAN-2004,,29640,,2623.0,187.35714285714286
+333,AY394977.1,AY394977.1,"SARS coronavirus GZ-A, partial genome",29-JAN-2004,,29433,,2295.0,382.5
+334,AY461660.1,AY461660.1,"SARS coronavirus SoD, complete genome",23-NOV-2003,['Russia'],29715,,2439.0,162.6
+335,AY304495.1,AY304495.1,"SARS coronavirus GZ50, complete genome",05-NOV-2003,['Hong Kong'],29720,,2398.0,149.875
+336,AY278491.2,AY278491.2,"SARS coronavirus HKU-39849, complete genome",29-AUG-2003,,29742,,2350.0,261.1111111111111
+337,AY362699.1,AY362699.1,"SARS coronavirus TWC3, complete genome",13-AUG-2003,,29727,,2361.0,295.125
+338,AY362698.1,AY362698.1,"SARS coronavirus TWC2, complete genome",13-AUG-2003,,29727,,2361.0,295.125
+339,AY351680.1,AY351680.1,"SARS coronavirus ZMY 1, complete genome",03-AUG-2003,,29749,,2645.0,176.33333333333334
+340,AY321118.1,AY321118.1,"SARS coronavirus TWC, complete genome",26-JUN-2003,,29725,,2366.0,295.75
+341,AY297028.1,AY297028.1,"SARS coronavirus ZJ01, complete genome",19-MAY-2003,,29715,,2509.0,167.26666666666668
+342,NC_014470.1,NC_014470.1,"Bat coronavirus BM48-31/BGR/2008, complete genome",2008,['Bulgaria'],29276,Rhinolophus blasii,2843.0,258.45454545454544
+343,GU190215.1,GU190215.1,"Bat coronavirus BM48-31/BGR/2008, complete genome",2008,['Bulgaria'],29276,Rhinolophus blasii,2843.0,258.45454545454544

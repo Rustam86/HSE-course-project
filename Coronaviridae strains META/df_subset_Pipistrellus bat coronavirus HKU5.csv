@@ -1,0 +1,11 @@
+,GenBank ID,Accession,Description,Collection Date,Geographic Location,Sequence Length,Host,Intervals total length,Intervals mean length
+0,NC_009020.1,NC_009020.1,"Pipistrellus bat coronavirus HKU5, complete genome",20-NOV-2020,['China: Guangdong province'],30482,bat,6161.0,116.24528301886792
+1,EF065509.1,EF065509.1,"Pipistrellus bat coronavirus HKU5, complete genome",01-FEB-2022,['China: Guangdong province'],30482,bat,6161.0,116.24528301886792
+2,MH002342.1,MH002342.1,"Pipistrellus bat coronavirus HKU5 isolate YD13403, complete genome",03-Jun-2013,['China'],30529,,6065.0,144.4047619047619
+3,MH002341.1,MH002341.1,"Pipistrellus bat coronavirus HKU5 isolate BY140562, complete genome",28-Jun-2014,['China'],30480,,5394.0,186.0
+4,MH002340.1,MH002340.1,"Pipistrellus bat coronavirus HKU5 isolate BY140535, complete genome",26-Jun-2014,['China'],30494,,7252.0,161.15555555555557
+5,KJ473820.1,KJ473820.1,"BtPa-BetaCoV/GD2013, complete genome",2013,['China'],30480,Pipistrellus abramus,7013.0,107.8923076923077
+6,EF065512.1,EF065512.1,"Bat coronavirus HKU5-5, complete genome",07-FEB-2007,['China: Guangdong province'],30487,bat,4799.0,97.93877551020408
+7,EF065511.1,EF065511.1,"Bat coronavirus HKU5-3, complete genome",07-FEB-2007,['China: Guangdong province'],30488,bat,4799.0,97.93877551020408
+8,EF065510.1,EF065510.1,"Bat coronavirus HKU5-2, complete genome",07-FEB-2007,['China: Guangdong province'],30488,bat,4722.0,118.05
+9,NC_009019.1,NC_009019.1,"Tylonycteris bat coronavirus HKU4, complete genome",20-NOV-2020,['China: Guangdong province'],30286,bat,525.0,58.333333333333336

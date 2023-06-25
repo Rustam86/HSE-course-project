@@ -1,0 +1,221 @@
+,GenBank ID,Accession,Description,Collection Date,Geographic Location,Sequence Length,Host,Intervals total length,Intervals mean length
+0,ON313747.1,ON313747.1,"UNVERIFIED: Alphacoronavirus 1 isolate CDAB0492R, partial genome",2018-06-03,['Republic of the Congo'],27989,Mops condylurus,2567.0,95.07407407407408
+1,KP849472.1,KP849472.1,"Alphacoronavirus 1 strain 23/03, complete genome",2003,['Italy'],30004,,707.0,117.83333333333333
+2,MH817484.1,MH817484.1,"Feline alphacoronavirus 1 strain FCoV-SB22, complete genome",2015,['Brazil'],29137,Felis catus,1502.0,166.88888888888889
+3,OP715781.1,OP715781.1,"MAG: Tadarida brasiliensis bat alphacoronavirus 1 isolate Tb1, complete genome",28-Nov-2017,['Argentina'],28844,Tadarida brasiliensis,2104.0,191.27272727272728
+4,OM030318.1,OM030318.1,"Jingmen Myotis ricketti alphacoronavirus 1 isolate JSB_DaZu, complete genome",2016,['China'],28090,Myotis ricketti,732.0,122.0
+5,MZ328303.1,MZ328303.1,"Wenzhou Suncus murinus alphacoronavirus 1, complete genome",2016,['China'],25940,Suncus murinus,0.0,
+6,MZ328302.1,MZ328302.1,"Jingmen Apodemus agrarius alphacoronavirus 1, complete genome",2016,['China'],27382,Apodemus agrarius,2627.0,175.13333333333333
+7,MZ328301.1,MZ328301.1,"Longquan Berylmys bowersi alphacoronavirus 1, complete genome",2016,['China'],28660,Berylmys bowersi,3317.0,110.56666666666666
+8,MZ328299.1,MZ328299.1,"Jingmen Miniopterus schreibersii alphacoronavirus 1, complete genome",2016,['China'],28041,Miniopterus schreibersii,706.0,78.44444444444444
+9,MZ328298.1,MZ328298.1,"Jingmen Myotis chinensis alphacoronavirus 1, complete genome",2016,['China'],27914,Myotis chinensis,2495.0,124.75
+10,ON595871.1,ON595871.1,"MAG: Feline coronavirus isolate HC-10, complete genome",2018,['Australia'],29258,Felis catus,891.0,222.75
+11,ON595870.1,ON595870.1,"MAG: Feline coronavirus isolate HC-9, complete genome",2018,['Australia'],29271,Felis catus,738.0,184.5
+12,ON595869.1,ON595869.1,"MAG: Feline coronavirus isolate HC-8, complete genome",2018,['Australia'],29265,Felis catus,799.0,266.3333333333333
+13,ON595868.1,ON595868.1,"MAG: Feline coronavirus isolate HC-7, complete genome",2018,['Australia'],29296,Felis catus,760.0,152.0
+14,ON595867.1,ON595867.1,"MAG: Feline coronavirus isolate HC-6, complete genome",2018,['Australia'],29299,Felis catus,777.0,194.25
+15,ON595866.1,ON595866.1,"MAG: Feline coronavirus isolate HC-5, complete genome",2018,['Australia'],29288,Felis catus,892.0,148.66666666666666
+16,ON595863.1,ON595863.1,"MAG: Feline coronavirus isolate HC-2 ORF1ab and ORF1a genes, partial cds; and S, ORF3a, ORF3b, E, M, N, ORF7a, and ORF7b genes, complete cds",2018,['Australia'],28806,Felis catus,481.0,120.25
+17,ON595862.1,ON595862.1,"MAG: Feline coronavirus isolate HC-1, complete genome",2018,['Australia'],29314,Felis catus,731.0,91.375
+18,ON595858.1,ON595858.1,"MAG: Feline coronavirus isolate FPV-6, complete genome",2017,['Australia'],29334,Felis catus,1181.0,393.6666666666667
+19,ON595857.1,ON595857.1,"MAG: Feline coronavirus isolate FPV-5, complete genome",2017,['Australia'],29347,Felis catus,1359.0,271.8
+20,ON595856.1,ON595856.1,"MAG: Feline coronavirus isolate FPV-4, complete genome",2017,['Australia'],29333,Felis catus,1561.0,141.9090909090909
+21,ON595855.1,ON595855.1,"MAG: Feline coronavirus isolate FPV-3, complete genome",2017,['Australia'],29287,Felis catus,1483.0,148.3
+22,ON595854.1,ON595854.1,"MAG: Feline coronavirus isolate FPV-2, complete genome",2017,['Australia'],29260,Felis catus,1179.0,294.75
+23,ON595853.1,ON595853.1,"MAG: Feline coronavirus isolate FPV-1, complete genome",2017,['Australia'],29293,Felis catus,654.0,327.0
+24,OX335623.1,OX335623.1,"Canine coronavirus isolate 61/22 genome assembly, chromosome: 1",04-OCT-2022,,29139,,688.0,344.0
+25,OX335549.1,OX335549.1,"Canine coronavirus isolate 12/20 genome assembly, chromosome: 1",04-OCT-2022,,29321,,679.0,169.75
+26,OX335548.1,OX335548.1,"Canine coronavirus isolate 62/22 genome assembly, chromosome: 1",04-OCT-2022,,29245,,495.0,247.5
+27,OX335546.1,OX335546.1,"Canine coronavirus isolate 59/22 genome assembly, chromosome: 1",04-OCT-2022,,29213,,495.0,247.5
+28,OX335545.1,OX335545.1,"Canine coronavirus isolate 38/22 genome assembly, chromosome: 1",04-OCT-2022,,29240,,495.0,247.5
+29,OX335541.1,OX335541.1,"Canine coronavirus isolate 11/22 genome assembly, chromosome: 1",04-OCT-2022,,29268,,934.0,311.3333333333333
+30,OX335535.1,OX335535.1,"Canine coronavirus isolate 13/22 genome assembly, chromosome: 1",04-OCT-2022,,29218,,495.0,247.5
+31,OX335534.1,OX335534.1,"Canine coronavirus isolate 10/22 genome assembly, chromosome: 1",04-OCT-2022,,29311,,495.0,247.5
+32,OX335530.1,OX335530.1,"Canine coronavirus isolate 46/22 genome assembly, chromosome: 1",04-OCT-2022,,29206,,495.0,247.5
+33,OP434397.1,OP434397.1,"Transmissible gastroenteritis virus strain HN-2012 orf1ab polyprotein, replicase polyprotein 1a, spike protein, 3b protein, envelope protein, membrane protein, nucleoprotein, and non-structural protein 7 genes, complete cds",2012,['China'],28398,porcine,613.0,204.33333333333334
+34,MZ322950.1,MZ322950.1,"Transmissible gastroenteritis virus strain CH/GX/TGEV/2662/2019, complete genome",21-Apr-2019,['China: Guangxi'],28458,porcine,495.0,247.5
+35,ON859974.1,ON859974.1,"Transmissible gastroenteritis virus isolate HNSQ-2021, complete genome",2021-02-10,['China'],28597,swine,886.0,80.54545454545455
+36,MZ320954.1,MZ320954.1,"Canine coronavirus isolate CCoV/GD/2020/X9, complete genome",Feb-2020,['China'],28807,Rhizomys sinensis,495.0,247.5
+37,MZ320953.1,MZ320953.1,"UNVERIFIED: Canine coronavirus isolate CCoV/GD/2020/X8, complete genome",Feb-2020,['China'],28823,Rhizomys sinensis,505.0,252.5
+38,MW804449.1,MW804449.1,"Transmissible gastroenteritis virus isolate CH8438, complete genome",Nov-2017,['China'],28488,swine,495.0,247.5
+39,ON107244.1,ON107244.1,"Canine coronavirus isolate SMU-8, partial genome",2020-01,['China'],28943,canine,815.0,203.75
+40,OP179857.1,OP179857.1,"Canine coronavirus isolate CCov/PK02/2019/BRA, complete genome",2019,['Brazil'],29412,Canis lupus familiaris,495.0,247.5
+41,MW354911.1,MW354911.1,"UNVERIFIED: Canine coronavirus strain 41, partial genome",2019-11-01,['China'],29851,fox,700.0,350.0
+42,MW354910.1,MW354910.1,"UNVERIFIED: Canine coronavirus strain 38, partial genome",2019-11-01,['China'],29598,fox,495.0,247.5
+43,OM830321.1,OM830321.1,"Porcine respiratory coronavirus ISU-1, complete genome",01-Jun-1990,['USA'],27546,porcine,591.0,118.2
+44,OM830320.1,OM830320.1,"Porcine respiratory coronavirus 137 isolate 86/135308, complete genome",01-Sep-1986,['United Kingdom'],27776,porcine,1004.0,111.55555555555556
+45,OM830319.1,OM830319.1,"Porcine respiratory coronavirus 310 isolate AR310, complete genome",01-Jun-1993,['USA'],27547,porcine,857.0,95.22222222222223
+46,OM830318.1,OM830318.1,"Porcine respiratory coronavirus 135 isolate 86/135308, complete genome",01-Sep-1986,['United Kingdom'],27776,porcine,1092.0,99.27272727272727
+47,OM950729.1,OM950729.1,"Canine coronavirus isolate GH4-2, complete genome",2020,['China'],29366,raccoon dog,495.0,247.5
+48,OM950728.1,OM950728.1,"Canine coronavirus isolate GH8-2, complete genome",2020,['China'],29367,raccoon dog,495.0,247.5
+49,MT821905.1,MT821905.1,"Swine enteric coronavirus strain Italy/77590/2019, complete genome",04-Mar-2019,['Italy'],28081,Sus scrofa,1646.0,137.16666666666666
+50,OM802899.1,OM802899.1,"Transmissible gastroenteritis virus strain SZ19, complete genome",04-Jul-2019,['China'],28020,swine,1083.0,180.5
+51,MW308128.1,MW308128.1,"Feline coronavirus isolate VP1a, complete genome",2006,['Germany: Kassel'],29294,cat,990.0,495.0
+52,MZ368889.1,MZ368889.1,"Transmissible gastroenteritis virus strain HB-1, complete genome",24-Jun-2020,['China: Hebei'],28590,pig,917.0,152.83333333333334
+53,OM451123.1,OM451123.1,"MAG: Canine coronavirus isolate HeB-G1, complete genome",2021,['China'],29340,Raccoon dog,842.0,168.4
+54,OM451122.1,OM451122.1,"MAG: Canine coronavirus isolate SD-F3, complete genome",2021,['China'],29309,Raccoon dog,671.0,134.2
+55,MT955604.1,MT955604.1,"UNVERIFIED: Canine coronavirus isolate PVNRTVU/2020-0001, complete genome",22-DEC-2021,['India'],29381,canine,518.0,172.66666666666666
+56,MT906865.1,MT906865.1,"Canine coronavirus strain 2020/7, complete genome",2020,['United Kingdom'],29321,domestic dog,679.0,169.75
+57,MT906864.1,MT906864.1,"Canine coronavirus strain 2020/15, complete genome",2020,['United Kingdom'],29437,domestic dog,705.0,235.0
+58,MT522161.1,MT522161.1,"Transmissible gastroenteritis virus strain TGEV HLJ-17 replicase 1a, spike protein, non-structural protein 3a, non-structural protein 3b, envelope protein, membrane protein, nucleoprotein, and non-structural protein 7 genes, complete cds",2017,['China'],28483,porcine,495.0,247.5
+59,MZ420153.1,MZ420153.1,"Canine coronavirus isolate Z19, complete genome",15-Mar-2017,['Haiti'],29377,Homo sapiens,495.0,247.5
+60,MW591993.2,MW591993.2,"Canine coronavirus isolate CCoV-HuPn-2018, complete genome",2017,['Malaysia'],29088,Homo sapiens,496.0,248.0
+61,MT239440.1,MT239440.1,"Feline coronavirus strain ZJU1709, complete genome",Sep-2017,['China'],29303,Felis catus,1598.0,106.53333333333333
+62,MT239439.1,MT239439.1,"Feline coronavirus strain ZJU1617, complete genome",2016,['China'],29347,Felis catus,1030.0,206.0
+63,MW030110.1,MW030110.1,"Feline coronavirus isolate SD, complete genome",May-2018,['China'],29302,Felis catus,826.0,103.25
+64,MW030109.1,MW030109.1,"Feline coronavirus isolate 79-1146_CA, complete genome",May-2018,['USA'],29332,Felis catus,868.0,86.8
+65,MW030108.1,MW030108.1,"Feline coronavirus isolate QS, complete genome",May-2018,['China'],29234,Felis catus,1241.0,206.83333333333334
+66,MT444152.1,MT444152.1,"Feline coronavirus strain HF1902, complete genome",25-May-2019,['China'],28506,cat,539.0,107.8
+67,MT576083.1,MT576083.1,"Transmissible gastroenteritis virus isolate HQ2016, complete genome",Mar-2016,['China'],28571,pig,775.0,110.71428571428571
+68,MN692770.1,MN692770.1,"Swine enteric coronavirus isolate SeCoV-1480-Murcia-Lorca, complete genome",30-May-2014,['Spain'],28094,swine,840.0,280.0
+69,MT114544.1,MT114544.1,"Canine coronavirus strain B135_JS_2018, partial genome",10-Dec-2019,['China'],28960,canine,681.0,340.5
+70,MT114543.1,MT114543.1,"Canine coronavirus strain B194_GZ_2019, partial genome",27-Jan-2019,['China'],29148,canine,495.0,247.5
+71,MT114542.1,MT114542.1,"Canine coronavirus strain B203_GZ_2019, partial genome",02-Jan-2019,['China'],28975,canine,704.0,176.0
+72,MT114541.1,MT114541.1,"Canine coronavirus strain B363_ZJ_2019, partial genome",09-Jul-2019,['China'],29052,canine,774.0,129.0
+73,MT114540.1,MT114540.1,"Canine coronavirus strain B447_ZJ_2019, partial genome",26-Jul-2019,['China'],29052,canine,720.0,180.0
+74,MT114539.1,MT114539.1,"Canine coronavirus strain B600_ZJ_2019, partial genome",15-Sep-2019,['China'],29056,canine,495.0,247.5
+75,MT114538.1,MT114538.1,"Canine coronavirus strain B639_ZJ_2019, partial genome",19-Sep-2019,['China'],29058,canine,495.0,247.5
+76,MG893511.1,MG893511.1,"Feline coronavirus isolate Felix, complete genome",Jul-2012,['Germany'],29298,Felis catus,1189.0,148.625
+77,MN165107.1,MN165107.1,"Feline coronavirus isolate XXN, complete genome",Apr-2018,['China: Changsha'],29286,Felis catus,495.0,247.5
+78,KY406735.1,KY406735.1,"Porcine respiratory coronavirus strain PRCV/USA/Minnesota-46140/2016, complete genome",01-Nov-2016,['USA'],27779,,496.0,248.0
+79,KX900411.1,KX900411.1,"Transmissible gastroenteritis virus strain TGEV/USA/SouthDakota154/2014, complete genome",05-Feb-2014,['USA: South Dakota'],28521,,674.0,134.8
+80,KX900410.1,KX900410.1,"Transmissible gastroenteritis virus strain TGEV/USA/Minnesota153/2014, complete genome",04-Feb-2014,['USA: Minnesota'],28521,,569.0,113.8
+81,KX900409.1,KX900409.1,"Transmissible gastroenteritis virus strain TGEV/USA/Minnesota152/2014, complete genome",31-Jan-2014,['USA: Minnesota'],28521,,569.0,113.8
+82,KX900408.1,KX900408.1,"Transmissible gastroenteritis virus strain TGEV/USA/Wisconsin151/2014, complete genome",17-Jan-2014,['USA: Wisconsin'],28521,,569.0,113.8
+83,KX900407.1,KX900407.1,"Transmissible gastroenteritis virus strain TGEV/USA/Minnesota150/2013, complete genome",01-Mar-2013,['USA: Minnesota'],28521,,651.0,217.0
+84,KX900406.1,KX900406.1,"Transmissible gastroenteritis virus strain TGEV/USA/Illinois149/2013, complete genome",28-Feb-2013,['USA: Illinois'],28521,,651.0,217.0
+85,KX900405.1,KX900405.1,"Transmissible gastroenteritis virus strain TGEV/USA/Minnesota148/2013, complete genome",04-Jan-2013,['USA: Minnesota'],28521,,651.0,217.0
+86,KX900404.1,KX900404.1,"Transmissible gastroenteritis virus strain TGEV/USA/Oklahoma147/2012, complete genome",29-Nov-2012,['USA: Oklahoma'],28521,,641.0,320.5
+87,KX900403.1,KX900403.1,"Transmissible gastroenteritis virus strain TGEV/USA/Illinois146/2008, complete genome",09-Apr-2008,['USA: Illinois'],28521,,495.0,247.5
+88,KX900402.1,KX900402.1,"Transmissible gastroenteritis virus strain TGEV/Mex/145/2008, complete genome",17-Apr-2008,['Mexico'],28582,,864.0,123.42857142857143
+89,KX900401.1,KX900401.1,"Transmissible gastroenteritis virus strain TGEV/USA/Tennessee144/2008, complete genome",15-Apr-2008,['USA: Tennessee'],28521,,496.0,248.0
+90,KX900400.1,KX900400.1,"Transmissible gastroenteritis virus strain TGEV/USA/Iowa143/2008, complete genome",06-Mar-2008,['USA: Iowa'],28521,,495.0,247.5
+91,KX900399.1,KX900399.1,"Transmissible gastroenteritis virus strain TGEV/USA/NorthCarolina142/2007, complete genome",16-Feb-2007,['USA: North Carolina'],28521,,495.0,247.5
+92,KX900398.1,KX900398.1,"Transmissible gastroenteritis virus strain TGEV/USA/Minnesota141/2007, complete genome",08-Feb-2007,['USA: Minnesota'],28521,,495.0,247.5
+93,KX900397.1,KX900397.1,"Transmissible gastroenteritis virus strain TGEV/USA/NorthCarolina140/2007, complete genome",08-Feb-2007,['USA: North Carolina'],28521,,495.0,247.5
+94,KX900396.1,KX900396.1,"Transmissible gastroenteritis virus strain TGEV/USA/Illinois139/2006, complete genome",17-Nov-2006,['USA: Illinois'],28393,,495.0,247.5
+95,KX900395.1,KX900395.1,"Transmissible gastroenteritis virus strain TGEV/USA/Minnesota138/2006, complete genome",08-Nov-2006,['USA: Minnesota'],28521,,496.0,248.0
+96,KX900394.1,KX900394.1,"Transmissible gastroenteritis virus strain TGEV/USA/HB/1988, complete genome",1988,['USA'],28582,,894.0,127.71428571428571
+97,KX900393.1,KX900393.1,"Transmissible gastroenteritis virus strain TGEV/USA/Z/1986, complete genome",08-Dec-2006,['USA'],28582,,905.0,129.28571428571428
+98,NC_038861.1,NC_038861.1,"Transmissible gastroenteritis virus complete genome, genomic RNA",24-AUG-2018,['USA:Indiana'],28586,pig,898.0,128.28571428571428
+99,NC_028806.1,NC_028806.1,"Swine enteric coronavirus strain Italy/213306/2009, complete genome",04-Sep-2009,['Italy'],28111,pig,1056.0,264.0
+100,NC_002306.3,NC_002306.3,"Feline infectious peritonitis virus, complete genome",13-AUG-2018,['USA'],29355,,682.0,136.4
+101,LT545990.1,LT545990.1,"Swine enteric coronavirus isolate SeCoV_GER_L00930_2012 genome assembly, complete genome: monopartite",15-JUN-2018,,28050,,900.0,112.5
+102,KX722531.1,KX722531.1,"Feline coronavirus isolate Cat 2 Holstebro, complete genome",01-Feb-2015,['Denmark'],29042,Felis catus,1269.0,126.9
+103,KX722530.1,KX722530.1,"Feline coronavirus isolate Cat 1 Karlslunde, complete genome",01-Feb-2015,['Denmark'],28595,Felis catus,647.0,161.75
+104,KX722529.1,KX722529.1,"Feline coronavirus isolate UG-FH8, complete genome",01-Jan-2015,['Belgium'],29174,Felis catus,1165.0,77.66666666666667
+105,KY566211.1,KY566211.1,"Feline coronavirus strain HLJ/HRB/2016/13, complete genome",Nov-2016,['China'],29337,cat,993.0,248.25
+106,KY566210.1,KY566210.1,"Feline coronavirus strain HLJ/HRB/2016/11, complete genome",Nov-2016,['China'],29297,cat,899.0,149.83333333333334
+107,KY566209.1,KY566209.1,"Feline coronavirus strain HLJ/HRB/2016/10, complete genome",Nov-2016,['China'],29440,cat,1177.0,130.77777777777777
+108,KY063618.2,KY063618.2,"Canine coronavirus isolate HLJ-073, complete genome",01-Jul-2016,['China'],28969,dog,617.0,205.66666666666666
+109,KY292377.1,KY292377.1,"Feline coronavirus strain HLJ/DQ/2016/01, complete genome",Oct-2016,['China'],29303,cat,737.0,245.66666666666666
+110,KY063617.1,KY063617.1,"Canine coronavirus isolate HLJ-072, complete genome",01-Jul-2016,['China'],29264,dog,617.0,205.66666666666666
+111,KY063616.1,KY063616.1,"Canine coronavirus isolate HLJ-071, complete genome",01-Jul-2016,['China'],29319,dog,617.0,205.66666666666666
+112,KX499468.1,KX499468.1,"Transmissible gastroenteritis virus strain TGEV AHHF, complete genome",22-Dec-2015,['China'],28614,porcine,618.0,88.28571428571429
+113,KX083668.1,KX083668.1,"Transmissible gastroenteritis virus isolate HE-1, complete genome",2015,['China'],28580,swine,1009.0,201.8
+114,KX058075.1,KX058075.1,UNVERIFIED: Transmissible gastroenteritis virus strain CN12 genomic sequence,2012,['China'],28425,pig,495.0,247.5
+115,DQ443743.1,DQ443743.1,"Transmissible gastroenteritis virus strain SC-Y, complete genome",26-JUL-2016,['China'],28590,,845.0,84.5
+116,DQ201447.1,DQ201447.1,"Transmissible gastroenteritis virus strain TS, complete genome",26-JUL-2016,,28548,pig,688.0,344.0
+117,HQ462571.1,HQ462571.1,"Transmissible gastroenteritis virus strain WH-1, complete genome",25-JUL-2016,['China'],28597,Sus scrofa,838.0,83.8
+118,FJ755618.2,FJ755618.2,"Transmissible gastroenteritis virus strain H16, complete genome",1973,['China'],28569,pig,495.0,247.5
+119,EU074218.2,EU074218.2,"Transmissible gastroenteritis virus strain attenuated H, complete genome",24-JUL-2016,['China'],28569,,495.0,247.5
+120,DQ811788.1,DQ811788.1,"TGEV Purdue P115, complete genome",14-JUL-2016,,28571,pig,779.0,111.28571428571429
+121,DQ811787.1,DQ811787.1,"PRCV ISU-1, complete genome",14-JUL-2016,['USA:Indiana'],27550,pig,495.0,247.5
+122,DQ811785.1,DQ811785.1,"TGEV Miller M6, complete genome",14-JUL-2016,['USA:Ohio'],28542,pig,725.0,145.0
+123,KU729220.1,KU729220.1,"Transmissible gastroenteritis virus strain TH-98, complete genome",10-Feb-1998,"['China: pig farm, suburb of Haerbin, Heilongjiang province']",28539,Sus scrofa (swine),772.0,193.0
+124,KU215428.1,KU215428.1,"Feline coronavirus isolate Cat3_day28_withoutdeletion, complete genome",2013,['Belgium'],29262,Felis catus,762.0,108.85714285714286
+125,KU215427.1,KU215427.1,"Feline coronavirus isolate Cat3_day28_deletion, complete genome",2013,['Belgium'],29238,Felis catus,762.0,108.85714285714286
+126,KU215426.1,KU215426.1,"Feline coronavirus isolate Cat2_day84, complete genome",2013,['Belgium'],29262,Felis catus,741.0,148.2
+127,KU215425.1,KU215425.1,"Feline coronavirus isolate Cat1_day28_withoutdeletion, complete genome",2013,['Belgium'],29262,Felis catus,751.0,125.16666666666667
+128,KU215424.1,KU215424.1,"Feline coronavirus isolate Cat1_day28_deletion, complete genome",2013,['Belgium'],29253,Felis catus,751.0,125.16666666666667
+129,KU215423.1,KU215423.1,"Feline coronavirus isolate Cat3_day9, complete genome",2013,['Belgium'],29262,Felis catus,741.0,148.2
+130,KU215422.1,KU215422.1,"Feline coronavirus isolate Cat2_day21_withoutdeletion, complete genome",2013,['Belgium'],29262,Felis catus,717.0,143.4
+131,KU215421.1,KU215421.1,"Feline coronavirus isolate Cat2_day21_deletion, complete genome",2013,['Belgium'],29161,Felis catus,717.0,143.4
+132,KU215420.1,KU215420.1,"Feline coronavirus isolate Cat1_day7, complete genome",2013,['Belgium'],29262,Felis catus,741.0,148.2
+133,KU215419.1,KU215419.1,"Feline coronavirus isolate inoculum, complete genome",2013,['Belgium'],29262,Felis catus,778.0,194.5
+134,KT696544.1,KT696544.1,"Transmissible gastroenteritis virus strain JS2012, complete genome",2012,['China'],28542,pig,750.0,250.0
+135,KR061459.1,KR061459.1,"Swine enteric coronavirus strain Italy/213306/2009, complete genome",04-Sep-2009,['Italy'],28111,pig,1056.0,264.0
+136,KR270796.1,KR270796.1,"Porcine respiratory coronavirus strain OH7269, complete genome",24-Jul-2014,['USA: Ohio'],27765,pig,721.0,360.5
+137,KP981644.1,KP981644.1,"Canine coronavirus strain CB/05, complete genome",2005,['Italy'],29278,Canis lupus familiaris (domestic dog),691.0,345.5
+138,KF530271.1,KF530271.1,UNVERIFIED: Feline coronavirus strain feline/USA/236kid/2011 genomic sequence,17-Mar-2011,['USA: Pennsylvania'],28039,Felis catus; sex: F,582.0,72.75
+139,KF530270.1,KF530270.1,UNVERIFIED: Feline coronavirus strain feline/USA/Muff1-09/2008 genomic sequence,26-Nov-2008,['USA: Pennsylvania'],28457,Felis catus; sex: F,1306.0,217.66666666666666
+140,KF530136.1,KF530136.1,UNVERIFIED: Feline coronavirus strain Felis catus/NLD/UU62/2010 genomic sequence,27-Jan-2010,['Netherlands: Utrecht'],29076,Felis catus,821.0,410.5
+141,KF530135.1,KF530135.1,UNVERIFIED: Feline coronavirus strain Felis catus/NLD/UU55/2010 genomic sequence,17-Jun-2010,['Netherlands: Utrecht'],28338,Felis catus,723.0,180.75
+142,KF530134.1,KF530134.1,UNVERIFIED: Feline coronavirus strain Felis catus/NLD/UU63/2010 genomic sequence,12-Mar-2010,['Netherlands: Utrecht'],29079,Felis catus,854.0,284.6666666666667
+143,KF530133.1,KF530133.1,UNVERIFIED: Feline coronavirus strain Felis catus/NLD/UU44/2007 genomic sequence,26-Jun-2007,['Netherlands'],29091,Felis catus,962.0,137.42857142857142
+144,KF530132.1,KF530132.1,UNVERIFIED: Feline coronavirus strain Felis catus/NLD/UU57/2010 genomic sequence,08-Jun-2010,['Netherlands: Utrecht'],27253,Felis catus,495.0,247.5
+145,KF530131.1,KF530131.1,UNVERIFIED: Feline coronavirus strain Felis catus/NLD/UU72/2010 genomic sequence,20-Sep-2010,['Netherlands: Utrecht'],28357,Felis catus,495.0,247.5
+146,KF530130.1,KF530130.1,UNVERIFIED: Feline coronavirus strain Felis catus/NLD/UU69/2010 genomic sequence,17-Aug-2010,['Netherlands: Utrecht'],29086,Felis catus,1015.0,145.0
+147,KF530129.1,KF530129.1,UNVERIFIED: Feline coronavirus strain Felis catus/NLD/UU50/2010 genomic sequence,30-Jun-2010,['Netherlands: Utrecht'],29081,Felis catus,764.0,95.5
+148,KF530127.1,KF530127.1,UNVERIFIED: Feline coronavirus strain Felis catus/NLD/UU74/2010 genomic sequence,06-Sep-2010,['Netherlands: Utrecht'],29023,Felis catus,631.0,105.16666666666667
+149,KF530126.1,KF530126.1,UNVERIFIED: Feline coronavirus strain Felis catus/NLD/UU71/2010 genomic sequence,24-Aug-2010,['Netherlands: Utrecht'],28306,Felis catus,495.0,247.5
+150,KF530125.1,KF530125.1,UNVERIFIED: Feline coronavirus strain Felis catus/NLD/UU67/2010 genomic sequence,22-Jun-2010,['Netherlands: Utrecht'],28829,Felis catus,707.0,117.83333333333333
+151,KF530124.1,KF530124.1,UNVERIFIED: Feline coronavirus strain Felis catus/NLD/UU76/2010 genomic sequence,23-Nov-2010,['Netherlands: Utrecht'],28996,Felis catus,699.0,139.8
+152,KF530123.1,KF530123.1,"Feline coronavirus strain Felis catus/NLD/UU88/2010, complete genome",17-Aug-2010,['Netherlands: Utrecht'],29123,Felis catus,985.0,246.25
+153,KF530122.1,KF530122.1,UNVERIFIED: Feline coronavirus strain Felis catus/NLD/UU36/2009 genomic sequence,27-Aug-2009,['Netherlands'],28990,Felis catus,705.0,78.33333333333333
+154,KF530121.1,KF530121.1,UNVERIFIED: Feline coronavirus strain Felis catus/NLD/UU43/2007 genomic sequence,13-Aug-2007,['Netherlands'],28898,Felis catus,956.0,106.22222222222223
+155,KF530120.1,KF530120.1,UNVERIFIED: Feline coronavirus strain Felis catus/NLD/UU73/2011 genomic sequence,14-May-2011,['Netherlands: Utrecht'],28353,Felis catus,514.0,257.0
+156,KF530119.1,KF530119.1,UNVERIFIED: Feline coronavirus strain Felis catus/NLD/UU37/2009 genomic sequence,27-Aug-2009,['Netherlands'],28918,Felis catus,635.0,158.75
+157,KF530118.1,KF530118.1,UNVERIFIED: Feline coronavirus strain Felis catus/NLD/UU77/2009 genomic sequence,21-Jun-2009,['Netherlands: Utrecht'],27338,Felis catus,505.0,252.5
+158,KF530117.1,KF530117.1,UNVERIFIED: Feline coronavirus strain Felis catus/NLD/UU82/2010 genomic sequence,12-Aug-2010,['Netherlands: Utrecht'],29001,Felis catus,874.0,145.66666666666666
+159,KF530116.1,KF530116.1,UNVERIFIED: Feline coronavirus strain Felis catus/NLD/UU61/2010 genomic sequence,07-Jan-2010,['Netherlands: Utrecht'],29062,Felis catus,601.0,200.33333333333334
+160,KF530115.1,KF530115.1,UNVERIFIED: Feline coronavirus strain Felis catus/NLD/UU68/2010 genomic sequence,27-Apr-2010,['Netherlands: Utrecht'],29002,Felis catus,1019.0,254.75
+161,KC175341.1,KC175341.1,"Canine coronavirus strain S378, complete genome",1978,"['USA: Ithaca, NY']",29340,Canis lupus familiaris,495.0,247.5
+162,KC175340.1,KC175340.1,"Canine coronavirus strain K378, complete genome",1978,"['USA: Ithaca, NY']",29380,Canis lupus familiaris,495.0,247.5
+163,KC175339.1,KC175339.1,"Canine coronavirus strain 171, complete genome",1971,['Germany'],29270,Canis lupus familiaris,611.0,101.83333333333333
+164,JN856008.2,JN856008.2,"Canine coronavirus strain A76, complete genome",1976,"['USA: Ithaca, NY']",29271,Canis lupus familiaris,798.0,399.0
+165,JN183883.1,JN183883.1,"Feline coronavirus UU54, complete genome",12-Mar-2010,['Netherlands: Utrecht'],29222,Felis catus,1184.0,118.4
+166,JN183882.1,JN183882.1,"Feline coronavirus UU47, complete genome",14-Jul-2010,['Netherlands: Utrecht'],29243,Felis catus,1192.0,132.44444444444446
+167,HQ392469.1,HQ392469.1,"Feline coronavirus UU40, complete genome",22-Jan-2008,['Netherlands'],29233,Felis catus,1196.0,170.85714285714286
+168,HQ012372.1,HQ012372.1,"Feline coronavirus UU34, complete genome",11-Sep-2007,['Netherlands'],29216,Felis catus,506.0,253.0
+169,KP202848.1,KP202848.1,"Transmissible gastroenteritis virus isolate SHXB, complete genome",07-Mar-2013,['China'],28611,Sus scrofa,619.0,123.8
+170,KC962433.1,KC962433.1,"Transmissible gastroenteritis virus isolate TGEV-HX, complete genome",05-May-2012,['China'],28580,Sus scrofa,892.0,127.42857142857143
+171,KP143512.1,KP143512.1,"Feline coronavirus isolate 26M, complete genome",01-Jan-2013,['United Kingdom'],28956,Felis catus,1548.0,119.07692307692308
+172,KP143511.1,KP143511.1,"Feline coronavirus isolate 80F, complete genome",01-Jan-2013,['United Kingdom'],28971,Felis catus,1401.0,82.41176470588235
+173,KP143510.1,KP143510.1,"Feline coronavirus isolate 67F, complete genome",01-Jan-2013,['United Kingdom'],28967,Felis catus,1390.0,86.875
+174,KP143509.1,KP143509.1,"Feline coronavirus isolate 65F, complete genome",01-Jan-2013,['United Kingdom'],28968,Felis catus,1390.0,86.875
+175,KP143508.1,KP143508.1,"Feline coronavirus isolate 28O, complete genome",01-Jan-2013,['United Kingdom'],28967,Felis catus,1396.0,87.25
+176,KP143507.1,KP143507.1,"Feline coronavirus isolate 27C, complete genome",01-Jan-2013,['United Kingdom'],28984,Felis catus,1636.0,136.33333333333334
+177,KC461237.1,KC461237.1,"Feline infectious peritonitis virus isolate FCoVWSU791146_P50, complete genome",2011,['USA'],29357,Felis catus,670.0,167.5
+178,KC461236.1,KC461236.1,"Feline infectious peritonitis virus isolate FCoVWSU791146_P8, complete genome",2011,['USA'],29357,Felis catus,682.0,136.4
+179,KC461235.1,KC461235.1,"Feline infectious peritonitis virus isolate FCoVWSU791146_P1, complete genome",2011,['USA'],29357,Felis catus,682.0,136.4
+180,HM776941.1,HM776941.1,"UNVERIFIED: Transmissible gastroenteritis virus isolate AYU, complete genome",2009,['China'],28580,swine,739.0,147.8
+181,JN634064.1,JN634064.1,"Feline coronavirus strain WSU 79-1683, complete genome",31-AUG-2012,,28984,,629.0,314.5
+182,DQ811789.2,DQ811789.2,"TGEV virulent Purdue, complete genome",1952,['USA:Indiana'],28544,porcine,766.0,191.5
+183,DQ811786.2,DQ811786.2,"TGEV Miller M60, complete genome",1987,['USA:Ohio'],27904,porcine,528.0,132.0
+184,JQ408981.1,JQ408981.1,"Feline infectious peritonitis virus strain DF-2, complete genome",10-MAY-2012,,29025,Felis catus,856.0,122.28571428571429
+185,JQ408980.1,JQ408980.1,"Feline coronavirus strain DF-2 R3i, complete genome",10-MAY-2012,,29363,Felis catus,921.0,70.84615384615384
+186,JQ404410.1,JQ404410.1,"Canine coronavirus strain TN-449, complete genome",01-APR-2012,,29364,dog,495.0,247.5
+187,JQ404409.1,JQ404409.1,"Canine coronavirus strain 1-71, complete genome",01-APR-2012,,29462,dog,568.0,94.66666666666667
+188,GQ152141.1,GQ152141.1,"Feline coronavirus strain FCoV/NTU156/P/2007, complete genome",Sep-2007,['Taiwan'],28897,cat,1190.0,297.5
+189,FJ938058.1,FJ938058.1,"Feline coronavirus UU16, complete genome",07-Jun-2007,['Netherlands: Utrecht'],28479,cat,865.0,123.57142857142857
+190,FJ938060.1,FJ938060.1,"Feline coronavirus UU2, complete genome",30-Mar-1993,['USA: California'],29256,cat,741.0,148.2
+191,HQ392472.1,HQ392472.1,"Feline coronavirus UU30, complete genome",22-Jan-2008,['Netherlands: Utrecht'],29233,feline,961.0,96.1
+192,HQ392471.1,HQ392471.1,"Feline coronavirus UU20, complete genome",23-Aug-2007,['Netherlands: Utrecht'],29252,feline,496.0,248.0
+193,HQ392470.1,HQ392470.1,"Feline coronavirus UU19, complete genome",23-Aug-2007,['Netherlands: Utrecht'],29255,feline,974.0,108.22222222222223
+194,HQ012371.1,HQ012371.1,"Feline coronavirus UU31, complete genome",25-Jan-2008,['Netherlands'],29274,feline,624.0,124.8
+195,HQ012370.1,HQ012370.1,"Feline coronavirus UU24, complete genome",03-Jan-2008,['Netherlands'],29266,feline,1085.0,217.0
+196,HQ012369.1,HQ012369.1,"Feline coronavirus UU21, complete genome",11-Sep-2007,['Netherlands'],28429,feline,709.0,70.9
+197,HQ012368.1,HQ012368.1,"Feline coronavirus UU18, complete genome",24-Jul-2007,['Netherlands: Utrecht'],29252,feline,814.0,135.66666666666666
+198,HQ012367.1,HQ012367.1,"Feline coronavirus UU17, complete genome",17-Jul-2007,['Netherlands: Utrecht'],29202,feline,495.0,247.5
+199,GU553362.1,GU553362.1,"Feline coronavirus UU23 isolate TCVSP-ROTTIER-00023, complete genome",13-Sep-2007,['Netherlands'],29264,feline,721.0,144.2
+200,GU553361.1,GU553361.1,"Feline coronavirus UU22 isolate TCVSP-ROTTIER-00022, complete genome",13-Sep-2007,['Netherlands'],29264,feline,724.0,181.0
+201,GQ477367.1,GQ477367.1,"Canine coronavirus strain CCoV/NTU336/F/2008, complete genome",Nov-2008,['Taiwan'],29363,dog,652.0,326.0
+202,FJ938062.1,FJ938062.1,"Feline coronavirus UU9, complete genome",24-May-2007,['Netherlands: Utrecht'],29266,cat,1160.0,128.88888888888889
+203,FJ938061.1,FJ938061.1,"Feline coronavirus UU3, complete genome",10-Mar-1998,['USA: California'],29130,cat,762.0,108.85714285714286
+204,FJ938059.1,FJ938059.1,"Feline coronavirus UU10, complete genome",05-Jun-2007,['Netherlands: Utrecht'],29295,cat,990.0,141.42857142857142
+205,FJ938057.1,FJ938057.1,"Feline coronavirus UU15, complete genome",13-Jul-2007,['Netherlands: Utrecht'],29275,cat,895.0,111.875
+206,FJ938056.1,FJ938056.1,"Feline coronavirus UU5, complete genome",07-Mar-2007,['Netherlands: Utrecht'],29253,cat,825.0,137.5
+207,FJ938055.1,FJ938055.1,"Feline coronavirus UU8, complete genome",24-May-2007,['Netherlands: Utrecht'],29285,cat,930.0,132.85714285714286
+208,FJ938054.1,FJ938054.1,"Feline coronavirus UU4, complete genome",02-Feb-2007,['Netherlands: Utrecht'],29269,cat,512.0,256.0
+209,FJ938053.1,FJ938053.1,"Feline coronavirus UU7, complete genome",25-Apr-2007,['Netherlands: Utrecht'],29277,cat,495.0,247.5
+210,FJ938052.1,FJ938052.1,"Feline coronavirus UU11, complete genome",05-Jun-2007,['Netherlands: Utrecht'],29306,cat,852.0,142.0
+211,FJ938051.1,FJ938051.1,"Feline coronavirus RM, complete genome",28-Jan-2002,['USA: California'],29232,cat,1683.0,129.46153846153845
+212,DQ848678.1,DQ848678.1,"Feline coronavirus strain FCoV C1Je, complete genome",12-SEP-2006,,29277,,495.0,247.5
+213,DQ010921.1,DQ010921.1,"Feline coronavirus strain FIPV 79-1146, complete genome",21-JUL-2005,,29147,cat,764.0,254.66666666666666
+214,AY994055.1,AY994055.1,"Feline infectious peritonitis virus, complete genome",02-DEC-2008,['USA'],29355,,682.0,136.4
+215,EU186072.1,EU186072.1,"Feline coronavirus isolate Black, complete genome",20-FEB-2008,['USA'],29256,,676.0,169.0
+216,DQ286389.1,DQ286389.1,"Feline coronavirus strain DF-2, complete genome",14-FEB-2007,['USA'],28632,,759.0,108.42857142857143
+217,AJ271965.2,AJ271965.2,"Transmissible gastroenteritis virus complete genome, genomic RNA",15-APR-2005,['USA:Indiana'],28586,pig,898.0,128.28571428571428
+218,CQ870486.1,CQ870486.1,Sequence 1 from Patent EP1437400,14-SEP-2004,,28588,,869.0,96.55555555555556
+219,AX154950.1,AX154950.1,Sequence 1 from Patent WO0139797,22-JUN-2001,,28588,,869.0,96.55555555555556

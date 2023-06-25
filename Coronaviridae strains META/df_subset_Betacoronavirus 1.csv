@@ -1,0 +1,558 @@
+,GenBank ID,Accession,Description,Collection Date,Geographic Location,Sequence Length,Host,Intervals total length,Intervals mean length
+0,OM397541.1,OM397541.1,"Betacoronavirus 1 isolate ISR1127, complete genome",24-Jan-2019,['Israel'],30992,Oryx leucoryx,522.0,43.5
+1,OP020177.1,OP020177.1,"MAG: Betacoronavirus 1 isolate BCoV_NSW_L4, complete genome",Apr-2019,['Australia: New South Wales'],30955,Bos taurus L4,252.0,36.0
+2,OP020176.1,OP020176.1,"MAG: Betacoronavirus 1 isolate BCoV_NSW_L3, complete genome",Apr-2019,['Australia: New South Wales'],30983,Bos taurus L3,1260.0,96.92307692307692
+3,OP020175.1,OP020175.1,"MAG: Betacoronavirus 1 isolate BCoV_NSW_L1, complete genome",Apr-2019,['Australia: New South Wales'],30757,Bos taurus L1,531.0,88.5
+4,OP020174.1,OP020174.1,"MAG: Betacoronavirus 1 isolate BCoV_NSW_L9, complete genome",Apr-2019,['Australia: New South Wales'],30869,Bos taurus L9,1269.0,141.0
+5,MW802581.1,MW802581.1,"Betacoronavirus 1 isolate GCCDC3, complete genome",20-Jan-2017,['China'],31256,Rattus norvegicus,1741.0,158.27272727272728
+6,MW773844.1,MW773844.1,"Betacoronavirus 1 strain GCCDC4, complete genome",07-Mar-2017,['China'],31383,Rattus norvegicus,4257.0,185.08695652173913
+7,MH685718.1,MH685718.1,"Betacoronavirus 1 isolate E0-034 ORF1ab gene, complete cds; ORF1ab gene, partial cds; and NS2a, HE, S, NS5a, and N genes, complete cds",2013,['Uganda'],30520,Homo sapiens,917.0,65.5
+8,KU558923.1,KU558923.1,"Betacoronavirus 1 isolate Buffalo coronavirus B1-28F, complete genome",01-Oct-2014,['Bangladesh'],30985,Bubalus bubalis,537.0,53.7
+9,KU558922.1,KU558922.1,"Betacoronavirus 1 isolate Buffalo coronavirus B1-24F, complete genome",01-Oct-2014,['Bangladesh'],31039,Bubalus bubalis,1112.0,85.53846153846153
+10,MZ328297.1,MZ328297.1,"Wenzhou Pipistrellus abramus betacoronavirus 1, complete genome",2016,['China'],30429,Pipistrellus abramus,8059.0,122.10606060606061
+11,MZ328296.1,MZ328296.1,"Jingmen Apodemus agrarius betacoronavirus 1 isolate SYS_heixian, partial genome",2016,['China'],30822,Apodemus agrarius,2741.0,161.23529411764707
+12,MZ328295.1,MZ328295.1,"Longquan Niviventer niviventer betacoronavirus 1 isolate LQS_she, partial genome",2016,['China'],30810,Niviventer niviventer,1693.0,99.58823529411765
+13,MZ328294.1,MZ328294.1,"Jingmen Rhinolophus sinicus betacoronavirus 1, complete genome",2016,['China'],29627,Rhinolophus sinicus,1966.0,131.06666666666666
+14,OP866729.1,OP866729.1,"Bovine coronavirus isolate BCoV_China/BCoV cattle_B277a/2021, complete genome",20-Dec-2021,['China'],31034,Dairy Calves,1271.0,158.875
+15,OP866728.1,OP866728.1,"Bovine coronavirus isolate BCoV_China/BCoV cattle_B298/2021, complete genome",20-Dec-2021,['China'],31044,Dairy Calves,1500.0,214.28571428571428
+16,OP866727.1,OP866727.1,"Bovine coronavirus isolate BCoV_China/BCoV cattle_F226/2021, complete genome",20-Dec-2021,['China'],31034,Dairy Calves,1271.0,158.875
+17,OP866726.1,OP866726.1,"Bovine coronavirus isolate BCoV_China/BCoV cattle_B277b/2021, complete genome",20-Dec-2021,['China'],31023,Dairy Calves,1292.0,161.5
+18,KY994645.1,KY994645.1,"Porcine hemagglutinating encephalomyelitis virus strain JL/2008, complete genome",21-Aug-2008,['China'],30684,piglet,993.0,141.85714285714286
+19,OK073088.1,OK073088.1,"Human coronavirus OC43 strain H31, complete genome",2014,['China'],30742,Homo sapiens,1470.0,133.63636363636363
+20,OK073092.1,OK073092.1,"Human coronavirus OC43 strain R125, partial genome",2016,['China'],30615,Homo sapiens,939.0,104.33333333333333
+21,OK073091.1,OK073091.1,"Human coronavirus OC43 strain R67, complete genome",2015,['China'],30711,Homo sapiens,1371.0,114.25
+22,OK073090.1,OK073090.1,"Human coronavirus OC43 strain P43, complete genome",2017,['China'],30752,Homo sapiens,1487.0,185.875
+23,OK073089.1,OK073089.1,"Human coronavirus OC43 strain H49, complete genome",2015,['China'],30749,Homo sapiens,1331.0,133.1
+24,OK073087.1,OK073087.1,"Human coronavirus OC43 strain H10, complete genome",2014,['China'],30742,Homo sapiens,1322.0,220.33333333333334
+25,OP296992.1,OP296992.1,"Bovine coronavirus isolate p95, complete genome",24-Mar-2017,['Taiwan'],31032,bovine,1060.0,88.33333333333333
+26,ON142320.1,ON142320.1,"Bovine coronavirus isolate BCoV7/2021/CHN, complete genome",2021,['China'],31008,cow,1181.0,168.71428571428572
+27,ON142319.1,ON142319.1,"Bovine coronavirus isolate BCoV6/2021/CHN, complete genome",2021,['China'],31043,cow,1202.0,171.71428571428572
+28,ON142318.1,ON142318.1,"UNVERIFIED: Bovine coronavirus isolate BCoV5/2021/CHN, complete genome",2021,['China'],31009,cow,1199.0,171.28571428571428
+29,ON142317.1,ON142317.1,"Bovine coronavirus isolate BCoV4/2021/CHN, complete genome",2021,['China'],30994,cow,1268.0,115.27272727272727
+30,ON142316.1,ON142316.1,"Bovine coronavirus isolate BCoV3/2021/CHN, complete genome",2021,['China'],31010,cow,1219.0,243.8
+31,ON142315.1,ON142315.1,"Bovine coronavirus isolate BCoV1/2021/CHN, complete genome",2021,['China'],31008,cow,1263.0,210.5
+32,LC654454.1,LC654454.1,"Human coronavirus OC43 Fukushima_H148_2018 RNA, complete genome",2018,['Japan: Fukushima'],30740,Homo sapiens,1245.0,124.5
+33,ON453891.1,ON453891.1,"Equine coronavirus isolate CH-CVP3, complete genome",2021,['Switzerland'],30884,Equus caballus,420.0,105.0
+34,ON453890.1,ON453890.1,"Equine coronavirus isolate CH-ZH39, complete genome",2015,['Switzerland'],30913,Equus caballus,322.0,80.5
+35,OP037442.1,OP037442.1,"Bovine coronavirus isolate VDC/2022/07/E, partial genome",2022,['USA: Oregon'],31002,bovine,2232.0,111.6
+36,OP037441.1,OP037441.1,"Bovine coronavirus isolate VDC/2022/06/E, partial genome",2022,['USA: Nebraska'],31006,bovine,1737.0,144.75
+37,OP037440.1,OP037440.1,"Bovine coronavirus isolate VDC/2022/05/E, partial genome",2022,['USA: Nebraska'],31033,bovine,1697.0,188.55555555555554
+38,OP037439.1,OP037439.1,"Bovine coronavirus isolate VDC/2022/04/E, partial genome",2022,['USA: Nebraska'],31010,bovine,1423.0,79.05555555555556
+39,OP037438.1,OP037438.1,"Bovine coronavirus isolate VDC/2022/03/E, partial genome",2022,['USA: South_Dakota'],31016,bovine,1450.0,181.25
+40,OP037437.1,OP037437.1,"Bovine coronavirus isolate VDC/2022/02/E, partial genome",2022,['USA: South_Dakota'],31001,bovine,1684.0,153.0909090909091
+41,OP037436.1,OP037436.1,"Bovine coronavirus isolate VDC/2022/01/E, partial genome",2022,['USA: Kansas'],31023,bovine,1507.0,51.96551724137931
+42,OP037435.1,OP037435.1,"Bovine coronavirus isolate VDC/2019/06/E, partial genome",2019,['USA: Nebraska'],31008,bovine,1633.0,125.61538461538461
+43,OP037434.1,OP037434.1,"Bovine coronavirus isolate VDC/2019/05/E, partial genome",2019,['USA: Nebraska'],31015,bovine,1102.0,64.82352941176471
+44,OP037433.1,OP037433.1,"Bovine coronavirus isolate VDC/2019/04/E, partial genome",2019,['USA: Nebraska'],31007,bovine,1951.0,243.875
+45,OP037432.1,OP037432.1,"Bovine coronavirus isolate VDC/2019/03/E, partial genome",2019,['USA: Nebraska'],31008,bovine,1807.0,100.38888888888889
+46,OP037431.1,OP037431.1,"Bovine coronavirus isolate VDC/2019/02/E, partial genome",2019,['USA: Nebraska'],31016,bovine,1935.0,107.5
+47,OP037430.1,OP037430.1,"Bovine coronavirus isolate VDC/2019/01/R, partial genome",2019,['USA: Nebraska'],31014,bovine,1282.0,106.83333333333333
+48,OP037429.1,OP037429.1,"Bovine coronavirus isolate VDC/2019/01/E, partial genome",2019,['USA: Nebraska'],31011,bovine,1544.0,96.5
+49,OP037428.1,OP037428.1,"Bovine coronavirus isolate VDC/2018/13/E, partial genome",2018,['USA: Nebraska'],31006,bovine,1512.0,88.94117647058823
+50,OP037427.1,OP037427.1,"Bovine coronavirus isolate VDC/2018/12/E, partial genome",2018,['USA: Nebraska'],31008,bovine,1732.0,115.46666666666667
+51,OP037426.1,OP037426.1,"Bovine coronavirus isolate VDC/2018/11/E, partial genome",2018,['USA: Nebraska'],31014,bovine,1029.0,114.33333333333333
+52,OP037425.1,OP037425.1,"Bovine coronavirus isolate VDC/2018/10/E, partial genome",2018,['USA: Nebraska'],31012,bovine,1324.0,110.33333333333333
+53,OP037424.1,OP037424.1,"Bovine coronavirus isolate VDC/2018/09/E, partial genome",2018,['USA: Nebraska'],31008,bovine,1579.0,105.26666666666667
+54,OP037423.1,OP037423.1,"Bovine coronavirus isolate VDC/2018/08/E, partial genome",2018,['USA: Pennsylvania'],31014,bovine,1423.0,101.64285714285714
+55,OP037422.1,OP037422.1,"Bovine coronavirus isolate VDC/2018/07/E, partial genome",2018,['USA: Nebraska'],31016,bovine,1047.0,130.875
+56,OP037421.1,OP037421.1,"Bovine coronavirus isolate VDC/2018/06/E, partial genome",2018,['USA: Nebraska'],31011,bovine,1337.0,83.5625
+57,OP037420.1,OP037420.1,"Bovine coronavirus isolate VDC/2018/05/R, partial genome",2018,['USA: Nebraska'],30989,bovine,1003.0,143.28571428571428
+58,OP037419.1,OP037419.1,"Bovine coronavirus isolate VDC/2018/04/R, partial genome",2018,['USA: Nebraska'],31005,bovine,1530.0,153.0
+59,OP037418.1,OP037418.1,"Bovine coronavirus isolate VDC/2018/03/R, partial genome",2018,['USA: Nebraska'],31007,bovine,1953.0,130.2
+60,OP037417.1,OP037417.1,"Bovine coronavirus isolate VDC/2018/02/R, partial genome",2018,['USA: Wyoming'],31008,bovine,1041.0,104.1
+61,OP037416.1,OP037416.1,"Bovine coronavirus isolate VDC/2018/01/R, partial genome",2018,['USA: Nebraska'],31006,bovine,1480.0,148.0
+62,OP037415.1,OP037415.1,"Bovine coronavirus isolate VDC/2017/02/E&N, partial genome",2017,['USA: Nebraska'],31009,bovine,1872.0,187.2
+63,OP037414.1,OP037414.1,"Bovine coronavirus isolate VDC/2017/01/E, partial genome",2017,['USA: Nebraska'],30988,bovine,1674.0,128.76923076923077
+64,OP037413.1,OP037413.1,"Bovine coronavirus isolate SDSU/2022/04/R, partial genome",2022,['USA: Nebraska'],30730,bovine,1296.0,129.6
+65,OP037412.1,OP037412.1,"Bovine coronavirus isolate SDSU/2022/03/R, partial genome",2022,['USA: Nebraska'],30840,bovine,1482.0,211.71428571428572
+66,OP037411.1,OP037411.1,"Bovine coronavirus isolate SDSU/2022/02/R, partial genome",2022,['USA: Nebraska'],30875,bovine,799.0,72.63636363636364
+67,OP037410.1,OP037410.1,"Bovine coronavirus isolate SDSU/2022/01/R, partial genome",2022,['USA: Nebraska'],30918,bovine,1259.0,96.84615384615384
+68,OP037409.1,OP037409.1,"Bovine coronavirus isolate SDSU/2021/06/R, partial genome",2021,['USA: North_Dakota'],30822,bovine,876.0,146.0
+69,OP037408.1,OP037408.1,"Bovine coronavirus isolate SDSU/2021/05/R, partial genome",2021,['USA: California'],31021,bovine,1146.0,76.4
+70,OP037407.1,OP037407.1,"Bovine coronavirus isolate SDSU/2021/04/R, partial genome",2021,['USA: Texas'],30968,bovine,730.0,182.5
+71,OP037406.1,OP037406.1,"Bovine coronavirus isolate SDSU/2021/03/R, partial genome",2021,['USA: Texas'],30941,bovine,513.0,85.5
+72,OP037405.1,OP037405.1,"Bovine coronavirus isolate SDSU/2021/02/R, partial genome",2021,['USA: Nebraska'],30842,bovine,427.0,106.75
+73,OP037404.1,OP037404.1,"Bovine coronavirus isolate SDSU/2021/01/R, partial genome",2021,['USA: Colorado'],30909,bovine,800.0,47.05882352941177
+74,OP037403.1,OP037403.1,"Bovine coronavirus isolate SDSU/2020/07/R, partial genome",2020,['USA: Minnesota'],30956,bovine,2065.0,86.04166666666667
+75,OP037402.1,OP037402.1,"Bovine coronavirus isolate SDSU/2020/06/R, partial genome",2020,['USA: Nebraska'],31007,bovine,1729.0,192.11111111111111
+76,OP037401.1,OP037401.1,"Bovine coronavirus isolate SDSU/2020/05/R, partial genome",2020,['USA: Minnesota'],31016,bovine,1479.0,147.9
+77,OP037400.1,OP037400.1,"Bovine coronavirus isolate SDSU/2020/04/R, partial genome",2020,['USA: Wisconsin'],30868,bovine,468.0,156.0
+78,OP037399.1,OP037399.1,"Bovine coronavirus isolate SDSU/2020/03/R, partial genome",2020,['USA: Texas'],31027,bovine,1472.0,113.23076923076923
+79,OP037398.1,OP037398.1,"Bovine coronavirus isolate SDSU/2020/02/R, partial genome",2020,['USA: California'],30682,bovine,916.0,183.2
+80,OP037397.1,OP037397.1,"Bovine coronavirus isolate SDSU/2020/01/R, partial genome",2020,['USA: California'],31002,bovine,1498.0,99.86666666666666
+81,OP037396.1,OP037396.1,"Bovine coronavirus isolate MARC/2021/03/R, partial genome",2021,['USA: Nebraska'],31008,bovine,1762.0,176.2
+82,OP037395.1,OP037395.1,"Bovine coronavirus isolate MARC/2021/02/R, partial genome",2021,['USA: Nebraska'],31007,bovine,1527.0,127.25
+83,OP037394.1,OP037394.1,"Bovine coronavirus isolate MARC/2021/01/R, partial genome",2021,['USA: Nebraska'],31005,bovine,1713.0,131.76923076923077
+84,OP037393.1,OP037393.1,"Bovine coronavirus isolate MARC/2020/03/R, partial genome",2020,['USA: Nebraska'],31037,bovine,1598.0,61.46153846153846
+85,OP037392.1,OP037392.1,"Bovine coronavirus isolate MARC/2020/02/R, partial genome",2020,['USA: Nebraska'],31013,bovine,1566.0,130.5
+86,OP037391.1,OP037391.1,"Bovine coronavirus isolate MARC/2020/01/R, partial genome",2020,['USA: Nebraska'],31010,bovine,1030.0,93.63636363636364
+87,OP037390.1,OP037390.1,"Bovine coronavirus isolate MARC/2019/02/R, partial genome",2019,['USA: Nebraska'],31005,bovine,1596.0,266.0
+88,OP037389.1,OP037389.1,"Bovine coronavirus isolate MARC/2019/01/R, partial genome",2019,['USA: Nebraska'],31003,bovine,1565.0,260.8333333333333
+89,OP037388.1,OP037388.1,"Bovine coronavirus isolate MARC/2018/05/E, partial genome",2018,['USA: Nebraska'],31016,bovine,2129.0,163.76923076923077
+90,OP037387.1,OP037387.1,"Bovine coronavirus isolate MARC/2018/02/R, partial genome",2018,['USA: Nebraska'],31000,bovine,1875.0,234.375
+91,OP037386.1,OP037386.1,"Bovine coronavirus isolate MARC/2018/01/R, partial genome",2018,['USA: Nebraska'],31014,bovine,1865.0,71.73076923076923
+92,OP037385.1,OP037385.1,"Bovine coronavirus isolate MARC/2017/06/R, partial genome",2017,['USA: Nebraska'],31017,bovine,1641.0,126.23076923076923
+93,OP037384.1,OP037384.1,"Bovine coronavirus isolate MARC/2017/05/R, partial genome",2017,['USA: Nebraska'],31005,bovine,1545.0,171.66666666666666
+94,OP037383.1,OP037383.1,"Bovine coronavirus isolate MARC/2017/04/E, partial genome",2017,['USA: Nebraska'],31004,bovine,1523.0,169.22222222222223
+95,OP037382.1,OP037382.1,"Bovine coronavirus isolate MARC/2017/03/E, partial genome",2017,['USA: Nebraska'],31008,bovine,1668.0,139.0
+96,OP037381.1,OP037381.1,"Bovine coronavirus isolate MARC/2017/02/E, partial genome",2017,['USA: Nebraska'],31009,bovine,1378.0,98.42857142857143
+97,OP037380.1,OP037380.1,"Bovine coronavirus isolate MARC/2017/01/R, partial genome",2017,['USA: Nebraska'],31013,bovine,1144.0,114.4
+98,OP037379.1,OP037379.1,"Bovine coronavirus isolate MARC/2016/07/R, partial genome",2016,['USA: Nebraska'],31006,bovine,1525.0,101.66666666666667
+99,OP037378.1,OP037378.1,"Bovine coronavirus isolate MARC/2016/06/R, partial genome",2016,['USA: Nebraska'],31003,bovine,1787.0,162.45454545454547
+100,OP037377.1,OP037377.1,"Bovine coronavirus isolate MARC/2016/05/R, partial genome",2016,['USA: Nebraska'],31004,bovine,1664.0,208.0
+101,OP037376.1,OP037376.1,"Bovine coronavirus isolate MARC/2016/04/R, partial genome",2016,['USA: Nebraska'],31006,bovine,1357.0,75.38888888888889
+102,OP037375.1,OP037375.1,"Bovine coronavirus isolate MARC/2016/03/R, partial genome",2016,['USA: Nebraska'],31009,bovine,1640.0,164.0
+103,OP037374.1,OP037374.1,"Bovine coronavirus isolate MARC/2016/02/R, partial genome",2016,['USA: Nebraska'],31005,bovine,1573.0,174.77777777777777
+104,OP037373.1,OP037373.1,"Bovine coronavirus isolate MARC/2016/01/R, partial genome",2016,['USA: Nebraska'],31009,bovine,1640.0,164.0
+105,OP037372.1,OP037372.1,"Bovine coronavirus isolate MARC/2015/02/R, partial genome",2015,['USA: Nebraska'],31016,bovine,1233.0,88.07142857142857
+106,OP037371.1,OP037371.1,"Bovine coronavirus isolate MARC/2015/01/R, partial genome",2015,['USA: Nebraska'],31017,bovine,1106.0,65.05882352941177
+107,OP037370.1,OP037370.1,"Bovine coronavirus isolate MARC/2014/04/R, partial genome",2014,['USA: Nebraska'],30996,bovine,1469.0,113.0
+108,OP037369.1,OP037369.1,"Bovine coronavirus isolate MARC/2014/03/R, partial genome",2014,['USA: Nebraska'],30996,bovine,1469.0,113.0
+109,OP037368.1,OP037368.1,"Bovine coronavirus isolate MARC/2014/02/R, partial genome",2014,['USA: Nebraska'],30990,bovine,823.0,205.75
+110,OP037367.1,OP037367.1,"Bovine coronavirus isolate MARC/2014/01/R, partial genome",2014,['USA: Nebraska'],30996,bovine,1468.0,112.92307692307692
+111,OP037366.1,OP037366.1,"Bovine coronavirus isolate MARC/2013/02/R, partial genome",2013,['USA: Nebraska'],31016,bovine,1257.0,209.5
+112,OP037365.1,OP037365.1,"Bovine coronavirus isolate MARC/2013/01/R, partial genome",2013,['USA: Nebraska'],31007,bovine,1455.0,181.875
+113,ON133848.1,ON133848.1,"Canine respiratory coronavirus isolate USA 4, partial genome",2020,['USA'],30807,dog,627.0,89.57142857142857
+114,ON133847.1,ON133847.1,"Canine respiratory coronavirus isolate USA 3, partial genome",2021,['USA'],30807,dog,503.0,71.85714285714286
+115,ON133846.1,ON133846.1,"Canine respiratory coronavirus isolate USA 2, partial genome",2021,['USA'],30807,dog,503.0,71.85714285714286
+116,ON133845.1,ON133845.1,"Canine respiratory coronavirus isolate USA 1, partial genome",2021,['USA'],30807,dog,748.0,83.11111111111111
+117,ON133844.1,ON133844.1,"Canine respiratory coronavirus isolate USA 5, partial genome",2019,['USA'],30809,dog,690.0,86.25
+118,LC720429.1,LC720429.1,"Human coronavirus OC43 HCoVOC43_Fukushima_O989_2019 RNA, nearly complete genome",2019,['Japan: Fukushima'],30705,Homo sapiens,937.0,133.85714285714286
+119,LC720427.1,LC720427.1,"Human coronavirus OC43 HCoVOC43_Fukushima_OR7_2020 RNA, nearly complete genome",2020,['Japan: Fukushima'],30714,Homo sapiens,1050.0,150.0
+120,ON792964.1,ON792964.1,"Bovine coronavirus strain ABGEDB-260, complete genome",18-Mar-2020,['Ireland'],31034,Bos taurus; Holstein Frisian,604.0,60.4
+121,ON792962.1,ON792962.1,"Bovine coronavirus strain ABGEBB-129, complete genome",20-Nov-2019,['Ireland'],31005,Bos taurus; Charolais,614.0,122.8
+122,ON792961.1,ON792961.1,"Bovine coronavirus strain ABGEBB-115, complete genome",11-Nov-2019,['Ireland'],31122,Bos taurus; Aberdeen Angus,10.0,5.0
+123,ON792960.1,ON792960.1,"Bovine coronavirus strain ABGEBB-110, complete genome",09-Nov-2019,['Ireland'],31122,Bos taurus; Limousin,243.0,121.5
+124,ON792959.1,ON792959.1,"Bovine coronavirus strain ABGEBB-108, complete genome",10-Nov-2019,['Ireland'],31035,Bos taurus; Aberdeen Angus,1411.0,176.375
+125,ON792958.1,ON792958.1,"Bovine coronavirus strain ABGEBB-78, complete genome",25-Nov-2019,['Ireland'],30924,Bos taurus; Charolais,827.0,275.6666666666667
+126,ON792957.1,ON792957.1,"Bovine coronavirus strain ABGEB0-128, complete genome",06-Nov-2019,['Ireland'],30879,Bos taurus; Hereford,1490.0,298.0
+127,ON792956.1,ON792956.1,"Bovine coronavirus strain ABGEB0-122, complete genome",05-Nov-2019,['Ireland'],31051,Bos taurus; Charolais,807.0,115.28571428571429
+128,ON792955.1,ON792955.1,"Bovine coronavirus strain ABGEB0-116, complete genome",05-Nov-2019,['Ireland'],31102,Bos taurus; Charolais,1071.0,133.875
+129,ON792954.1,ON792954.1,"Bovine coronavirus strain ABGEB0-110, complete genome",05-Nov-2019,['Ireland'],31052,Bos taurus; Limousin,1528.0,191.0
+130,ON792953.1,ON792953.1,"Bovine coronavirus strain ABGEB0-88, complete genome",04-Nov-2019,['Ireland'],31061,Bos taurus; Charolais,1031.0,79.3076923076923
+131,ON792952.1,ON792952.1,"Bovine coronavirus strain ABGEB0-81, complete genome",04-Nov-2019,['Ireland'],31124,Bos taurus; Charolais,789.0,112.71428571428571
+132,ON792963.1,ON792963.1,"Bovine coronavirus strain ABGEDB-205, complete genome",19-Mar-2020,['Ireland'],30957,Bos taurus; Aberdeen Angus,1027.0,64.1875
+133,ON792951.1,ON792951.1,"Bovine coronavirus strain ABGEB0-79, complete genome",04-Nov-2019,['Ireland'],31060,Bos taurus; Charolais,547.0,68.375
+134,ON792950.1,ON792950.1,"Bovine coronavirus strain ABGEB0-78, complete genome",04-Nov-2019,['Ireland'],31017,Bos taurus; Charolais,901.0,100.11111111111111
+135,ON792949.1,ON792949.1,"Bovine coronavirus strain ABGEB0-74, complete genome",04-Nov-2019,['Ireland'],31078,Bos taurus; Aberdeen Angus,998.0,166.33333333333334
+136,ON792948.1,ON792948.1,"Bovine coronavirus strain ABGEB0-72, complete genome",04-Nov-2019,['Ireland'],31110,Bos taurus; Aberdeen Angus,1114.0,111.4
+137,ON792947.1,ON792947.1,"Bovine coronavirus strain ABGEB0-70, complete genome",04-Nov-2019,['Ireland'],31061,Bos taurus; Charolais,551.0,91.83333333333333
+138,ON792946.1,ON792946.1,"Bovine coronavirus strain ABGEB0-66, complete genome",04-Nov-2019,['Ireland'],31079,Bos taurus; Charolais,1492.0,149.2
+139,ON792945.1,ON792945.1,"Bovine coronavirus strain ABGEB0-62, complete genome",04-Nov-2019,['Ireland'],31216,Bos taurus; Salers,1436.0,68.38095238095238
+140,ON792944.1,ON792944.1,"Bovine coronavirus strain ABGEB0-59, complete genome",04-Nov-2019,['Ireland'],30968,Bos taurus; Aberdeen Angus,926.0,77.16666666666667
+141,ON792943.1,ON792943.1,"Bovine coronavirus strain ABGEB0-56, complete genome",04-Nov-2019,['Ireland'],31032,Bos taurus; Hereford,1316.0,101.23076923076923
+142,ON792942.1,ON792942.1,"Bovine coronavirus strain ABGEB0-54, complete genome",04-Nov-2019,['Ireland'],31042,Bos taurus; Limousin,1223.0,94.07692307692308
+143,ON792941.1,ON792941.1,"Bovine coronavirus strain ABGEB0-52, complete genome",04-Nov-2019,['Ireland'],31143,Bos taurus; Charolais,424.0,38.54545454545455
+144,ON376725.1,ON376725.1,"Human coronavirus OC43 strain MA-P9, complete genome",Mar-2021,['China'],30746,Homo sapiens,1394.0,126.72727272727273
+145,ON376724.1,ON376724.1,"Human coronavirus OC43 strain WT-P0, complete genome",Mar-2021,['China'],30746,Homo sapiens,1480.0,123.33333333333333
+146,ON093194.1,ON093194.1,"Bovine coronavirus strain BCoV2/2021/CHN, complete genome",2021,['China'],30993,cow,1268.0,115.27272727272727
+147,ON146444.1,ON146444.1,"Bovine coronavirus strain MARC/BRCV_2014, complete genome",17-Oct-2014,['USA: Nebraska'],31016,bovine,1848.0,108.70588235294117
+148,MW559057.1,MW559057.1,"Human coronavirus OC43 isolate Guangzhou 201301, complete genome",27-Mar-2013,['China'],30714,Homo sapiens,1438.0,179.75
+149,MW411433.1,MW411433.1,"UNVERIFIED: Human coronavirus OC43 isolate Shenzhen/Nanshan/20200604/HJD, complete genome",04-Jun-2020,['China'],30722,Homo sapiens,1238.0,154.75
+150,MW411432.1,MW411432.1,"UNVERIFIED: Human coronavirus OC43 isolate Shenzhen/Nanshan/20200604/LKH, complete genome",04-Jun-2020,['China'],30726,Homo sapiens,1238.0,154.75
+151,MN306043.1,MN306043.1,"Human coronavirus OC43 strain HCoV_OC43/Seattle/USA/SC0841/2019, complete genome",2019,['USA'],30716,Homo sapiens,1285.0,183.57142857142858
+152,MN306042.1,MN306042.1,"Human coronavirus OC43 strain HCoV_OC43/Seattle/USA/SC0839/2019, complete genome",2019,['USA'],30723,Homo sapiens,1238.0,154.75
+153,MN306041.1,MN306041.1,"Human coronavirus OC43 strain HCoV_OC43/Seattle/USA/SC0810/2019, complete genome",2019,['USA'],30717,Homo sapiens,1238.0,154.75
+154,KY369907.1,KY369907.1,"Human coronavirus OC43 strain HCoV_OC43/Seattle/USA/SC9741/2016, complete genome",2016,['USA'],30725,Homo sapiens,1476.0,184.5
+155,KY983588.1,KY983588.1,"Human coronavirus OC43 strain HCoV_OC43/Seattle/USA/SC3118/2015, complete genome",2015,['USA'],30562,Homo sapiens,738.0,184.5
+156,KY983585.1,KY983585.1,"Human coronavirus OC43 strain HCoV_OC43/Seattle/USA/SC2854/2015, complete genome",2015,['USA'],30659,Homo sapiens,910.0,303.3333333333333
+157,KY983583.1,KY983583.1,"Human coronavirus OC43 strain HCoV_OC43/Seattle/USA/SC2481/2015, complete genome",2015,['USA'],30668,Homo sapiens,738.0,184.5
+158,KY967361.1,KY967361.1,"Human coronavirus OC43 strain HCoV_OC43/Seattle/USA/SC2345/2015, complete genome",2015,['USA'],30661,Homo sapiens,722.0,144.4
+159,KY967360.1,KY967360.1,"Human coronavirus OC43 strain HCoV_OC43/Seattle/USA/SC2476/2015, complete genome",2015,['USA'],30674,Homo sapiens,848.0,84.8
+160,KY967359.1,KY967359.1,"Human coronavirus OC43 strain HCoV_OC43/Seattle/USA/SC2730/2015, complete genome",2015,['USA'],30670,Homo sapiens,900.0,300.0
+161,KY967358.1,KY967358.1,"Human coronavirus OC43 strain HCoV_OC43/Seattle/USA/SC2770/2015, complete genome",2015,['USA'],30670,Homo sapiens,748.0,149.6
+162,KY967356.1,KY967356.1,"Human coronavirus OC43 strain HCoV_OC43/Seattle/USA/SC2924/2015, complete genome",2015,['USA'],30648,Homo sapiens,699.0,139.8
+163,KY684759.1,KY684759.1,"Human coronavirus OC43 strain HCoV_OC43/Seattle/USA/SC2269/2016, complete genome",2016,['USA'],30656,Homo sapiens,738.0,184.5
+164,OK662397.1,OK662397.1,"Human coronavirus OC43 strain TKU-2021A, complete genome",2021,['Finland'],30731,Homo sapiens,1498.0,136.1818181818182
+165,OL542832.1,OL542832.1,"Porcine hemagglutinating encephalomyelitis virus isolate GNU-2113, complete genome",Jan-2021,['South Korea'],29982,Sus scrofa,791.0,52.733333333333334
+166,MH828490.1,MH828490.1,"Human coronavirus OC43 strain vzcorona-b1 replicase polyprotein 1ab gene, complete cds",17-Apr-2015,['Viet Nam'],30716,Homo sapiens,1384.0,115.33333333333333
+167,OK391229.1,OK391229.1,"Human coronavirus OC43 strain OC43/China/44/2019 hemagglutinin-esterase protein (HE), NS5a protein (NS5a), nucleocapsid protein (N), and N2 protein (N2) genes, complete cds",30-Jul-2019,['China'],30492,Homo sapiens,488.0,54.22222222222222
+168,OK391238.1,OK391238.1,"Human coronavirus OC43 strain OC43/China/41/2019, partial genome",08-Jul-2019,['China'],30614,Homo sapiens,830.0,103.75
+169,OK391230.1,OK391230.1,"UNVERIFIED: Human coronavirus OC43 strain OC43/China/P43/2021, complete genome",01-Apr-2021,['China'],29185,Homo sapiens,991.0,165.16666666666666
+170,OK391228.1,OK391228.1,"UNVERIFIED: Human coronavirus OC43 strain OC43/China/P21/2021, complete genome",01-Feb-2021,['China'],30400,Homo sapiens,1528.0,254.66666666666666
+171,OK391227.1,OK391227.1,"Human coronavirus OC43 strain OC43/China/43/2019, complete genome",14-Jul-2019,['China'],30676,Homo sapiens,1057.0,176.16666666666666
+172,OK391226.1,OK391226.1,"Human coronavirus OC43 strain OC43/China/36/2019, complete genome",04-May-2019,['China'],30686,Homo sapiens,1259.0,157.375
+173,OK391225.1,OK391225.1,"Human coronavirus OC43 strain OC43/China/32/2019, complete genome",24-Feb-2019,['China'],30675,Homo sapiens,1322.0,132.2
+174,OK391224.1,OK391224.1,"UNVERIFIED: Human coronavirus OC43 strain OC43/China/31/2019, complete genome",20-Feb-2019,['China'],30326,Homo sapiens,986.0,140.85714285714286
+175,OK391223.1,OK391223.1,"UNVERIFIED: Human coronavirus OC43 strain OC43/China/29/2019, complete genome",23-Jan-2019,['China'],29818,Homo sapiens,946.0,315.3333333333333
+176,OK391222.1,OK391222.1,"UNVERIFIED: Human coronavirus OC43 strain OC43/China/26/2019, complete genome",10-Jan-2019,['China'],29289,Homo sapiens,520.0,173.33333333333334
+177,OK391221.1,OK391221.1,"UNVERIFIED: Human coronavirus OC43 strain OC43/China/23/2019, complete genome",15-Dec-2018,['China'],29936,Homo sapiens,1124.0,224.8
+178,OM937885.1,OM937885.1,"Equine coronavirus strain ECoV 2020/7881, complete genome",2020,['China'],30964,donkey,320.0,40.0
+179,LC654453.1,LC654453.1,"Human coronavirus OC43 Fukushima_H189_2018 RNA, complete genome",2018,['Japan: Fukushima'],30713,Homo sapiens,1262.0,126.2
+180,LC654452.1,LC654452.1,"Human coronavirus OC43 Fukushima_H478_2018 RNA, complete genome",2018,['Japan: Fukushima'],30743,Homo sapiens,1404.0,175.5
+181,LC654451.1,LC654451.1,"Human coronavirus OC43 Fukushima_H509_2019 RNA, complete genome",2019,['Japan: Fukushima'],30743,Homo sapiens,1404.0,175.5
+182,LC654450.1,LC654450.1,"Human coronavirus OC43 Fukushima_O120_2017 RNA, complete genome",2017,['Japan: Fukushima'],30724,Homo sapiens,1092.0,156.0
+183,MW052042.1,MW052042.1,"Human coronavirus OC43 strain 2019_0536, partial genome",2019,['USA'],30651,Homo sapiens,876.0,146.0
+184,LC687400.1,LC687400.1,"Human coronavirus OC43 Fukushima_O502_2019 RNA, complete genome",2019,['Japan: Fukushima'],30693,Homo sapiens,1319.0,164.875
+185,LC687399.1,LC687399.1,"Human coronavirus OC43 Fukushima_H773_2019 RNA, complete genome",2019,['Japan: Fukushima'],30677,Homo sapiens,1273.0,254.6
+186,LC687398.1,LC687398.1,"Human coronavirus OC43 Fukushima_H763_2019 RNA, complete genome",2019,['Japan: Fukushima'],30673,Homo sapiens,1055.0,175.83333333333334
+187,MH810163.1,MH810163.1,"Yak coronavirus strain YAK/HY24/CH/2017, complete genome",2017,['China'],31032,yak,1509.0,107.78571428571429
+188,OL770289.1,OL770289.1,"Human coronavirus OC43 isolate HCoV-OC43/15-318/WA/AU/2019, partial genome",2019,['Australia'],30665,Homo sapiens,727.0,181.75
+189,OL770288.1,OL770288.1,"Human coronavirus OC43 isolate HCoV-OC43/09-83/QLD/AU/2019, complete genome",2019,['Australia'],30665,Homo sapiens,712.0,237.33333333333334
+190,OL770287.1,OL770287.1,"Human coronavirus OC43 isolate HCoV-OC43/03-16118/NSW/AU/2019, complete genome",2019,['Australia'],30665,Homo sapiens,712.0,237.33333333333334
+191,MW587042.1,MW587042.1,"Human coronavirus OC43 isolate S0979LY ORF1ab polyprotein (ORF1ab), ORF1a polyprotein (ORF1a), ns2 (ns2), hemagglutinin-esterase (HE), surface glycoprotein (S), ns12.9 (ns12.9), envelope protein (E), membrane protein (M), nucleocapsid protein (N), and I protein (N) genes, complete cds",May-2016/Dec-2017,['China'],30727,Homo sapiens,1540.0,154.0
+192,MW587041.1,MW587041.1,"Human coronavirus OC43 isolate S0229XLX ORF1ab polyprotein (ORF1ab) and ORF1a polyprotein (ORF1a) genes, partial cds; ns2 (ns2), hemagglutinin-esterase (HE), surface glycoprotein (S), and ns12.9 (ns12.9) genes, complete cds; envelope protein (E) and membrane protein (M) genes, partial cds; and nucleocapsid protein (N) and I protein (N) genes, complete cds",May-2016/Dec-2017,['China'],30697,Homo sapiens,169.0,21.125
+193,MW587040.1,MW587040.1,"Human coronavirus OC43 isolate S0128YHP ORF1ab polyprotein (ORF1ab), ORF1a polyprotein (ORF1a), ns2 (ns2), hemagglutinin-esterase (HE), surface glycoprotein (S), ns12.9 (ns12.9), envelope protein (E), membrane protein (M), nucleocapsid protein (N), and I protein (N) genes, complete cds",May-2016/Dec-2017,['China'],30727,Homo sapiens,1380.0,98.57142857142857
+194,MW938760.1,MW938760.1,"Human coronavirus OC43 isolate HK19-01, complete genome",08-Aug-2019,['Hong Kong'],30742,Homo sapiens,1134.0,141.75
+195,OL770366.1,OL770366.1,"Equine coronavirus strain ECoV 2021/464693, complete genome",2021,['China'],30942,donkey,97.0,48.5
+196,OK500305.1,OK500305.1,"Human coronavirus OC43 strain OC43/China/73/2021, complete genome",18-Sep-2020,['China'],30675,Homo sapiens,1238.0,112.54545454545455
+197,OK500304.1,OK500304.1,"Human coronavirus OC43 strain OC43/China/70/2021, complete genome",14-Sep-2020,['China'],30667,Homo sapiens,1139.0,227.8
+198,OK500303.1,OK500303.1,"Human coronavirus OC43 strain OC43/China/67/2021, complete genome",28-Jul-2020,['China'],30700,Homo sapiens,1080.0,154.28571428571428
+199,OK500302.1,OK500302.1,"Human coronavirus OC43 strain OC43/China/58/2019, complete genome",19-Dec-2019,['China'],30664,Homo sapiens,924.0,132.0
+200,OK500301.1,OK500301.1,"Human coronavirus OC43 strain OC43/China/57/2019, complete genome",10-Dec-2019,['China'],30581,Homo sapiens,614.0,102.33333333333333
+201,OK500300.1,OK500300.1,"Human coronavirus OC43 strain OC43/China/56/2019, complete genome",17-Nov-2019,['China'],30556,Homo sapiens,941.0,235.25
+202,OK500299.1,OK500299.1,"Human coronavirus OC43 strain OC43/China/55/2019, complete genome",12-Nov-2019,['China'],30618,Homo sapiens,1074.0,82.61538461538461
+203,OK500298.1,OK500298.1,"Human coronavirus OC43 strain OC43/China/54/2019, complete genome",05-Nov-2019,['China'],30658,Homo sapiens,1268.0,158.5
+204,OK500297.1,OK500297.1,"Human coronavirus OC43 strain OC43/China/53/2019, complete genome",25-Oct-2019,['China'],30708,Homo sapiens,1167.0,194.5
+205,LC654456.1,LC654456.1,"Human coronavirus OC43 Tokyo_SGH-71_2016 RNA, complete genome",2016,['Japan: Tokyo'],30737,Homo sapiens,1465.0,112.6923076923077
+206,LC315649.2,LC315649.2,"Human coronavirus OC43 Tokyo/SGH-65/2016 RNA, complete genome",2016,['Japan: Tokyo'],30737,Homo sapiens,1300.0,76.47058823529412
+207,LC315648.2,LC315648.2,"Human coronavirus OC43 Tokyo/SGH-06/2015 RNA, complete genome",2015,['Japan: Tokyo'],30714,Homo sapiens,1392.0,116.0
+208,LC315647.2,LC315647.2,"Human coronavirus OC43 Tokyo/SGH-61/2014 RNA, complete genome",2014,['Japan: Tokyo'],30755,Homo sapiens,1335.0,190.71428571428572
+209,LC315646.2,LC315646.2,"Human coronavirus OC43 Tokyo/SGH-36/2014 RNA, complete genome",2014,['Japan: Tokyo'],30736,Homo sapiens,1614.0,124.15384615384616
+210,OK318947.1,OK318947.1,"Human coronavirus OC43 strain OC43/China/51/2019, complete genome",22-Oct-2019,['China'],30679,Homo sapiens,1080.0,154.28571428571428
+211,OK318946.1,OK318946.1,"Human coronavirus OC43 strain OC43/China/45/2019, complete genome",02-Aug-2019,['China'],30584,Homo sapiens,857.0,171.4
+212,OK318945.1,OK318945.1,"Human coronavirus OC43 strain OC43/China/40/2019, partial genome",15-Jun-2019,['China'],30671,Homo sapiens,905.0,129.28571428571428
+213,OK318944.1,OK318944.1,"Human coronavirus OC43 strain OC43/China/34/2019, complete genome",12-Mar-2019,['China'],30689,Homo sapiens,1346.0,269.2
+214,OK318943.1,OK318943.1,"Human coronavirus OC43 strain OC43/China/27/2019, complete genome",12-Jan-2019,['China'],30689,Homo sapiens,1147.0,382.3333333333333
+215,OK318942.1,OK318942.1,"Human coronavirus OC43 strain OC43/China/24/2019, complete genome",20-Dec-2018,['China'],30689,Homo sapiens,1147.0,382.3333333333333
+216,OK318941.1,OK318941.1,"Human coronavirus OC43 strain OC43/China/22/2019, complete genome",29-Nov-2018,['China'],30646,Homo sapiens,1071.0,267.75
+217,OK318940.1,OK318940.1,"Human coronavirus OC43 strain OC43/China/21/2019, complete genome",09-Dec-2018,['China'],30667,Homo sapiens,1091.0,181.83333333333334
+218,OK318939.1,OK318939.1,"Human coronavirus OC43 strain OC43/China/19/2019, complete genome",30-Nov-2018,['China'],30681,Homo sapiens,1294.0,215.66666666666666
+219,OK318918.1,OK318918.1,"Human coronavirus OC43 strain OC43/China/38/2019, complete genome",03-Jun-2019,['China'],30651,Homo sapiens,1068.0,133.5
+220,OK318917.1,OK318917.1,"Human coronavirus OC43 strain OC43/China/47/2019, complete genome",10-Aug-2019,['China'],30675,Homo sapiens,1080.0,154.28571428571428
+221,LC642814.1,LC642814.1,"Bovine coronavirus BoCoV GF2020 RNA, complete genome",2020,['Japan'],31015,Bos taurus,1189.0,49.541666666666664
+222,MZ450972.1,MZ450972.1,"Human coronavirus OC43 strain OC43/Seattle/USA/20959/2021, complete genome",2021,['USA'],30688,Homo sapiens,1148.0,114.8
+223,MF083115.1,MF083115.1,"Porcine hemagglutinating encephalomyelitis virus strain CC14, complete genome",Mar-2014,['China'],30682,Sus scrofa,993.0,141.85714285714286
+224,LC592689.1,LC592689.1,"Equine coronavirus Tokyo2020 RNA, nearly complete genome",2020,['Japan: Tokyo'],30763,Equus caballus,379.0,63.166666666666664
+225,KY554975.1,KY554975.1,"Human coronavirus OC43 strain N09-382B, complete genome",2016,['USA'],30669,Homo sapiens,1440.0,130.9090909090909
+226,KY554974.1,KY554974.1,"Human coronavirus OC43 strain N08-33B_360X, complete genome",2016,['USA'],30713,Homo sapiens,1440.0,130.9090909090909
+227,KY554972.1,KY554972.1,"Human coronavirus OC43 strain N07-1541B_433X, complete genome",2016,['USA'],30710,Homo sapiens,1440.0,130.9090909090909
+228,KY674920.1,KY674920.1,"Human coronavirus OC43 strain N09-595B, complete genome",2016,['USA'],30581,Homo sapiens,851.0,121.57142857142857
+229,KY674918.1,KY674918.1,"Human coronavirus OC43 strain N07-1647B, complete genome",2016,['USA'],30550,Homo sapiens,682.0,113.66666666666667
+230,KY674917.1,KY674917.1,"Human coronavirus OC43 strain N07-1609B, complete genome",2016,['USA'],30536,Homo sapiens,864.0,144.0
+231,MW165134.1,MW165134.1,"Porcine hemagglutinating encephalomyelitis virus strain PHEV/67N/US/1970, complete genome",1970,['USA'],30673,Sus scrofa,2213.0,170.23076923076923
+232,MW711287.1,MW711287.1,"Bovine coronavirus isolate SWUN/NMG-D10/2020, complete genome",01-Sep-2020,['China'],31008,,1200.0,80.0
+233,MW532119.1,MW532119.1,"Human coronavirus OC43 strain OC43/China/10/2017, complete genome",03-Nov-2017,['China'],30689,Homo sapiens,939.0,187.8
+234,MW532118.1,MW532118.1,"Human coronavirus OC43 strain OC43/China/09/2017, complete genome",08-Apr-2017,['China'],30689,Homo sapiens,939.0,187.8
+235,MW532117.1,MW532117.1,"Human coronavirus OC43 strain OC43/China/11/2017, complete genome",05-Jun-2017,['China'],30695,Homo sapiens,943.0,188.6
+236,MW532116.1,MW532116.1,"Human coronavirus OC43 strain OC43/China/06/2017, complete genome",01-Dec-2017,['China'],30678,Homo sapiens,939.0,187.8
+237,MW532115.1,MW532115.1,"Human coronavirus OC43 strain OC43/China/05/2017, complete genome",06-Aug-2017,['China'],30695,Homo sapiens,1124.0,124.88888888888889
+238,MW532114.1,MW532114.1,"Human coronavirus OC43 strain OC43/China/08/2017, complete genome",12-Aug-2017,['China'],30695,Homo sapiens,949.0,237.25
+239,MW532113.1,MW532113.1,"Human coronavirus OC43 strain OC43/China/04/2017, complete genome",02-Aug-2017,['China'],30695,Homo sapiens,939.0,187.8
+240,MW532112.1,MW532112.1,"Human coronavirus OC43 strain OC43/China/03/2010, complete genome",05-Jan-2010,['China'],30677,Homo sapiens,695.0,347.5
+241,MW532111.1,MW532111.1,"Human coronavirus OC43 strain OC43/China/01/2009, complete genome",12-Mar-2009,['China'],30677,Homo sapiens,495.0,247.5
+242,MW532110.1,MW532110.1,"Human coronavirus OC43 strain OC43/China/02/2009, complete genome",09-Jun-2009,['China'],30677,Homo sapiens,851.0,212.75
+243,MW532109.1,MW532109.1,"Human coronavirus OC43 strain OC43/China/12/2018, complete genome",06-Jan-2018,['China'],30662,Homo sapiens,1082.0,135.25
+244,MW532108.1,MW532108.1,"Human coronavirus OC43 strain OC43/China/07/2017, complete genome",12-Dec-2017,['China'],30668,Homo sapiens,1063.0,265.75
+245,MT118692.1,MT118692.1,"Human coronavirus OC43 strain 2019_1540, partial genome",2019,['USA'],30647,Homo sapiens,1158.0,193.0
+246,MT118685.1,MT118685.1,"Human coronavirus OC43 strain 2019_0546, partial genome",2019,['USA'],30730,Homo sapiens,1247.0,178.14285714285714
+247,MT118683.1,MT118683.1,"Human coronavirus OC43 strain 2019_0522, partial genome",2019,['USA'],30721,Homo sapiens,1238.0,154.75
+248,MT118678.1,MT118678.1,"Human coronavirus OC43 strain 2018_9906, partial genome",2018,['USA'],30737,Homo sapiens,1476.0,184.5
+249,MT118673.1,MT118673.1,"Human coronavirus OC43 strain 2018_9142, partial genome",2018,['USA'],30701,Homo sapiens,1238.0,154.75
+250,MT118672.1,MT118672.1,"Human coronavirus OC43 strain 2018_8663, partial genome",2018,['USA'],30643,Homo sapiens,1363.0,227.16666666666666
+251,MT118671.1,MT118671.1,"Human coronavirus OC43 strain 2018_8596, partial genome",2018,['USA'],30692,Homo sapiens,834.0,75.81818181818181
+252,MT118668.1,MT118668.1,"Human coronavirus OC43 strain 2018_0004, partial genome",2018,['USA'],30717,Homo sapiens,1300.0,185.71428571428572
+253,MT118667.1,MT118667.1,"Human coronavirus OC43 strain 2017_1822, partial genome",2017,['USA'],30733,Homo sapiens,1476.0,184.5
+254,MN982199.1,MN982199.1,"Bovine coronavirus isolate BCOV-China/SWUN/A10/2018, complete genome",01-Nov-2018,['China'],31028,calf,1166.0,106.0
+255,MN982198.1,MN982198.1,"Bovine coronavirus isolate BCOV-China/SWUN/A1/2018, complete genome",01-Nov-2018,['China'],31018,calf,1289.0,99.15384615384616
+256,NC_003045.1,NC_003045.1,"Bovine coronavirus isolate BCoV-ENT, complete genome",17-SEP-2020,,31028,,1405.0,93.66666666666667
+257,NC_006213.1,NC_006213.1,"Human coronavirus OC43 strain ATCC VR-759, complete genome",16-SEP-2020,['USA'],30741,,1730.0,115.33333333333333
+258,KY419112.1,KY419112.1,"Porcine hemagglutinating encephalomyelitis virus strain PHEV-CoV/swine/USA/15TOSU1765/2015, complete genome",01-Aug-2015,['USA'],30531,Sus scrofa scrofa,229.0,76.33333333333333
+259,KY419111.1,KY419111.1,"Porcine hemagglutinating encephalomyelitis virus strain PHEV-CoV/swine/USA/15TOSU1727/2015, complete genome",08-Aug-2015,['USA'],29866,Sus scrofa scrofa,426.0,47.333333333333336
+260,KY419110.1,KY419110.1,"Porcine hemagglutinating encephalomyelitis virus strain PHEV-CoV/swine/USA/15TOSU1582/2015, complete genome",12-Aug-2015,['USA'],30515,Sus scrofa scrofa,495.0,82.5
+261,KY419109.1,KY419109.1,"Porcine hemagglutinating encephalomyelitis virus strain PHEV-CoV/swine/USA/15TOSU1655/2015, complete genome",01-Aug-2015,['USA'],29906,Sus scrofa scrofa,1818.0,113.625
+262,KY419107.1,KY419107.1,"Porcine hemagglutinating encephalomyelitis virus strain PHEV-CoV/swine/USA/15TOSU1209/2015, complete genome",25-Jul-2015,['USA'],29866,Sus scrofa scrofa,426.0,47.333333333333336
+263,KY419106.1,KY419106.1,"Porcine hemagglutinating encephalomyelitis virus strain PHEV-CoV/swine/USA/15TOSU1785/2015, complete genome",15-Aug-2015,['USA'],29866,Sus scrofa scrofa,426.0,47.333333333333336
+264,KY419105.1,KY419105.1,"Porcine hemagglutinating encephalomyelitis virus strain PHEV-CoV/swine/USA/15TOSU0582/2015, complete genome",20-Aug-2015,['USA'],30513,Sus scrofa scrofa,319.0,31.9
+265,KY419104.1,KY419104.1,"Porcine hemagglutinating encephalomyelitis virus strain PHEV-CoV/swine/USA/15TOSU0331/2015, complete genome",15-Aug-2015,['USA'],30530,Sus scrofa scrofa,364.0,91.0
+266,KY419103.1,KY419103.1,"Porcine hemagglutinating encephalomyelitis virus strain PHEV-CoV/swine/USA/15TOSU25049/2015, complete genome",15-Sep-2015,['USA'],30632,Sus scrofa scrofa,1651.0,78.61904761904762
+267,LR721664.1,LR721664.1,XXX,26-MAR-2020,,31190,,764.0,76.4
+268,MN310478.1,MN310478.1,"Human coronavirus OC43 strain HCoV_OC43/Seattle/USA/SC0776/2019, complete genome",2019,['USA'],30681,Homo sapiens,738.0,184.5
+269,MN310476.1,MN310476.1,"Human coronavirus OC43 strain HCoV_OC43/Seattle/USA/SC9428/2018, complete genome",2019,['USA'],30562,Homo sapiens,969.0,121.125
+270,MN306053.1,MN306053.1,"Human coronavirus OC43 strain HCoV_OC43/Seattle/USA/SC9430/2018, complete genome",2019,['USA'],30818,Homo sapiens,1053.0,131.625
+271,MN306036.1,MN306036.1,"Human coronavirus OC43 strain HCoV_OC43/Seattle/USA/SC0682/2019, complete genome",2019,['USA'],30681,Homo sapiens,738.0,184.5
+272,KY369906.1,KY369906.1,"Human coronavirus OC43 strain HCoV_OC43/Seattle/USA/SC622/2016, complete genome",2016,['USA'],30689,Homo sapiens,1095.0,156.42857142857142
+273,KY369905.1,KY369905.1,"Human coronavirus OC43 strain HCoV_OC43/Seattle/USA/SC831/2016, complete genome",2016,['USA'],30581,Homo sapiens,1095.0,156.42857142857142
+274,LC494178.1,LC494178.1,"Bovine coronavirus TCG-19 RNA, complete genome",2016-12,['Japan'],30949,,768.0,40.421052631578945
+275,LC494177.1,LC494177.1,"Bovine coronavirus TCG-9 RNA, complete genome",2008-03,['Japan'],30936,,249.0,124.5
+276,LC494176.1,LC494176.1,"Bovine coronavirus TCG-17 RNA, complete genome",2016,['Japan'],30945,,946.0,63.06666666666667
+277,LC494175.1,LC494175.1,"Bovine coronavirus TCG-18 RNA, complete genome",2016,['Japan'],30941,,1905.0,127.0
+278,LC494174.1,LC494174.1,"Bovine coronavirus TCG-8 RNA, complete genome",2008-01,['Japan'],30951,,1267.0,63.35
+279,LC494173.1,LC494173.1,"Bovine coronavirus TCG-7 RNA, complete genome",2008-01,['Japan'],30951,,1020.0,56.666666666666664
+280,LC494172.1,LC494172.1,"Bovine coronavirus TCG-6 RNA, complete genome",2007-12,['Japan'],30952,,1319.0,109.91666666666667
+281,LC494171.1,LC494171.1,"Bovine coronavirus TCG-16 RNA, complete genome",2010-01,['Japan'],30936,,487.0,54.111111111111114
+282,LC494170.1,LC494170.1,"Bovine coronavirus TCG-15 RNA, complete genome",2010-01,['Japan'],30938,,301.0,150.5
+283,LC494169.1,LC494169.1,"Bovine coronavirus TCG-14 RNA, complete genome",2009-03,['Japan'],30945,,1313.0,131.3
+284,LC494168.1,LC494168.1,"Bovine coronavirus TCG-13 RNA, complete genome",2009-01,['Japan'],30950,,958.0,87.0909090909091
+285,LC494167.1,LC494167.1,"Bovine coronavirus TCG-12 RNA, complete genome",2008-12,['Japan'],30942,,885.0,126.42857142857143
+286,LC494166.1,LC494166.1,"Bovine coronavirus TCG-11 RNA, complete genome",2008-12,['Japan'],30934,,1198.0,41.310344827586206
+287,LC494165.1,LC494165.1,"Bovine coronavirus TCG-10 RNA, complete genome",2008-12,['Japan'],30926,,493.0,49.3
+288,LC494164.1,LC494164.1,"Bovine coronavirus TCG-1 RNA, complete genome",2006-11,['Japan'],30951,,958.0,87.0909090909091
+289,LC494163.1,LC494163.1,"Bovine coronavirus TCG-2 RNA, complete genome",2006-12,['Japan'],30923,,964.0,160.66666666666666
+290,LC494162.1,LC494162.1,"Bovine coronavirus TCG-3 RNA, complete genome",2006-12,['Japan'],30936,,505.0,168.33333333333334
+291,LC494161.1,LC494161.1,"Bovine coronavirus TCG-5 RNA, complete genome",2007-12,['Japan'],30940,,734.0,81.55555555555556
+292,LC494160.1,LC494160.1,"Bovine coronavirus TCG-4 RNA, complete genome",2007-11,['Japan'],30954,,1258.0,114.36363636363636
+293,LC494159.1,LC494159.1,"Bovine coronavirus SHG-6 RNA, complete genome",2017-10,['Japan'],30947,,1681.0,168.1
+294,LC494158.1,LC494158.1,"Bovine coronavirus SHG-5 RNA, complete genome",2016-06,['Japan'],30950,,805.0,44.72222222222222
+295,LC494157.1,LC494157.1,"Bovine coronavirus SHG-4 RNA, complete genome",2015-10,['Japan'],30953,,1142.0,114.2
+296,LC494156.1,LC494156.1,"Bovine coronavirus SHG-3 RNA, complete genome",2014-12,['Japan'],30942,,1090.0,136.25
+297,LC494155.1,LC494155.1,"Bovine coronavirus SHG-2 RNA, complete genome",2014-09,['Japan'],30938,,1247.0,89.07142857142857
+298,LC494154.1,LC494154.1,"Bovine coronavirus SHG-1 RNA, complete genome",2014-09,['Japan'],30936,,816.0,116.57142857142857
+299,LC494153.1,LC494153.1,"Bovine coronavirus IWT-27 RNA, complete genome",2017-02,['Japan'],30944,,801.0,33.375
+300,LC494152.1,LC494152.1,"Bovine coronavirus IWT-26 RNA, complete genome",2017-02,['Japan'],30950,,805.0,42.36842105263158
+301,LC494151.1,LC494151.1,"Bovine coronavirus IWT-25 RNA, complete genome",2017-01,['Japan'],30951,,1000.0,90.9090909090909
+302,LC494150.1,LC494150.1,"Bovine coronavirus IWT-24 RNA, complete genome",2017-01,['Japan'],30954,,1351.0,225.16666666666666
+303,LC494149.1,LC494149.1,"Bovine coronavirus IWT-23 RNA, complete genome",2016-12,['Japan'],30944,,810.0,57.857142857142854
+304,LC494148.1,LC494148.1,"Bovine coronavirus IWT-22 RNA, complete genome",2016-12,['Japan'],30946,,1473.0,133.9090909090909
+305,LC494147.1,LC494147.1,"Bovine coronavirus IWT-17 RNA, complete genome",2016-11,['Japan'],30944,,1628.0,101.75
+306,LC494146.1,LC494146.1,"Bovine coronavirus IWT-16 RNA, complete genome",2016-07,['Japan'],30954,,1073.0,134.125
+307,LC494145.1,LC494145.1,"Bovine coronavirus IWT-21 RNA, complete genome",2016-12,['Japan'],30954,,1073.0,134.125
+308,LC494144.1,LC494144.1,"Bovine coronavirus IWT-20 RNA, complete genome",2016-12,['Japan'],30954,,1358.0,194.0
+309,LC494143.1,LC494143.1,"Bovine coronavirus IWT-19 RNA, complete genome",2016-12,['Japan'],30954,,1358.0,194.0
+310,LC494142.1,LC494142.1,"Bovine coronavirus IWT-18 RNA, complete genome",2016-12,['Japan'],30954,,1375.0,196.42857142857142
+311,LC494141.1,LC494141.1,"Bovine coronavirus IWT-15 RNA, complete genome",2016-01,['Japan'],30950,,749.0,49.93333333333333
+312,LC494140.1,LC494140.1,"Bovine coronavirus IWT-14 RNA, complete genome",2015-11,['Japan'],30939,,735.0,81.66666666666667
+313,LC494139.1,LC494139.1,"Bovine coronavirus IWT-13 RNA, complete genome",2015-06,['Japan'],30942,,503.0,125.75
+314,LC494138.1,LC494138.1,"Bovine coronavirus IWT-12 RNA, complete genome",2015-05,['Japan'],30954,,1242.0,95.53846153846153
+315,LC494137.1,LC494137.1,"Bovine coronavirus IWT-11 RNA, complete genome",2013-12,['Japan'],30951,,907.0,90.7
+316,LC494136.1,LC494136.1,"Bovine coronavirus IWT-8 RNA, complete genome",2012-01,['Japan'],30941,,1247.0,89.07142857142857
+317,LC494135.1,LC494135.1,"Bovine coronavirus IWT-7 RNA, complete genome",2012-01,['Japan'],30945,,937.0,156.16666666666666
+318,LC494134.1,LC494134.1,"Bovine coronavirus IWT-6 RNA, complete genome",2012-12,['Japan'],30951,,1127.0,125.22222222222223
+319,LC494133.1,LC494133.1,"Bovine coronavirus IWT-5 RNA, complete genome",2011-11,['Japan'],30954,,778.0,86.44444444444444
+320,LC494132.1,LC494132.1,"Bovine coronavirus IWT-4 RNA, complete genome",2011-06,['Japan'],30954,,1133.0,113.3
+321,LC494131.1,LC494131.1,"Bovine coronavirus IWT-3 RNA, complete genome",2011-06,['Japan'],30955,,1133.0,113.3
+322,LC494130.1,LC494130.1,"Bovine coronavirus IWT-2 RNA, complete genome",2010-12,['Japan'],30954,,1421.0,83.58823529411765
+323,LC494129.1,LC494129.1,"Bovine coronavirus IWT-1 RNA, complete genome",2010-10,['Japan'],30934,,1533.0,76.65
+324,LC494128.1,LC494128.1,"Bovine coronavirus IWT-10 RNA, complete genome",2012-05,['Japan'],30954,,1189.0,169.85714285714286
+325,LC494127.1,LC494127.1,"Bovine coronavirus IWT-9 RNA, complete genome",2012-04,['Japan'],30951,,1142.0,114.2
+326,LC494126.1,LC494126.1,"Bovine coronavirus GIF-1 RNA, complete genome",2016-01,['Japan'],30951,,714.0,59.5
+327,LC494192.1,LC494192.1,"Bovine coronavirus TCG-33 RNA, complete genome",2017-12,['Japan'],30942,,1030.0,85.83333333333333
+328,LC494191.1,LC494191.1,"Bovine coronavirus TCG-32 RNA, complete genome",2017-12,['Japan'],30942,,1183.0,84.5
+329,LC494190.1,LC494190.1,"Bovine coronavirus TCG-31 RNA, complete genome",2017-12,['Japan'],30898,,1030.0,85.83333333333333
+330,LC494189.1,LC494189.1,"Bovine coronavirus TCG-30 RNA, complete genome",2017-12,['Japan'],30937,,1053.0,75.21428571428571
+331,LC494188.1,LC494188.1,"Bovine coronavirus TCG-29 RNA, complete genome",2017-12,['Japan'],30942,,1030.0,85.83333333333333
+332,LC494187.1,LC494187.1,"Bovine coronavirus TCG-28 RNA, complete genome",2017-12,['Japan'],30940,,719.0,42.294117647058826
+333,LC494186.1,LC494186.1,"Bovine coronavirus TCG-27 RNA, complete genome",2017-12,['Japan'],30942,,1030.0,85.83333333333333
+334,LC494185.1,LC494185.1,"Bovine coronavirus TCG-26 RNA, complete genome",2017-12,['Japan'],30942,,1040.0,80.0
+335,LC494184.1,LC494184.1,"Bovine coronavirus TCG-25 RNA, complete genome",2017-12,['Japan'],30940,,719.0,42.294117647058826
+336,LC494183.1,LC494183.1,"Bovine coronavirus TCG-24 RNA, complete genome",2017-12,['Japan'],30936,,1476.0,113.53846153846153
+337,LC494182.1,LC494182.1,"Bovine coronavirus TCG-23 RNA, complete genome",2016-12,['Japan'],30940,,282.0,94.0
+338,LC494181.1,LC494181.1,"Bovine coronavirus TCG-22 RNA, complete genome",2016-12,['Japan'],30923,,420.0,84.0
+339,LC494180.1,LC494180.1,"Bovine coronavirus TCG-21 RNA, complete genome",2016-12,['Japan'],30939,,282.0,94.0
+340,LC494179.1,LC494179.1,"Bovine coronavirus TCG-20 RNA, complete genome",2016-12,['Japan'],30936,,384.0,128.0
+341,MN514967.1,MN514967.1,"Dromedary camel coronavirus HKU23 isolate DcCoV-HKU23/camel/Nigeria/NV1385/2016, complete genome",24-Jan-2016,['Nigeria'],30799,Camelus dromedarius,674.0,168.5
+342,MN514966.1,MN514966.1,"Dromedary camel coronavirus HKU23 isolate DcCoV-HKU23/camel/Nigeria/NV1097/2015, complete genome",12-Nov-2015,['Nigeria'],31075,Camelus dromedarius,1029.0,85.75
+343,MN514965.1,MN514965.1,"Dromedary camel coronavirus HKU23 isolate DcCoV-HKU23/camel/Nigeria/NV1092/2015, complete genome",23-Nov-2015,['Nigeria'],30799,Camelus dromedarius,674.0,168.5
+344,MN514964.1,MN514964.1,"Dromedary camel coronavirus HKU23 isolate DcCoV-HKU23/camel/Nigeria/NV1010/2015, complete genome",20-Nov-2015,['Nigeria'],30780,Camelus dromedarius,955.0,106.11111111111111
+345,MN514963.1,MN514963.1,"Dromedary camel coronavirus HKU23 isolate DcCoV-HKU23/camel/Morocco/CAC2586/2016, complete genome",05-Mar-2016,['Morocco'],31062,Camelus dromedarius,831.0,103.875
+346,MN514962.1,MN514962.1,"Dromedary camel coronavirus HKU23 isolate DcCoV-HKU23/camel/Ethiopia/CAC1019/2015, complete genome",21-Feb-2015,['Ethiopia'],31021,Camelus dromedarius,832.0,277.3333333333333
+347,MN026165.1,MN026165.1,"Human coronavirus OC43 isolate OC43_KLF_02_2017, partial genome",27-Nov-2017,['Kenya'],30318,Homo sapiens,253.0,84.33333333333333
+348,MN026164.1,MN026164.1,"Human coronavirus OC43 isolate OC43_KLF_01_2018, complete genome",18-Jan-2018,['Kenya'],30777,Homo sapiens,932.0,155.33333333333334
+349,MK327281.1,MK327281.1,"Human coronavirus OC43 isolate MDS15, partial genome",30-MAR-2019,,30688,,882.0,220.5
+350,MK303625.1,MK303625.1,"Human coronavirus OC43 isolate MDS16, complete genome",30-MAR-2019,,30668,,888.0,177.6
+351,MK303624.1,MK303624.1,"Human coronavirus OC43 isolate MDS14, complete genome",30-MAR-2019,,30664,,1156.0,231.2
+352,MK303623.1,MK303623.1,"Human coronavirus OC43 isolate MDS12, complete genome",30-MAR-2019,,30419,,712.0,237.33333333333334
+353,MK303622.1,MK303622.1,"Human coronavirus OC43 isolate MDS11, complete genome",30-MAR-2019,,30665,,712.0,237.33333333333334
+354,MK303621.1,MK303621.1,"Human coronavirus OC43 isolate MDS4, complete genome",30-MAR-2019,,30664,,708.0,236.0
+355,MK303620.1,MK303620.1,"Human coronavirus OC43 isolate MDS2, complete genome",30-MAR-2019,,30665,,709.0,236.33333333333334
+356,MK303619.1,MK303619.1,"Human coronavirus OC43 isolate MDS6, complete genome",30-MAR-2019,,30664,,712.0,237.33333333333334
+357,MG757142.1,MG757142.1,"Bovine coronavirus isolate ICSA-pool-LBA, complete genome",2014,['France'],30939,cattle,1233.0,112.0909090909091
+358,MG757141.1,MG757141.1,"Bovine coronavirus isolate ICSA-pool-EN, complete genome",2014,['France'],31019,cattle,1152.0,164.57142857142858
+359,MG757140.1,MG757140.1,"Bovine coronavirus isolate ICSA16-LBA, complete genome",2014,['France'],31024,cattle,1093.0,64.29411764705883
+360,MG757139.1,MG757139.1,"Bovine coronavirus isolate ICSA16-EN, complete genome",2014,['France'],31028,cattle,1460.0,58.4
+361,MG757138.1,MG757138.1,"Bovine coronavirus isolate ICSA21-LBA, complete genome",2014,['France'],31026,cattle,961.0,120.125
+362,MH121121.1,MH121121.1,"Human coronavirus OC43 isolate HCoV-OC43/USA/ACRI_0213/2016, complete genome",19-Dec-2016,"['USA: Little Rock, Arkansas']",30722,Homo sapiens,1224.0,153.0
+363,MG197723.1,MG197723.1,"Human coronavirus OC43 strain HZ-459, complete genome",20-Jun-2016,['China'],30566,,1311.0,218.5
+364,MG197722.1,MG197722.1,"Human coronavirus OC43 strain YC-207, complete genome",02-Dec-2015,['China'],30515,,290.0,48.333333333333336
+365,MG197721.1,MG197721.1,"Human coronavirus OC43 strain YC-72, complete genome",13-Jun-2015,['China'],30521,,879.0,109.875
+366,MG197720.1,MG197720.1,"Human coronavirus OC43 strain YC-68, complete genome",05-Jun-2015,['China'],30567,,1481.0,211.57142857142858
+367,MG197719.1,MG197719.1,"Human coronavirus OC43 strain YC-67, complete genome",04-Jun-2015,['China'],30499,,1005.0,143.57142857142858
+368,MG197718.1,MG197718.1,"Human coronavirus OC43 strain YC-55, complete genome",12-Mar-2015,['China'],30538,,1209.0,201.5
+369,MG197717.1,MG197717.1,"Human coronavirus OC43 strain WZ-522, complete genome",06-Jul-2015,['China'],30524,,1072.0,214.4
+370,MG197716.1,MG197716.1,"Human coronavirus OC43 strain WZ-303, complete genome",06-Jun-2015,['China'],30515,,1020.0,204.0
+371,MG197715.1,MG197715.1,"Human coronavirus OC43 strain GZYF-26, complete genome",21-May-2015,['China'],30530,,1020.0,204.0
+372,MG197714.1,MG197714.1,"Human coronavirus OC43 strain CC-23, complete genome",13-Jul-2015,['China'],30551,,1313.0,187.57142857142858
+373,MG197713.1,MG197713.1,"Human coronavirus OC43 strain BJ-221, complete genome",14-Aug-2015,['China'],30495,,1109.0,184.83333333333334
+374,MG197712.1,MG197712.1,"Human coronavirus OC43 strain BJ-165, complete genome",09-Jun-2015,['China'],30497,,852.0,284.0
+375,MG197711.1,MG197711.1,"Human coronavirus OC43 strain BJ-164, complete genome",09-Jun-2015,['China'],30544,,1377.0,196.71428571428572
+376,MG197710.1,MG197710.1,"Human coronavirus OC43 strain BJ-124, complete genome",06-May-2015,['China'],30544,,869.0,173.8
+377,MG197709.1,MG197709.1,"Human coronavirus OC43 strain BJ-112, complete genome",22-Apr-2015,['China'],30550,,1147.0,163.85714285714286
+378,MG977452.1,MG977452.1,"Human coronavirus OC43 isolate TNP 12643, complete genome",10-Dec-2016,"[""Cote d'Ivoire""]",30704,Homo sapiens,1076.0,269.0
+379,MG977451.1,MG977451.1,"Human coronavirus OC43 isolate TNP 12636, complete genome",10-Dec-2016,"[""Cote d'Ivoire""]",30722,Homo sapiens,1282.0,106.83333333333333
+380,MG977450.1,MG977450.1,"Human coronavirus OC43 isolate TNP F1835_2, partial genome",30-Dec-2016,"[""Cote d'Ivoire""]",30503,Pan troglodytes verus,691.0,138.2
+381,MG977449.1,MG977449.1,"Human coronavirus OC43 isolate TNP F1834_2, complete genome",28-Dec-2016,"[""Cote d'Ivoire""]",30721,Pan troglodytes verus,1214.0,202.33333333333334
+382,MG977448.1,MG977448.1,"Human coronavirus OC43 isolate TNP F1833_2, partial genome",27-Dec-2016,"[""Cote d'Ivoire""]",30537,Pan troglodytes verus,880.0,67.6923076923077
+383,MG977447.1,MG977447.1,"Human coronavirus OC43 isolate TNP F1832_2, complete genome",26-Dec-2016,"[""Cote d'Ivoire""]",30705,Pan troglodytes verus,1123.0,187.16666666666666
+384,MG977446.1,MG977446.1,"Human coronavirus OC43 isolate TNP F1791_2, partial genome",01-Jan-2016,"[""Cote d'Ivoire""]",30514,Pan troglodytes verus,717.0,89.625
+385,MG977445.1,MG977445.1,"Human coronavirus OC43 isolate TNP F1790_2, complete genome",31-Dec-2016,"[""Cote d'Ivoire""]",30677,Pan troglodytes verus,653.0,65.3
+386,MG977444.1,MG977444.1,"Human coronavirus OC43 isolate TNP F1778_2, complete genome",04-Jan-2017,"[""Cote d'Ivoire""]",30571,Pan troglodytes verus,967.0,161.16666666666666
+387,MH043955.1,MH043955.1,"Bovine coronavirus isolate 7-16-23, complete genome",Jul-2016,['USA: Pennsylvania'],31032,Bos taurus,1346.0,74.77777777777777
+388,MH043954.1,MH043954.1,"Bovine coronavirus isolate 4-17-08, complete genome",Apr-2017,['USA: Pennsylvania'],31016,Bos taurus,1200.0,80.0
+389,MH043953.1,MH043953.1,"Bovine coronavirus isolate 4-17-25, complete genome",Apr-2017,['USA: Pennsylvania'],31032,Bos taurus,823.0,63.30769230769231
+390,MH043952.1,MH043952.1,"Bovine coronavirus isolate 4-17-03, complete genome",Apr-2017,['USA: Pennsylvania'],31019,Bos taurus,1399.0,93.26666666666667
+391,MF314143.1,MF314143.1,"Human coronavirus OC43 isolate HCoV-OC43/USA/ACRI_0052/2016, complete genome",07-Mar-2016,"['USA: Little Rock, Arkansas']",30737,Homo sapiens,1362.0,113.5
+392,MF374985.2,MF374985.2,"Human coronavirus OC43 isolate HCoV-OC43/USA/TCNP_00212/2017, complete genome",17-Jan-2017,"['USA: Albuquerque, New Mexico']",30705,Homo sapiens,1061.0,151.57142857142858
+393,MF374983.2,MF374983.2,"Human coronavirus OC43 isolate HCoV-OC43/USA/TCNP_0070/2016, complete genome",01-Feb-2016,"['USA: Albuquerque, New Mexico']",30721,Homo sapiens,1281.0,183.0
+394,MG518518.1,MG518518.1,"Water deer coronavirus isolate W17-18, complete genome",24-Feb-2017,['South Korea: Chungnam'],31034,Hydropotes inermis (water deer),1236.0,34.333333333333336
+395,KY014282.1,KY014282.1,"Human coronavirus OC43 isolate 2007-09, complete genome",2007,['France'],30659,Homo sapiens,970.0,69.28571428571429
+396,KY014281.1,KY014281.1,"Human coronavirus OC43 isolate 2002-04, complete genome",2002,['France'],30602,Homo sapiens,1120.0,160.0
+397,MF374984.1,MF374984.1,"Human coronavirus OC43 isolate HCoV-OC43/USA/TCNP_00204/2017, complete genome",03-Jan-2017,"['USA: Albuquerque, New Mexico']",30713,Homo sapiens,1500.0,150.0
+398,KY554973.1,KY554973.1,"Human coronavirus OC43 strain N07-1689B_116X, complete genome",2016,['USA'],30713,Homo sapiens,1342.0,149.11111111111111
+399,KY419113.1,KY419113.1,"Porcine hemagglutinating encephalomyelitis virus strain PHEV CoV USA-15TOSU1582, complete genome",25-Jul-2015,['USA'],29900,Sus scrofa scrofa,1475.0,59.0
+400,KX982264.1,KX982264.1,"Bovine coronavirus isolate BCoV_2014_13, complete genome",04-Mar-2014,['France'],30847,Bos taurus,538.0,134.5
+401,KX432213.1,KX432213.1,"Canine respiratory coronavirus strain BJ232, complete genome",2014,['China'],30868,dog,505.0,84.16666666666667
+402,KX538979.1,KX538979.1,"Human coronavirus OC43 isolate MY-U1975/13, complete genome",15-Feb-2013,['Malaysia: Kuala Lumpur'],30713,Homo sapiens,1440.0,130.9090909090909
+403,KX538978.1,KX538978.1,"Human coronavirus OC43 isolate MY-U1758/13, complete genome",02-Jan-2013,['Malaysia: Kuala Lumpur'],30713,Homo sapiens,1440.0,130.9090909090909
+404,KX538977.1,KX538977.1,"Human coronavirus OC43 isolate MY-U1140/12, complete genome",10-Sep-2012,['Malaysia: Kuala Lumpur'],30716,Homo sapiens,1313.0,145.88888888888889
+405,KX538976.1,KX538976.1,"Human coronavirus OC43 isolate MY-U1057/12, complete genome",27-Aug-2012,['Malaysia: Kuala Lumpur'],30713,Homo sapiens,1440.0,130.9090909090909
+406,KX538975.1,KX538975.1,"Human coronavirus OC43 isolate MY-U1024/12, complete genome",24-Aug-2012,['Malaysia: Kuala Lumpur'],30716,Homo sapiens,1423.0,177.875
+407,KX538974.1,KX538974.1,"Human coronavirus OC43 isolate MY-U945/12, complete genome",01-Aug-2012,['Malaysia: Kuala Lumpur'],30716,Homo sapiens,1417.0,128.8181818181818
+408,KX538973.1,KX538973.1,"Human coronavirus OC43 isolate MY-U868/12, complete genome",16-Jul-2012,['Malaysia: Kuala Lumpur'],30716,Homo sapiens,1461.0,146.1
+409,KX538972.1,KX538972.1,"Human coronavirus OC43 isolate MY-U774/12, complete genome",04-Jul-2012,['Malaysia: Kuala Lumpur'],30713,Homo sapiens,1440.0,130.9090909090909
+410,KX538971.1,KX538971.1,"Human coronavirus OC43 isolate MY-U732/12, complete genome",25-Jun-2012,['Malaysia: Kuala Lumpur'],30716,Homo sapiens,1417.0,128.8181818181818
+411,KX538970.1,KX538970.1,"Human coronavirus OC43 isolate MY-U710/12, complete genome",20-Jun-2012,['Malaysia: Kuala Lumpur'],30713,Homo sapiens,1436.0,119.66666666666667
+412,KX538969.1,KX538969.1,"Human coronavirus OC43 isolate MY-U523/12, complete genome",18-May-2012,['Malaysia: Kuala Lumpur'],30716,Homo sapiens,1416.0,128.72727272727272
+413,KX538968.1,KX538968.1,"Human coronavirus OC43 isolate MY-U464/12, complete genome",09-May-2012,['Malaysia: Kuala Lumpur'],30716,Homo sapiens,1417.0,128.8181818181818
+414,KX538967.1,KX538967.1,"Human coronavirus OC43 isolate MY-U413/12, complete genome",02-May-2012,['Malaysia: Kuala Lumpur'],30716,Homo sapiens,1203.0,92.53846153846153
+415,KX538966.1,KX538966.1,"Human coronavirus OC43 isolate MY-U236/12, complete genome",02-Apr-2012,['Malaysia: Kuala Lumpur'],30713,Homo sapiens,1440.0,130.9090909090909
+416,KX538965.1,KX538965.1,"Human coronavirus OC43 isolate MY-U208/12, complete genome",28-Mar-2012,['Malaysia: Kuala Lumpur'],30716,Homo sapiens,1416.0,128.72727272727272
+417,KX538964.1,KX538964.1,"Human coronavirus OC43 isolate MY-U002/12, complete genome",22-Feb-2012,['Malaysia: Kuala Lumpur'],30713,Homo sapiens,1440.0,130.9090909090909
+418,LC061274.1,LC061274.1,"Equine coronavirus RNA, complete genome, strain: Obihiro12-2",2012,"['Japan: Hokkaido, Obihiro']",30916,Equus caballus adult,47.0,15.666666666666666
+419,LC061273.1,LC061273.1,"Equine coronavirus RNA, complete genome, strain: Obihiro12-1",2012,"['Japan: Hokkaido, Obihiro']",30916,Equus caballus adult,47.0,15.666666666666666
+420,LC061272.1,LC061272.1,"Equine coronavirus RNA, complete genome, strain: Tokachi09",2009,"['Japan: Hokkaido, Obihiro']",30782,Equus caballus adult,344.0,22.933333333333334
+421,LQ289146.1,LQ289146.1,Sequence 25 from Patent WO2016034610,05-OCT-2016,,31022,,1096.0,182.66666666666666
+422,KX344031.1,KX344031.1,"Human coronavirus OC43 isolate LRTI_238, complete genome",09-Feb-2011,['Mexico'],30713,Homo sapiens; age: 2 months; sex: male,1443.0,180.375
+423,FJ425190.1,FJ425190.1,"Sambar deer coronavirus US/OH-WD388-TC/1994 calf-passaged, complete genome",01-Jan-1994,['USA: Ohio'],30987,sambar deer,1082.0,54.1
+424,FJ425189.1,FJ425189.1,"Sambar deer coronavirus US/OH-WD388/1994, complete genome",01-Jan-1994,['USA: Ohio'],30997,sambar deer,1082.0,54.1
+425,FJ425188.1,FJ425188.1,"Sambar deer coronavirus US/OH-WD388-TC/1994, complete genome",01-Jan-1994,['USA: Ohio'],30995,sambar deer,1462.0,112.46153846153847
+426,FJ425187.1,FJ425187.1,"White-tailed deer coronavirus US/OH-WD470/1994, complete genome",01-Jan-1994,['USA: Ohio'],31020,white-tailed deer,1114.0,92.83333333333333
+427,FJ425186.1,FJ425186.1,"Waterbuck coronavirus US/OH-WD358/1994, complete genome",01-Jan-1994,['USA: Ohio'],30962,waterbuck,642.0,35.666666666666664
+428,FJ425185.1,FJ425185.1,"Waterbuck coronavirus US/OH-WD358-GnC/1994, complete genome",01-Jan-1994,['USA: Ohio'],30940,waterbuck,443.0,55.375
+429,FJ425184.1,FJ425184.1,"Waterbuck coronavirus US/OH-WD358-TC/1994, complete genome",01-Jan-1994,['USA: Ohio'],30995,waterbuck,1447.0,120.58333333333333
+430,EF424624.1,EF424624.1,"Calf-giraffe coronavirus US/OH3/2006, complete genome",23-JUL-2016,['USA:Ohio'],30979,giraffe,1293.0,117.54545454545455
+431,EF424623.1,EF424623.1,"Giraffe coronavirus US/OH3/2003, complete genome",23-JUL-2016,['USA:Ohio'],31002,giraffe,1293.0,117.54545454545455
+432,EF424622.1,EF424622.1,"Giraffe coronavirus US/OH3-TC/2006, complete genome",23-JUL-2016,['USA:Ohio'],30979,giraffe,1293.0,117.54545454545455
+433,EF424621.1,EF424621.1,"Sable antelope coronavirus US/OH1/2003, complete genome",23-JUL-2016,['USA:Ohio'],30995,antelope,1435.0,130.45454545454547
+434,EF424620.1,EF424620.1,"Bovine coronavirus R-AH187, complete genome",23-JUL-2016,['USA:Ohio'],30964,bovine,1250.0,156.25
+435,EF424619.1,EF424619.1,"Bovine coronavirus E-AH187, complete genome",23-JUL-2016,['USA:Ohio'],30995,bovine,1263.0,90.21428571428571
+436,EF424618.1,EF424618.1,"Bovine coronavirus R-AH65-TC, complete genome",23-JUL-2016,['USA:Ohio'],30995,bovine,1139.0,94.91666666666667
+437,EF424617.1,EF424617.1,"Bovine coronavirus R-AH65, complete genome",23-JUL-2016,['USA:Ohio'],31016,bovine,1139.0,94.91666666666667
+438,EF424616.1,EF424616.1,"Bovine coronavirus E-AH65-TC, complete genome",23-JUL-2016,['USA:Ohio'],30970,bovine,1200.0,120.0
+439,EF424615.1,EF424615.1,"Bovine coronavirus E-AH65, complete genome",23-JUL-2016,['USA:Ohio'],31017,bovine,1150.0,71.875
+440,KU886219.1,KU886219.1,"Bovine coronavirus strain BCV-AKS-01, complete genome",30-May-2015,['China: Xinjiang'],30975,Bos taurus; breed: Holstein,704.0,70.4
+441,AF391542.1,AF391542.1,"Bovine coronavirus isolate BCoV-LUN, complete genome",05-FEB-2002,,31028,,1121.0,74.73333333333333
+442,AF220295.1,AF220295.1,"Bovine coronavirus strain Quebec, complete genome",01-APR-2003,,31100,,1158.0,77.2
+443,AF391541.1,AF391541.1,"Bovine coronavirus isolate BCoV-ENT, complete genome",05-FEB-2002,,31028,,1405.0,93.66666666666667
+444,KU131570.1,KU131570.1,"Human coronavirus OC43 strain HCoV-OC43/UK/London/2011, complete genome",20-Aug-2011,['United Kingdom'],30746,Homo sapiens,1305.0,145.0
+445,KF923925.1,KF923925.1,"Human coronavirus OC43 isolate 10574/2010, complete genome",Sep-2010,['China: Beijing'],30713,Homo sapiens,1251.0,125.1
+446,KF923924.1,KF923924.1,"Human coronavirus OC43 isolate 10290/2010, complete genome",Jul-2010,['China: Beijing'],30713,Homo sapiens,1147.0,163.85714285714286
+447,KF923923.1,KF923923.1,"Human coronavirus OC43 isolate 892A/2008, complete genome",Oct-2008,['China: Beijing'],30713,Homo sapiens,1253.0,139.22222222222223
+448,KF923922.1,KF923922.1,"Human coronavirus OC43 isolate 8164/2009, complete genome",Mar-2009,['China: Beijing'],30713,Homo sapiens,1259.0,139.88888888888889
+449,KF923921.1,KF923921.1,"Human coronavirus OC43 isolate 69A/2007, complete genome",May-2007,['China: Beijing'],30713,Homo sapiens,1440.0,130.9090909090909
+450,KF923920.1,KF923920.1,"Human coronavirus OC43 isolate 5617/2007, complete genome",Jul-2007,['China: Beijing'],30713,Homo sapiens,1440.0,130.9090909090909
+451,KF923919.1,KF923919.1,"Human coronavirus OC43 isolate 5595/2007, complete genome",Jul-2007,['China: Beijing'],30713,Homo sapiens,1431.0,130.0909090909091
+452,KF923918.1,KF923918.1,"Human coronavirus OC43 isolate 10108/2010, complete genome",May-2010,['China: Beijing'],30713,Homo sapiens,1042.0,80.15384615384616
+453,KF923917.1,KF923917.1,"Human coronavirus OC43 isolate 5566/2007, complete genome",Jun-2007,['China: Beijing'],30713,Homo sapiens,1440.0,130.9090909090909
+454,KF923916.1,KF923916.1,"Human coronavirus OC43 isolate 5519/2007, complete genome",Jun-2007,['China: Beijing'],30713,Homo sapiens,1476.0,134.1818181818182
+455,KF923915.1,KF923915.1,"Human coronavirus OC43 isolate 5517/2007, complete genome",Jun-2007,['China: Beijing'],30713,Homo sapiens,1620.0,108.0
+456,KF923914.1,KF923914.1,"Human coronavirus OC43 isolate 5508/2007, complete genome",Jun-2007,['China: Beijing'],30713,Homo sapiens,1445.0,160.55555555555554
+457,KF923913.1,KF923913.1,"Human coronavirus OC43 isolate 5485/2007, complete genome",Jun-2007,['China: Beijing'],30713,Homo sapiens,1620.0,108.0
+458,KF923912.1,KF923912.1,"Human coronavirus OC43 isolate 5484/2007, complete genome",Jun-2007,['China: Beijing'],30713,Homo sapiens,1440.0,130.9090909090909
+459,KF923911.1,KF923911.1,"Human coronavirus OC43 isolate 5479/2007, complete genome",Jun-2007,['China: Beijing'],30713,Homo sapiens,1440.0,130.9090909090909
+460,KF923910.1,KF923910.1,"Human coronavirus OC43 isolate 5445/2007, complete genome",Jun-2007,['China: Beijing'],30713,Homo sapiens,1253.0,139.22222222222223
+461,KF923909.1,KF923909.1,"Human coronavirus OC43 isolate 5442/2007, complete genome",Jun-2007,['China: Beijing'],30713,Homo sapiens,1440.0,130.9090909090909
+462,KF923908.1,KF923908.1,"Human coronavirus OC43 isolate 5414/2007, complete genome",Jun-2007,['China: Beijing'],30713,Homo sapiens,1440.0,130.9090909090909
+463,KF923907.1,KF923907.1,"Human coronavirus OC43 isolate 5370/2007, complete genome",May-2007,['China: Beijing'],30713,Homo sapiens,1440.0,130.9090909090909
+464,KF923905.1,KF923905.1,"Human coronavirus OC43 isolate 229/2005, complete genome",Jun-2005,['China: Beijing'],30722,Homo sapiens,1288.0,184.0
+465,KF923904.1,KF923904.1,"Human coronavirus OC43 isolate 12694/2012, complete genome",May-2012,['China: Beijing'],30713,Homo sapiens,1440.0,130.9090909090909
+466,KF923903.1,KF923903.1,"Human coronavirus OC43 isolate 12691/2012, complete genome",May-2012,['China: Beijing'],30713,Homo sapiens,1440.0,130.9090909090909
+467,KF923902.1,KF923902.1,"Human coronavirus OC43 isolate 12689/2012, complete genome",May-2012,['China: Beijing'],30713,Homo sapiens,1401.0,127.36363636363636
+468,KF923901.1,KF923901.1,"Human coronavirus OC43 isolate 5472/2007, complete genome",Jun-2007,['China: Beijing'],30713,Homo sapiens,1438.0,119.83333333333333
+469,KF923899.1,KF923899.1,"Human coronavirus OC43 isolate 3582/2006, complete genome",Sep-2006,['China: Beijing'],30722,Homo sapiens,1344.0,268.8
+470,KF923898.1,KF923898.1,"Human coronavirus OC43 isolate 3184A/2012, complete genome",Mar-2012,['China: Beijing'],30716,Homo sapiens,1435.0,143.5
+471,KF923897.1,KF923897.1,"Human coronavirus OC43 isolate 3269A/2012, complete genome",Jun-2012,['China: Beijing'],30711,Homo sapiens,1445.0,160.55555555555554
+472,KF923895.1,KF923895.1,"Human coronavirus OC43 isolate 10285/2010, complete genome",Jul-2010,['China: Beijing'],30731,Homo sapiens,1266.0,115.0909090909091
+473,KF923894.1,KF923894.1,"Human coronavirus OC43 isolate 5352/2007, complete genome",May-2007,['China: Beijing'],30713,Homo sapiens,1379.0,98.5
+474,KF923893.1,KF923893.1,"Human coronavirus OC43 isolate 2151A/2010, complete genome",Jul-2010,['China: Beijing'],30713,Homo sapiens,1173.0,130.33333333333334
+475,KF923892.1,KF923892.1,"Human coronavirus OC43 isolate 5345/2007, complete genome",May-2007,['China: Beijing'],30713,Homo sapiens,1440.0,130.9090909090909
+476,KF923890.1,KF923890.1,"Human coronavirus OC43 isolate 39A/2007, complete genome",Apr-2007,['China: Beijing'],30713,Homo sapiens,1444.0,144.4
+477,KF923889.1,KF923889.1,"Human coronavirus OC43 isolate 1926/2006, complete genome",Mar-2006,['China: Beijing'],30719,Homo sapiens,1121.0,112.1
+478,KF923887.1,KF923887.1,"Human coronavirus OC43 isolate 1997A/2010, complete genome",Apr-2010,['China: Beijing'],30719,Homo sapiens,1312.0,65.6
+479,KF923886.1,KF923886.1,"Human coronavirus OC43 isolate 1908A/2010, complete genome",Mar-2010,['China: Beijing'],30719,Homo sapiens,1056.0,105.6
+480,KF530099.1,KF530099.1,"Human coronavirus OC43 strain OC43/human/USA/971-5/1997, complete genome",02-Jan-1997,"['USA: Nashville, TN']",30578,Homo sapiens; sex: F; age: 59Y,1080.0,154.28571428571428
+481,KF530098.1,KF530098.1,"Human coronavirus OC43 strain OC43/human/USA/965-6/1996, complete genome",10-May-1996,"['USA: Nashville, TN']",30578,Homo sapiens; sex: F; age: 7Y,1111.0,222.2
+482,KF530097.1,KF530097.1,"Human coronavirus OC43 strain OC43/human/USA/9211-43/1992, complete genome",30-Nov-1992,"['USA: Nashville, TN']",30577,Homo sapiens; sex: M; age: 18Y,1266.0,126.6
+483,KF530096.1,KF530096.1,"Human coronavirus OC43 strain OC43/human/USA/911-38/1991, complete genome",15-Jan-1991,"['USA: Nashville, TN']",30589,Homo sapiens; sex: F; age: 4Y,873.0,145.5
+484,KF530095.1,KF530095.1,"Human coronavirus OC43 strain OC43/human/USA/912-6/1991, complete genome",05-Feb-1991,"['USA: Nashville, TN']",30602,Homo sapiens; sex: M; age: 5Y,1169.0,106.27272727272727
+485,KF530094.1,KF530094.1,"Human coronavirus OC43 strain OC43/human/USA/912-36/1991, complete genome",22-Feb-1991,"['USA: Nashville, TN']",30581,Homo sapiens; sex: M; age: 11Y,993.0,141.85714285714286
+486,KF530093.1,KF530093.1,"Human coronavirus OC43 strain OC43/human/USA/832-27/1983, partial genome",24-Feb-1983,"['USA: Nashville, TN']",30483,Homo sapiens; sex: F; age: 20Y,994.0,47.333333333333336
+487,KF530092.1,KF530092.1,"Human coronavirus OC43 strain OC43/human/USA/008-5/2000, complete genome",08-Aug-2000,"['USA: Nashville, TN']",30577,Homo sapiens; sex: F; age: 29Y,946.0,105.11111111111111
+488,KF530091.1,KF530091.1,"Human coronavirus OC43 strain OC43/human/USA/911-58/1991, complete genome",24-Jan-1991,"['USA: Nashville, TN']",30606,Homo sapiens; sex: F; age: 3Y,1282.0,160.25
+489,KF530090.1,KF530090.1,"Human coronavirus OC43 strain OC43/human/USA/931-85/1993, complete genome",26-Jan-1993,"['USA: Nashville, TN']",30577,Homo sapiens; sex: F; age: 21Y,1266.0,126.6
+490,KF530089.1,KF530089.1,"Human coronavirus OC43 strain OC43/human/USA/911-66/1991, complete genome",29-Jan-1991,"['USA: Nashville, TN']",30611,Homo sapiens; sex: F; age: 15Y,1289.0,161.125
+491,KF530088.1,KF530088.1,"Human coronavirus OC43 strain OC43/human/USA/901-54/1990, complete genome",23-Jan-1990,"['USA: Nashville, TN']",30578,Homo sapiens; sex: M; age: 7Y,1012.0,144.57142857142858
+492,KF530087.1,KF530087.1,"Human coronavirus OC43 strain OC43/human/USA/873-6/1987, complete genome",05-Mar-1987,"['USA: Nashville, TN']",30577,Homo sapiens; sex: M; age: 6Y,1278.0,182.57142857142858
+493,KF530086.1,KF530086.1,"Human coronavirus OC43 strain OC43/human/USA/872-5/1987, complete genome",10-Feb-1987,"['USA: Nashville, TN']",30577,Homo sapiens; sex: M; age: 20Y,1292.0,161.5
+494,KF530085.1,KF530085.1,"Human coronavirus OC43 strain OC43/human/USA/871-25/1987, complete genome",22-Jan-1987,"['USA: Nashville, TN']",30569,Homo sapiens; sex: M; age: 25Y,950.0,73.07692307692308
+495,KF530084.1,KF530084.1,"Human coronavirus OC43 strain OC43/human/USA/951-18/1995, complete genome",12-Jan-1995,"['USA: Nashville, TN']",30577,Homo sapiens; sex: F; age: 10Y,1151.0,230.2
+496,KF530083.1,KF530083.1,"Human coronavirus OC43 strain OC43/human/USA/873-19/1987, complete genome",17-Mar-1987,"['USA: Nashville, TN']",30577,Homo sapiens; sex: F; age: 21Y,1292.0,161.5
+497,KF530082.1,KF530082.1,"Human coronavirus OC43 strain OC43/human/USA/912-11/1991, complete genome",07-Feb-1991,"['USA: Nashville, TN']",30581,Homo sapiens; sex: F; age: 7Y,993.0,141.85714285714286
+498,KF530081.1,KF530081.1,"Human coronavirus OC43 strain OC43/human/USA/991-5/1999, complete genome",07-Jan-1999,"['USA: Nashville, TN']",30571,Homo sapiens; sex: F; age: 11Y,900.0,300.0
+499,KF530080.1,KF530080.1,"Human coronavirus OC43 strain OC43/human/USA/9712-31/1997, complete genome",18-Dec-1997,"['USA: Nashville, TN']",30577,Homo sapiens; sex: M; age: 6Y,946.0,105.11111111111111
+500,KF530079.1,KF530079.1,"Human coronavirus OC43 strain OC43/human/USA/913-29/1991, complete genome",14-Mar-1991,"['USA: Nashville, TN']",30581,Homo sapiens; sex: M; age: 9Y,993.0,141.85714285714286
+501,KF530078.1,KF530078.1,"Human coronavirus OC43 strain OC43/human/USA/9612-29/1996, complete genome",17-Dec-1996,"['USA: Nashville, TN']",30568,Homo sapiens; sex: F; age: 48Y,1050.0,150.0
+502,KF530077.1,KF530077.1,"Human coronavirus OC43 strain OC43/human/USA/873-16/1987, complete genome",12-Mar-1987,"['USA: Nashville, TN']",30577,Homo sapiens; sex: F; age: 27Y,1282.0,183.14285714285714
+503,KF530076.1,KF530076.1,"Human coronavirus OC43 strain OC43/human/USA/911-11/1991, complete genome",03-Jan-1991,"['USA: Nashville, TN']",30606,Homo sapiens; sex: F; age: 11Y,1295.0,161.875
+504,KF530075.1,KF530075.1,"Human coronavirus OC43 strain OC43/human/USA/953-23/1995, complete genome",09-Mar-1995,"['USA: Nashville, TN']",30577,Homo sapiens; sex: F; age: 12Y,1254.0,125.4
+505,KF530074.1,KF530074.1,"Human coronavirus OC43 strain OC43/human/USA/9212-33/1992, complete genome",16-Dec-1992,"['USA: Nashville, TN']",30590,Homo sapiens; sex: F; age: 32Y,1411.0,117.58333333333333
+506,KF530073.1,KF530073.1,"Human coronavirus OC43 strain OC43/human/USA/8912-37/1989, complete genome",21-Dec-1989,"['USA: Nashville, TN']",30577,Homo sapiens; sex: M; age: 9Y,1276.0,159.5
+507,KF530072.1,KF530072.1,"Human coronavirus OC43 strain OC43/human/USA/9712-13/1997, complete genome",11-Dec-1997,"['USA: Nashville, TN']",30577,Homo sapiens; sex: M; age: 19Y,945.0,105.0
+508,KF530071.1,KF530071.1,"Human coronavirus OC43 strain OC43/human/USA/925-1/1992, complete genome",04-May-1992,"['USA: Nashville, TN']",30578,Homo sapiens; sex: M; age: 34Y,1013.0,144.71428571428572
+509,KF530070.1,KF530070.1,"Human coronavirus OC43 strain OC43/human/USA/991-19/1999, complete genome",15-Jan-1999,"['USA: Nashville, TN']",30573,Homo sapiens; sex: M; age: 19Y,1035.0,129.375
+510,KF530069.1,KF530069.1,"Human coronavirus OC43 strain OC43/human/USA/982-4/1998, complete genome",05-Feb-1998,"['USA: Nashville, TN']",30578,Homo sapiens; sex: F; age: 6Y,1080.0,154.28571428571428
+511,KF530068.1,KF530068.1,"Human coronavirus OC43 strain OC43/human/USA/007-11/2000, complete genome",27-Jul-2000,"['USA: Nashville, TN']",30572,Homo sapiens; sex: M; age: 21Y,928.0,309.3333333333333
+512,KF530067.1,KF530067.1,"Human coronavirus OC43 strain OC43/human/USA/912-10/1991, complete genome",07-Feb-1991,"['USA: Nashville, TN']",30608,Homo sapiens; sex: M; age: 43Y,1296.0,185.14285714285714
+513,KF530066.1,KF530066.1,"Human coronavirus OC43 strain OC43/human/USA/901-33/1990, complete genome",16-Jan-1990,"['USA: Nashville, TN']",30564,Homo sapiens; sex: M; age: 12Y,1420.0,88.75
+514,KF530065.1,KF530065.1,"Human coronavirus OC43 strain OC43/human/USA/901-41/1990, complete genome",17-Jan-1990,"['USA: Nashville, TN']",30577,Homo sapiens; sex: M; age: 17Y,1276.0,159.5
+515,KF530064.1,KF530064.1,"Human coronavirus OC43 strain OC43/human/USA/9612-9/1996, complete genome",04-Dec-1996,"['USA: Nashville, TN']",30577,Homo sapiens; sex: F; age: 18Y,946.0,105.11111111111111
+516,KF530063.1,KF530063.1,"Human coronavirus OC43 strain OC43/human/USA/9612-48/1996, complete genome",30-Dec-1996,"['USA: Nashville, TN']",30577,Homo sapiens; sex: M; age: 50Y,1080.0,154.28571428571428
+517,KF530062.1,KF530062.1,"Human coronavirus OC43 strain OC43/human/USA/952-23/1995, partial genome",13-Feb-1995,"['USA: Nashville, TN']",30554,Homo sapiens; sex: F; age: 9Y,744.0,67.63636363636364
+518,KF530061.1,KF530061.1,"Human coronavirus OC43 strain OC43/human/USA/901-43/1990, complete genome",19-Jan-1990,"['USA: Nashville, TN']",30577,Homo sapiens; sex: F; age: 43Y,1276.0,159.5
+519,KF530060.1,KF530060.1,"Human coronavirus OC43 strain OC43/human/USA/851-15/1985, complete genome",08-Jan-1985,"['USA: Nashville, TN']",30577,Homo sapiens; sex: M; age: 15Y,1292.0,161.5
+520,KF530059.1,KF530059.1,"Human coronavirus OC43 strain OC43/human/USA/951-15/1995, partial genome",11-Jan-1995,"['USA: Nashville, TN']",30511,Homo sapiens; sex: M; age: 8Y,1342.0,223.66666666666666
+521,KF923906.1,KF923906.1,"Human coronavirus OC43 isolate 3194A/2012, complete genome",Mar-2012,['China: Beijing'],30737,Homo sapiens,1485.0,106.07142857142857
+522,KF923900.1,KF923900.1,"Human coronavirus OC43 isolate 3647/2006, complete genome",Oct-2006,['China: Beijing'],30722,Homo sapiens,1344.0,268.8
+523,KF923896.1,KF923896.1,"Human coronavirus OC43 isolate 3074A/2012, complete genome",Feb-2012,['China: Beijing'],30737,Homo sapiens,1592.0,113.71428571428571
+524,KF923891.1,KF923891.1,"Human coronavirus OC43 isolate 5240/2007, complete genome",May-2007,['China: Beijing'],30713,Homo sapiens,1493.0,149.3
+525,KF923888.1,KF923888.1,"Human coronavirus OC43 isolate 2145A/2010, complete genome",Jul-2010,['China: Beijing'],30719,Homo sapiens,1424.0,142.4
+526,KP198611.1,KP198611.1,"Human coronavirus OC43 strain 1783A/10, complete genome",Jan-2010,['China: Beijing'],30752,Homo sapiens,1606.0,133.83333333333334
+527,KP198610.1,KP198610.1,"Human coronavirus OC43 strain 2058A/10, complete genome",Jun-2010,['China: Beijing'],30752,Homo sapiens,1468.0,133.45454545454547
+528,KJ958219.1,KJ958219.1,"Human coronavirus OC43 strain LY342, complete genome",04-Oct-2011,['China: Beijing'],30714,Homo sapiens; sex:M; age:34Y,1185.0,98.75
+529,KJ958218.1,KJ958218.1,"Human coronavirus OC43 strain LY341, complete genome",03-Oct-2011,['China: Beijing'],30714,Homo sapiens; sex:F; age:15Y,1191.0,108.27272727272727
+530,KF906251.1,KF906251.1,"Dromedary camel coronavirus HKU23 strain HKU23-368F, complete genome",21-May-2013,['United Arab Emirates: Dubai'],31052,dromedary camel,1036.0,148.0
+531,KF906250.1,KF906250.1,"Dromedary camel coronavirus HKU23 strain HKU23-362F, complete genome",15-May-2013,['United Arab Emirates: Dubai'],31052,dromedary camel,1036.0,148.0
+532,KF906249.1,KF906249.1,"Dromedary camel coronavirus HKU23 strain HKU23-265F, complete genome",03-Apr-2013,['United Arab Emirates: Dubai'],31052,dromedary camel,887.0,177.4
+533,JX860640.1,JX860640.1,"Canine respiratory coronavirus strain K37, complete genome",2008,['South Korea'],31028,dog,1327.0,120.63636363636364
+534,JN129835.1,JN129835.1,"Human coronavirus OC43 strain HK04-02, complete genome",Nov-2004,['China: Hong Kong'],30722,Homo sapiens,1422.0,142.2
+535,JN129834.1,JN129834.1,"Human coronavirus OC43 strain HK04-01, complete genome",Nov-2004,['China: Hong Kong'],30710,Homo sapiens,1221.0,135.66666666666666
+536,DQ811784.2,DQ811784.2,"Bovine coronavirus DB2, complete genome",1983,,31007,bovine,1605.0,94.41176470588235
+537,AY585229.1,AY585229.1,"Human coronavirus OC43 serotype OC43-Paris, complete genome",04-AUG-2004,['France: Paris'],30744,,1756.0,109.75
+538,AY585228.1,AY585228.1,"Human coronavirus OC43 strain ATCC VR-759, complete genome",04-AUG-2004,['USA'],30741,,1730.0,115.33333333333333
+539,AY391777.1,AY391777.1,"Human coronavirus OC43, complete genome",14-JAN-2005,,30738,,1620.0,73.63636363636364
+540,FJ938067.1,FJ938067.1,"Human enteric coronavirus strain 4408, complete genome",17-Apr-2009,,30953,Homo sapiens; bovine,513.0,57.0
+541,FJ938066.1,FJ938066.1,"Bovine respiratory coronavirus bovine/US/OH-440-TC/1996, complete genome",01-Jan-1996,['USA: Ohio'],30953,bovine,966.0,80.5
+542,FJ938065.1,FJ938065.1,"Bovine respiratory coronavirus AH187, complete genome",01-Jan-2000,['USA: Ohio'],30969,bovine,861.0,172.2
+543,FJ938064.1,FJ938064.1,"Bovine coronavirus E-AH187-TC, complete genome",01-Jan-2000,['USA: Ohio'],30995,bovine,1250.0,156.25
+544,FJ938063.1,FJ938063.1,"Bovine coronavirus E-DB2-TC, complete genome",30-Nov-1996,['USA: Ohio'],31024,bovine,1133.0,87.15384615384616
+545,AY903460.1,AY903460.1,"Human coronavirus OC43 strain 19572 Belgium 2004, complete genome",26-MAY-2005,['Belgium'],30723,,1411.0,117.58333333333333
+546,AY903459.1,AY903459.1,"Human coronavirus OC43 strain 87309 Belgium 2003, complete genome",26-MAY-2005,['Belgium'],30723,,1329.0,120.81818181818181
+547,DQ011855.1,DQ011855.1,"Porcine hemagglutinating encephalomyelitis virus strain VW572, complete genome",30-JUN-2006,['Belgium'],30480,,619.0,56.27272727272727
+548,U00735.2,U00735.2,"Bovine coronavirus strain Mebus, complete genome",23-APR-2003,,31032,,1093.0,84.07692307692308
+549,FJ415324.1,FJ415324.1,"Human enteric coronavirus 4408, complete genome",1988,['Germany'],31029,Homo sapiens,906.0,53.294117647058826
+550,EF446615.1,EF446615.1,"Equine coronavirus strain NC99, complete genome",15-NOV-2007,,30992,,322.0,64.4
+551,AB354579.1,AB354579.1,"Bovine coronavirus genomic RNA, complete genome, strain: Kakegawa",11-AUG-2007,['Japan'],31038,,1093.0,84.07692307692308
+552,DQ915164.2,DQ915164.2,"Bovine coronavirus isolate Alpaca, complete genome",19-JUN-2007,['USA'],31076,alpaca,1552.0,77.6
+553,NC_026011.1,NC_026011.1,"Betacoronavirus HKU24 strain HKU24-R05005I, complete genome",17-May-2012,['China'],31249,Rattus norvegicus (Norway rat),2407.0,77.64516129032258
+554,KM349744.1,KM349744.1,"Betacoronavirus HKU24 strain HKU24-R05010I, complete genome",17-May-2012,['China'],31249,Rattus norvegicus (Norway rat),2415.0,80.5
+555,KM349743.1,KM349743.1,"Betacoronavirus HKU24 strain HKU24-R05009I, complete genome",17-May-2012,['China'],31249,Rattus norvegicus (Norway rat),2422.0,78.12903225806451
+556,KM349742.1,KM349742.1,"Betacoronavirus HKU24 strain HKU24-R05005I, complete genome",17-May-2012,['China'],31249,Rattus norvegicus (Norway rat),2407.0,77.64516129032258
