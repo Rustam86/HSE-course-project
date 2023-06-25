@@ -19,12 +19,6 @@ from tqdm import tqdm
 from transformers import BertForTokenClassification, BertTokenizer
 
 
-from typing import List, Dict
-import numpy as np
-import torch
-import scipy.ndimage
-from transformers import BertForTokenClassification, BertTokenizer
-
 def seq2kmer(seq: str, k: int) -> List[str]:
     """
     Converts a sequence into a list of k-mers.
