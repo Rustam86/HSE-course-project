@@ -164,13 +164,19 @@ def run_zhunt(sequence: str, zhunt_path: str, window_size: int = 6, min_size: in
 
 def parse_prediction_files(file_path: str) -> dict:
     """
-    Parse Z-DNABERT and ZHunt output files.
-    
+    Parse output files from Zdnabert and Zhunt.
+
+    This function reads a file, parses the contents, and stores
+    the information in a dictionary. The keys of the dictionary 
+    are the lines from the file that do not start with a space, 
+    and the values are lists of lists, each containing numbers 
+    extracted from lines starting with three spaces.
+
     Parameters:
-    file_path (str): The path to the file to parse.
+    file_path (str): The path to the file to be parsed.
 
     Returns:
-    dict: A dictionary containing the parsed data.
+    dict: A dictionary containing parsed data.
     """
     # Open the file
     with open(file_path, 'r') as file:
@@ -207,6 +213,7 @@ def parse_prediction_files(file_path: str) -> dict:
             pass
     
     return data_dict
+
 
 
 def compute_jaccard_index(set_intervals1: List[Tuple[int, int]], set_intervals2: List[Tuple[int, int]]) -> float:
