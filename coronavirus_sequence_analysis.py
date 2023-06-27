@@ -64,7 +64,6 @@ def stitch_np_seq(np_seqs: List[np.ndarray], pad: int = 16) -> np.ndarray:
         res = np.concatenate([res[:-pad], seq])
     return res
 
-from transformers import BertForTokenClassification, BertTokenizer
 
 def zdnabert(sequence: str, model: BertForTokenClassification, tokenizer: BertTokenizer, model_confidence_threshold: float = 0.2, minimum_sequence_length: int = 10) -> dict:
     """
