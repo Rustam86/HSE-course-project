@@ -172,40 +172,41 @@ def parse_prediction_files(file_path: str) -> dict:
     Returns:
     dict: A dictionary containing the parsed data.
     """
-    # Initialize an empty dictionary to store the parsed data
-    parsed_data = {}
-    current_key = ''
-    
-    # Open the file and read it line by line
+    # Open the file
     with open(file_path, 'r') as file:
+        data_dict = {}
+        key = ''
         for line in file:
-            # Remove leading and trailing whitespace from the line
-            trimmed_line = line.strip()
-            
-            # Skip lines ending with '.fas' or starting with "100%|"
-            if trimmed_line.endswith('.fas') or trimmed_line.startswith("100%|"):
+            # If line ends with '.fas', get the spec by stripping '.fas'
+            if line.strip()[-4:] == '.fas':
+                spec = line.strip()[:-4]
                 continue
-            
-            # If the line doesn't start with '  ' or '   ', it's a key
-            if not trimmed_line.startswith(('  ', '   ')):
-                current_key = trimmed_line
-                parsed_data[current_key] = []
-            # If the line starts with '   ', it's a value
-            elif trimmed_line.startswith('   '):
-                # Convert the line into a list of floats and append it to the current key
-                values = [float(i) for i in trimmed_line.split()]
-                parsed_data[current_key].append(values)
-                
-        # If a key has only one value, append a default value
-        for key, value in parsed_data.items():
-            if len(value) == 1:
-                value.append([0, 0, False])
-                
-        # Remove the empty key if it exists
-        parsed_data.pop('', None)
+
+            # If line starts with "100%|", skip the line
+            if line.startswith("100%|"):
+                continue
+
+            # If line doesn't start with '  ' or '   ', make it a key
+            if not (line.startswith('  ') or line.startswith('   ')):
+                key = line.strip()
+                data_dict[key] = []
+            # If line starts with '   ', convert it to a list of floats and add it to the current key
+            elif line.startswith('   '):
+                value = [float(i) for i in line.strip().split()]
+                data_dict[key].append(value)
+
+        # If a key has only one value, append a list [0, 0, False] to it
+        for key in data_dict:
+            if len(data_dict[key]) == 1:
+                data_dict[key].append([0, 0, False])
+
+        # Remove the key '' if it exists
+        try:
+            data_dict.pop('')
+        except KeyError:
+            pass
     
-    # Return the parsed data
-    return parsed_data
+    return data_dict
 
 
 def compute_jaccard_index(set_intervals1: List[Tuple[int, int]], set_intervals2: List[Tuple[int, int]]) -> float:
