@@ -607,7 +607,7 @@ def create_genbank_info_df(ids: List[str], intervals: Dict[str, List[List[int]]]
                 break
 
         # Append the information to the dataframe
-        df = df.append({'GenBank ID': genbank_id,
+        df = df.concat({'GenBank ID': genbank_id,
                         'Accession': accession,
                         'Description': description,
                         'Collection Date': collection_date,
