@@ -606,7 +606,7 @@ def create_genbank_info_df(ids: List[str], intervals: Dict[str, List[List[int]]]
                 break
 
         # Append the information to the dataframe
-        data = pd.DataFrame({'GenBank ID': genbank_id,
+        data = {'GenBank ID': genbank_id,
                         'Accession': accession,
                         'Description': description,
                         'Collection Date': collection_date,
@@ -615,11 +615,10 @@ def create_genbank_info_df(ids: List[str], intervals: Dict[str, List[List[int]]]
                         'Host': host,
                         'Intervals Total Length': get_length_value(intervals, genbank_id),
                         'Intervals Mean Length': get_mean_length_value(intervals, genbank_id)
-                        })
-        df = pd.concat([df, data], ignore_index=True)
+                        }
+        df = df.append(data, ignore_index=True)
 
     return df
-
 
 def pango_to_who(pango_lineage: str) -> str:
     """
