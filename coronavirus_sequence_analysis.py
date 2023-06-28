@@ -65,7 +65,7 @@ def stitch_np_seq(np_seqs: List[np.ndarray], pad: int = 16) -> np.ndarray:
     return res
 
 
-def zdnabert(sequence: str, model: BertForTokenClassification, tokenizer: BertTokenizer, model_confidence_threshold: float = 0.2, minimum_sequence_length: int = 10) -> dict:
+def run_zdnabert(sequence: str, model: BertForTokenClassification, tokenizer: BertTokenizer, model_confidence_threshold: float = 0.2, minimum_sequence_length: int = 10) -> dict:
     """
     Predicts Z-DNA regions in a given sequence using a trained model.
 
@@ -519,85 +519,56 @@ def plot_time_length_regression(df: pd.DataFrame, row_linkage: np.ndarray, color
 
 
 
-def create_genbank_info_df(ids: List[str], intervals: Dict[str, List[List[int]]]) -> pd.DataFrame:
+def create_genbank_info_df_prog(intervals_file: str, show_progress: bool = False) -> pd.DataFrame:
     """
     This function fetches information for each GenBank ID from the NCBI database and stores it in a pandas DataFrame.
 
     Parameters:
-    - ids (List[str]): A list of GenBank IDs.
-    - intervals (Dict[str, List[List[int]]]): A dictionary of intervals.
+    - intervals_file (str): The path to the file that contains the intervals. This can be the output of either the 'run_zhunt' or 'run_zdnabert' function.
+    - show_progress (bool): Whether to show a progress bar while fetching information. Default is False.
 
     Returns:
     - df (pd.DataFrame): A pandas DataFrame containing the fetched information.
     """
 
+    intervals = parse_prediction_files(intervals_file)
+    ids =  list(intervals.keys())
+
     # Entrez email (required for accessing NCBI databases)
     Entrez.email = 'rustam_msu@mail.ru'
 
     def fetch_genbank_info(genbank_id: str) -> SeqIO.SeqRecord:
-        """
-        Fetches information for a given GenBank ID from the NCBI database.
-
-        Parameters:
-        - genbank_id (str): GenBank ID.
-
-        Returns:
-        - record (SeqIO.SeqRecord): SeqRecord containing the fetched information.
-        """
         handle = Entrez.efetch(db='nuccore', id=genbank_id, rettype='gb', retmode='text')
         record = SeqIO.read(handle, 'genbank')
         handle.close()
         return record
 
     def get_length_value(intervals: Dict[str, List[List[int]]], genbank_id: str) -> int:
-        """
-        Calculates the total length of intervals for a given GenBank ID.
-
-        Parameters:
-        - intervals (Dict[str, List[List[int]]]): A dictionary of intervals.
-        - genbank_id (str): GenBank ID.
-
-        Returns:
-        - length (int): Total length of intervals.
-        """
         return sum(interval[1] - interval[0] for interval in intervals[genbank_id])
 
     def get_mean_length_value(intervals: Dict[str, List[List[int]]], genbank_id: str) -> float:
-        """
-        Calculates the mean length of intervals for a given GenBank ID.
-
-        Parameters:
-        - intervals (Dict[str, List[List[int]]]): A dictionary of intervals.
-        - genbank_id (str): GenBank ID.
-
-        Returns:
-        - mean_length (float): Mean length of intervals.
-        """
         lengths = [interval[1] - interval[0] for interval in intervals[genbank_id]]
         return sum(lengths) / len(lengths) if lengths else 0
 
-    # Create an empty dataframe to store the information
     df = pd.DataFrame(columns=['GenBank ID', 'Accession', 'Description', 'Collection Date', 'Geographic Location',
                                'Sequence Length', 'Host', 'Intervals Total Length', 'Intervals Mean Length'])
 
-    # Fetch information for each GenBank ID
-    for genbank_id in ids:
+    ids_iter = ids
+    if show_progress:
+        ids_iter = tqdm(ids, desc=f"Downloading GenBank info")
+    for genbank_id in ids_iter:
         record = fetch_genbank_info(genbank_id)
 
-        # Extract relevant information
         accession = record.id
         description = record.description
 
-        # Extract source features
         collection_date = record.features[0].qualifiers.get('collection_date', '')
         if collection_date == '':
             collection_date = record.annotations.get('date', '')
-        # Remove square brackets from collection_date
         if isinstance(collection_date, list):
             collection_date = collection_date[0] if collection_date else ''
         geographic_location = record.features[0].qualifiers.get('country')
 
-        # Extract host information
         features = record.features
         host = ''
         for feature in features:
@@ -605,8 +576,7 @@ def create_genbank_info_df(ids: List[str], intervals: Dict[str, List[List[int]]]
                 host = feature.qualifiers['host'][0]
                 break
 
-        # Append the information to the dataframe
-        data = {'GenBank ID': genbank_id,
+        df = df.append({'GenBank ID': genbank_id,
                         'Accession': accession,
                         'Description': description,
                         'Collection Date': collection_date,
@@ -615,10 +585,10 @@ def create_genbank_info_df(ids: List[str], intervals: Dict[str, List[List[int]]]
                         'Host': host,
                         'Intervals Total Length': get_length_value(intervals, genbank_id),
                         'Intervals Mean Length': get_mean_length_value(intervals, genbank_id)
-                        }
-        df = df.append(data, ignore_index=True)
+                        }, ignore_index=True)
 
     return df
+
 
 def pango_to_who(pango_lineage: str) -> str:
     """
