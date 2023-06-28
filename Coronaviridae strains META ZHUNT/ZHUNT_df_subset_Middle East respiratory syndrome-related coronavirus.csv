@@ -1,0 +1,714 @@
+,GenBank ID,Accession,Description,Collection Date,Geographic Location,Sequence Length,Host,Intervals Total Length,Intervals Mean Length
+0,MK967708.1,MK967708.1,"Middle East respiratory syndrome-related coronavirus isolate Merscov/Egypt/Camel/AHRI-FAO-1/2018, complete genome",2018,['Egypt'],30106,Camel,306.0,9.870967741935484
+1,MN120514.1,MN120514.1,"Middle East respiratory syndrome-related coronavirus isolate 013, complete genome",28-Mar-2019,['Saudi Arabia'],30118,Homo sapiens,312.0,9.75
+2,MH454272.1,MH454272.1,"Middle East respiratory syndrome-related coronavirus strain HCoV-EMC, complete genome",06-Dec-2016,['Saudi Arabia'],30119,Homo sapiens,324.0,9.818181818181818
+3,MH306207.1,MH306207.1,"Middle East respiratory syndrome-related coronavirus strain HCoV-EMC, complete genome",01-Aug-2016,['Saudi Arabia'],30119,Homo sapiens,324.0,9.818181818181818
+4,OP712625.1,OP712625.1,"Middle East respiratory syndrome-related coronavirus isolate MERS-CoV/dromedary camel/Egypt/NC4714/2016, complete genome",07-Sep-2016,['Egypt'],30108,Camelus dromedarius,318.0,9.9375
+5,OP712624.1,OP712624.1,"Middle East respiratory syndrome-related coronavirus isolate MERS-CoV/dromedary camel/Egypt/NC4713/2016, complete genome",07-Sep-2016,['Egypt'],30108,Camelus dromedarius,318.0,9.9375
+6,OP712623.1,OP712623.1,"Middle East respiratory syndrome-related coronavirus isolate MERS-CoV/dromedary camel/Egypt/NC283/2015, complete genome",06-Jan-2015,['Egypt'],30102,Camelus dromedarius,306.0,9.870967741935484
+7,OP654179.1,OP654179.1,"Middle East respiratory syndrome-related coronavirus isolate MERS-CoV/dromedary camel/Egypt/NC270-P9/2015, complete genome",01-Jan-2015,['Egypt'],30131,Camelus dromedarius,306.0,9.870967741935484
+8,OP654178.1,OP654178.1,"Middle East respiratory syndrome-related coronavirus isolate MERS-CoV/dromedary camel/Egypt/NC282/2015, complete genome",06-Jan-2015,['Egypt'],30112,Camelus dromedarius,306.0,9.870967741935484
+9,OK094454.1,OK094454.1,"Middle East respiratory syndrome-related coronavirus isolate Camel/Kenya/M23C15/2019, complete genome",02-SEP-2022,,30112,,312.0,9.75
+10,OK094453.1,OK094453.1,"Middle East respiratory syndrome-related coronavirus isolate Camel/Kenya/M23C15/2019, complete genome",30-Apr-2019,['Kenya'],30112,camel,312.0,9.75
+11,OK094452.1,OK094452.1,"Middle East respiratory syndrome-related coronavirus isolate Camel/Kenya/M23C14/2019, complete genome",30-Apr-2019,['Kenya'],30112,camel,312.0,9.75
+12,OK094451.1,OK094451.1,"Middle East respiratory syndrome-related coronavirus isolate Camel/Kenya/M23C06/2019, complete genome",02-SEP-2022,,30112,,312.0,9.75
+13,OK094450.1,OK094450.1,"Middle East respiratory syndrome-related coronavirus isolate Camel/Kenya/M23C06/2019, complete genome",30-Apr-2019,['Kenya'],30112,camel,312.0,9.75
+14,OK094449.1,OK094449.1,"Middle East respiratory syndrome-related coronavirus isolate Camel/Kenya/M23C02/2019, complete genome",30-Apr-2019,['Kenya'],30112,camel,312.0,9.75
+15,OK094448.1,OK094448.1,"Middle East respiratory syndrome-related coronavirus isolate Camel/Kenya/M23C07/2019, complete genome",30-Apr-2019,['Kenya'],30112,camel,312.0,9.75
+16,OK094447.1,OK094447.1,"Middle East respiratory syndrome-related coronavirus isolate Camel/Kenya/M23C14/2019, complete genome",02-SEP-2022,,30112,,312.0,9.75
+17,OK094446.1,OK094446.1,"Middle East respiratory syndrome-related coronavirus isolate Camel/Kenya/M23C07/2019, complete genome",02-SEP-2022,,30112,,312.0,9.75
+18,MZ268405.1,MZ268405.1,"Middle East respiratory syndrome-related coronavirus isolate MERS-CoV/Camel/Kenya/HKU-CAC10200/2020, complete genome",19-Mar-2020,['Kenya'],30106,Camelus dromedarius,312.0,9.75
+19,MZ268404.1,MZ268404.1,"Middle East respiratory syndrome-related coronavirus isolate MERS-CoV/Camel/Ethiopia/HKU-CAC9690/2019, complete genome",24-Nov-2019,['Ethiopia'],30094,Camelus dromedarius,312.0,9.75
+20,OK573213.1,OK573213.1,UNVERIFIED: Middle East respiratory syndrome-related coronavirus FDA:FDAARGOS_849 genomic sequence,30-JUL-2022,['USA: MD'],30116,Homo sapiens,324.0,9.818181818181818
+21,OK572989.1,OK572989.1,UNVERIFIED: Middle East respiratory syndrome-related coronavirus FDA:FDAARGOS_1162 genomic sequence,30-JUL-2022,,29154,,220.0,10.0
+22,ON325306.1,ON325306.1,"Middle East respiratory syndrome-related coronavirus isolate Bat-CoV/P.nathusii/Russia/MOW15-22/2015, complete genome",15-Aug-2015,['Russia'],30257,Pipistrellus nathusii,522.0,9.49090909090909
+23,ON325307.1,ON325307.1,"Middle East respiratory syndrome-related coronavirus isolate BatCoV/V.murinus/Switzerland/2020, complete genome",2020,['Switzerland'],30047,Vespertilio murinus,536.0,9.925925925925926
+24,ON378807.1,ON378807.1,"MAG: Middle East respiratory syndrome-related coronavirus isolate BatCoV_B20-180, complete genome",21-Sep-2020,['South Korea'],30110,Rhinolophus ferrumequinum,330.0,9.705882352941176
+25,OL622036.1,OL622036.1,"Middle East respiratory syndrome-related coronavirus isolate MERS-CoV_Dammam_2019, complete genome",03-Apr-2019,['Saudi Arabia: Dammam'],29994,Homo sapiens,312.0,9.75
+26,OL622035.1,OL622035.1,"Middle East respiratory syndrome-related coronavirus isolate MERS-CoV_Riyadh_2016, complete genome",03-Jan-2017,['Saudi Arabia: Riyadh'],29994,Homo sapiens,312.0,9.75
+27,MW545528.1,MW545528.1,"Middle East respiratory syndrome-related coronavirus isolate D1189.6, complete genome",2015,['United Arab Emirates'],30103,Camelus dromedarius,302.0,9.741935483870968
+28,MW545527.1,MW545527.1,"Middle East respiratory syndrome-related coronavirus isolate D1189.5, complete genome",2015,['United Arab Emirates'],30103,Camelus dromedarius,324.0,9.818181818181818
+29,MT226607.1,MT226607.1,"Middle East respiratory syndrome-related coronavirus isolate Camel/1290, complete genome",01-Feb-2017,['Saudi Arabia'],30118,Camelus dromedarius,324.0,9.818181818181818
+30,MT226606.1,MT226606.1,"Middle East respiratory syndrome-related coronavirus isolate Camel/228, complete genome",01-Feb-2017,['Saudi Arabia'],30118,Camelus dromedarius,324.0,9.818181818181818
+31,MT226605.1,MT226605.1,"Middle East respiratory syndrome-related coronavirus isolate Camel/227, complete genome",01-Feb-2017,['Saudi Arabia'],30118,Camelus dromedarius,306.0,9.870967741935484
+32,MT226604.1,MT226604.1,"Middle East respiratory syndrome-related coronavirus isolate Camel/B5-02, complete genome",01-Feb-2017,['Saudi Arabia'],30118,Camelus dromedarius,324.0,9.818181818181818
+33,MT226603.1,MT226603.1,"Middle East respiratory syndrome-related coronavirus isolate Camel/219, complete genome",01-Feb-2017,['Saudi Arabia'],30118,Camelus dromedarius,324.0,9.818181818181818
+34,MT226602.1,MT226602.1,"Middle East respiratory syndrome-related coronavirus isolate Camel/211, complete genome",01-Feb-2017,['Saudi Arabia'],30118,Camelus dromedarius,324.0,9.818181818181818
+35,MT226601.1,MT226601.1,"Middle East respiratory syndrome-related coronavirus isolate Camel/B5/02, complete genome",01-Feb-2017,['Saudi Arabia'],30118,Camelus dromedarius,306.0,9.870967741935484
+36,MT226600.1,MT226600.1,"Middle East respiratory syndrome-related coronavirus isolate Camel/B8-03, complete genome",01-Feb-2017,['Saudi Arabia'],30118,Camelus dromedarius,324.0,9.818181818181818
+37,MT361640.1,MT361640.1,"Mutant Middle East respiratory syndrome-related coronavirus clone MERS-CoV YKC, complete genome",11-JAN-2021,,30136,,324.0,9.818181818181818
+38,MN758614.1,MN758614.1,"Middle East respiratory syndrome-related coronavirus isolate camel/KFU-HKU-N/2017, complete genome",2017,['Saudi Arabia'],30089,Camelus dromedarius,278.0,9.586206896551724
+39,MN758613.1,MN758613.1,"Middle East respiratory syndrome-related coronavirus isolate camel/KFU-HKU-G/2017, complete genome",2017,['Saudi Arabia'],30089,Camelus dromedarius,278.0,9.586206896551724
+40,MN758612.1,MN758612.1,"Middle East respiratory syndrome-related coronavirus isolate camel/KFU-HKU-M/2017, complete genome",2017,['Saudi Arabia'],30089,Camelus dromedarius,266.0,9.5
+41,MN758611.1,MN758611.1,"Middle East respiratory syndrome-related coronavirus isolate camel/KFU-HKU-J/2017, complete genome",2017,['Saudi Arabia'],30089,Camelus dromedarius,266.0,9.5
+42,MN758610.1,MN758610.1,"Middle East respiratory syndrome-related coronavirus isolate camel/KFU-HKU-O/2017, complete genome",2017,['Saudi Arabia'],30089,Camelus dromedarius,266.0,9.5
+43,MN758609.1,MN758609.1,"Middle East respiratory syndrome-related coronavirus isolate camel/KFU-HKU-K/2017, complete genome",2017,['Saudi Arabia'],30089,Camelus dromedarius,266.0,9.5
+44,MN758608.1,MN758608.1,"Middle East respiratory syndrome-related coronavirus isolate camel/KFU-HKU-R/2017, complete genome",2017,['Saudi Arabia'],30089,Camelus dromedarius,266.0,9.5
+45,MN758607.1,MN758607.1,"Middle East respiratory syndrome-related coronavirus isolate camel/KFU-HKU-P/2017, complete genome",2017,['Saudi Arabia'],30089,Camelus dromedarius,266.0,9.5
+46,MN758606.1,MN758606.1,"Middle East respiratory syndrome-related coronavirus isolate camel/KFU-HKU-I/2017, complete genome",2017,['Saudi Arabia'],30089,Camelus dromedarius,266.0,9.5
+47,MN655017.1,MN655017.1,"Middle East respiratory syndrome-related coronavirus isolate Al-Hasa-SA2117/2016, complete genome",Mar-2016,['Saudi Arabia'],29998,Camelus dromedarius,324.0,9.818181818181818
+48,MN655016.1,MN655016.1,"Middle East respiratory syndrome-related coronavirus isolate Al-Hasa-SA1997/2015, complete genome",Nov-2015,['Saudi Arabia'],29992,Camelus dromedarius,278.0,9.586206896551724
+49,MN655015.1,MN655015.1,"Middle East respiratory syndrome-related coronavirus isolate Al-Hasa-SA1954, complete genome",17-DEC-2020,['Saudi Arabia'],30000,Camelus dromedarius,324.0,9.818181818181818
+50,MN655014.1,MN655014.1,"Middle East respiratory syndrome-related coronavirus isolate Al-Hasa-SA1948, complete genome",17-DEC-2020,['Saudi Arabia'],30108,Camelus dromedarius,324.0,9.818181818181818
+51,MN655013.1,MN655013.1,"Middle East respiratory syndrome-related coronavirus isolate Al-Hasa-SA2575, complete genome",17-DEC-2020,['Saudi Arabia'],30004,Camelus dromedarius,324.0,9.818181818181818
+52,MN655012.1,MN655012.1,"Middle East respiratory syndrome-related coronavirus isolate Al-Hasa-SA2685/2017, complete genome",May-2017,['Saudi Arabia'],30001,Camelus dromedarius,324.0,9.818181818181818
+53,MN655011.1,MN655011.1,"Middle East respiratory syndrome-related coronavirus isolate Al-Hasa-SA2205/2016, complete genome",Jun-2016,['Saudi Arabia'],30004,Camelus dromedarius,324.0,9.818181818181818
+54,MN655010.1,MN655010.1,"Middle East respiratory syndrome-related coronavirus isolate Al-Hasa-SA2673/2017, complete genome",May-2017,['Saudi Arabia'],30004,Camelus dromedarius,306.0,9.870967741935484
+55,MN655009.1,MN655009.1,"Middle East respiratory syndrome-related coronavirus isolate Al-Hasa-SA4104/2017, complete genome",Dec-2017,['Saudi Arabia'],30113,Camelus dromedarius,278.0,9.586206896551724
+56,MN655008.1,MN655008.1,"Middle East respiratory syndrome-related coronavirus isolate Al-Hasa-SA2696/2017, complete genome",May-2017,['Saudi Arabia'],30111,Camelus dromedarius,324.0,9.818181818181818
+57,MN655007.1,MN655007.1,"Middle East respiratory syndrome-related coronavirus isolate Al-Hasa-SA1940, complete genome",17-DEC-2020,['Saudi Arabia'],30006,Camelus dromedarius,306.0,9.870967741935484
+58,MN655006.1,MN655006.1,"Middle East respiratory syndrome-related coronavirus isolate Al-Hasa-SA4566/2018, complete genome",07-Mar-2018,['Saudi Arabia'],30112,Camelus dromedarius,324.0,9.818181818181818
+59,MN655005.1,MN655005.1,"Middle East respiratory syndrome-related coronavirus isolate Al-Hasa-SA4068/2017, complete genome",Dec-2017,['Saudi Arabia'],30111,Camelus dromedarius,278.0,9.586206896551724
+60,MN655004.1,MN655004.1,"Middle East respiratory syndrome-related coronavirus isolate Al-Hasa-SA4554, complete genome",17-DEC-2020,['Saudi Arabia'],30112,Camelus dromedarius,324.0,9.818181818181818
+61,MN655003.1,MN655003.1,"Middle East respiratory syndrome-related coronavirus isolate Al-Hasa-SA2679/2017, complete genome",May-2017,['Saudi Arabia'],30004,Camelus dromedarius,306.0,9.870967741935484
+62,MN655002.1,MN655002.1,"Middle East respiratory syndrome-related coronavirus isolate Al-Hasa-SA2677/2017, complete genome",May-2017,['Saudi Arabia'],30003,Camelus dromedarius,306.0,9.870967741935484
+63,MN655001.1,MN655001.1,"Middle East respiratory syndrome-related coronavirus isolate Al-Hasa-SA4765/2018, complete genome",02-Apr-2018,['Saudi Arabia'],30112,Camelus dromedarius,312.0,9.75
+64,MN655000.1,MN655000.1,"Middle East respiratory syndrome-related coronavirus isolate Al-Hasa-SA2626/2017, complete genome",Feb-2017,['Saudi Arabia'],30004,Camelus dromedarius,312.0,9.75
+65,MN654999.1,MN654999.1,"Middle East respiratory syndrome-related coronavirus isolate Al-Hasa-SA4116/2017, complete genome",Dec-2017,['Saudi Arabia'],30113,Camelus dromedarius,278.0,9.586206896551724
+66,MN654998.1,MN654998.1,"Middle East respiratory syndrome-related coronavirus isolate Al-Hasa-SA2675/2017, complete genome",May-2017,['Saudi Arabia'],30004,Camelus dromedarius,306.0,9.870967741935484
+67,MN654997.1,MN654997.1,"Middle East respiratory syndrome-related coronavirus isolate Al-Hasa-SA4809, complete genome",17-DEC-2020,['Saudi Arabia'],30112,Camelus dromedarius,324.0,9.818181818181818
+68,MN654996.1,MN654996.1,"Middle East respiratory syndrome-related coronavirus isolate Al-Hasa-SA2159/2016, complete genome",Apr-2016,['Saudi Arabia'],30006,Camelus dromedarius,324.0,9.818181818181818
+69,MN654995.1,MN654995.1,"Middle East respiratory syndrome-related coronavirus isolate Al-Hasa-SA4586/2018, complete genome",07-Mar-2018,['Saudi Arabia'],30112,Camelus dromedarius,324.0,9.818181818181818
+70,MN654994.1,MN654994.1,"Middle East respiratory syndrome-related coronavirus isolate Al-Hasa-SA3228/2017, complete genome",Apr-2017,['Saudi Arabia'],30048,Camelus dromedarius,324.0,9.818181818181818
+71,MN654993.1,MN654993.1,"Middle East respiratory syndrome-related coronavirus isolate Al-Hasa-SA1950, complete genome",17-DEC-2020,['Saudi Arabia'],30000,Camelus dromedarius,324.0,9.818181818181818
+72,MN654992.1,MN654992.1,"Middle East respiratory syndrome-related coronavirus isolate Al-Hasa-SA2247/2016, complete genome",Jul-2016,['Saudi Arabia'],30101,Camelus dromedarius,324.0,9.818181818181818
+73,MN654991.1,MN654991.1,"Middle East respiratory syndrome-related coronavirus isolate Al-Hasa-SA1989/2015, complete genome",Nov-2015,['Saudi Arabia'],30112,Camelus dromedarius,324.0,9.818181818181818
+74,MN654990.1,MN654990.1,"Middle East respiratory syndrome-related coronavirus isolate Al-Hasa-SA4535, complete genome",17-DEC-2020,['Saudi Arabia'],30112,Camelus dromedarius,324.0,9.818181818181818
+75,MN654989.1,MN654989.1,"Middle East respiratory syndrome-related coronavirus isolate Al-Hasa-SA2579/2017, complete genome",Jan-2017,['Saudi Arabia'],30111,Camelus dromedarius,324.0,9.818181818181818
+76,MN654988.1,MN654988.1,"Middle East respiratory syndrome-related coronavirus isolate Al-Hasa-SA1946, complete genome",17-DEC-2020,['Saudi Arabia'],30111,Camelus dromedarius,324.0,9.818181818181818
+77,MN654987.1,MN654987.1,"Middle East respiratory syndrome-related coronavirus isolate Al-Hasa-SA2687/2017, complete genome",May-2017,['Saudi Arabia'],30000,Camelus dromedarius,324.0,9.818181818181818
+78,MN654986.1,MN654986.1,"Middle East respiratory syndrome-related coronavirus isolate Al-Hasa-SA2691/2017, complete genome",May-2017,['Saudi Arabia'],30004,Camelus dromedarius,324.0,9.818181818181818
+79,MN654985.1,MN654985.1,"Middle East respiratory syndrome-related coronavirus isolate Al-Hasa-SA1944, complete genome",17-DEC-2020,['Saudi Arabia'],30004,Camelus dromedarius,306.0,9.870967741935484
+80,MN654984.1,MN654984.1,"Middle East respiratory syndrome-related coronavirus isolate Al-Hasa-SA4819, complete genome",17-DEC-2020,['Saudi Arabia'],30112,Camelus dromedarius,324.0,9.818181818181818
+81,MN654983.1,MN654983.1,"Middle East respiratory syndrome-related coronavirus isolate Al-Hasa-SA4047/2017, complete genome",Dec-2017,['Saudi Arabia'],30112,Camelus dromedarius,278.0,9.586206896551724
+82,MN654982.1,MN654982.1,"Middle East respiratory syndrome-related coronavirus isolate Al-Hasa-SA2557/2017, complete genome",Jan-2017,['Saudi Arabia'],30004,Camelus dromedarius,312.0,9.75
+83,MN654981.1,MN654981.1,"Middle East respiratory syndrome-related coronavirus isolate Al-Hasa-SA1962, complete genome",17-DEC-2020,['Saudi Arabia'],30004,Camelus dromedarius,324.0,9.818181818181818
+84,MN654980.1,MN654980.1,"Middle East respiratory syndrome-related coronavirus isolate Al-Hasa-SA2108/2016, complete genome",Mar-2016,['Saudi Arabia'],30004,Camelus dromedarius,324.0,9.818181818181818
+85,MN654979.1,MN654979.1,"Middle East respiratory syndrome-related coronavirus isolate Al-Hasa-SA2681/2017, complete genome",May-2017,['Saudi Arabia'],30000,Camelus dromedarius,324.0,9.818181818181818
+86,MN654978.1,MN654978.1,"Middle East respiratory syndrome-related coronavirus isolate Al-Hasa-SA2199/2016, complete genome",Jun-2016,['Saudi Arabia'],30004,Camelus dromedarius,324.0,9.818181818181818
+87,MN654977.1,MN654977.1,"Middle East respiratory syndrome-related coronavirus isolate Al-Hasa-SA2689/2017, complete genome",May-2017,['Saudi Arabia'],30097,Camelus dromedarius,324.0,9.818181818181818
+88,MN654976.1,MN654976.1,"Middle East respiratory syndrome-related coronavirus isolate Al-Hasa-SA4839, complete genome",17-DEC-2020,['Saudi Arabia'],30111,Camelus dromedarius,324.0,9.818181818181818
+89,MN654975.1,MN654975.1,"Middle East respiratory syndrome-related coronavirus isolate Al-Hasa-SA2407/2016, complete genome",Jul-2016,['Saudi Arabia'],30111,Camelus dromedarius,324.0,9.818181818181818
+90,MN654974.1,MN654974.1,"Middle East respiratory syndrome-related coronavirus isolate Al-Hasa-SA2697/2017, complete genome",May-2017,['Saudi Arabia'],30010,Camelus dromedarius,324.0,9.818181818181818
+91,MN654973.1,MN654973.1,"Middle East respiratory syndrome-related coronavirus isolate Al-Hasa-SA1983/2015, complete genome",Nov-2015,['Saudi Arabia'],30112,Camelus dromedarius,324.0,9.818181818181818
+92,MN654972.1,MN654972.1,"Middle East respiratory syndrome-related coronavirus isolate Al-Hasa-SA2196/2016, complete genome",Jun-2016,['Saudi Arabia'],30004,Camelus dromedarius,324.0,9.818181818181818
+93,MN654971.1,MN654971.1,"Middle East respiratory syndrome-related coronavirus isolate Al-Hasa-SA2097/2015, complete genome",Dec-2015,['Saudi Arabia'],30112,Camelus dromedarius,324.0,9.818181818181818
+94,MN654970.1,MN654970.1,"Middle East respiratory syndrome-related coronavirus isolate Al-Hasa-SA2408/2016, complete genome",Jul-2016,['Saudi Arabia'],30004,Camelus dromedarius,324.0,9.818181818181818
+95,MW086539.1,MW086539.1,"Middle East respiratory syndrome-related coronavirus isolate MERS-CoV/JC33/Ramtha, complete genome",May-2016,['Jordan'],29815,Camelus dromedarius,310.0,10.0
+96,MW086538.1,MW086538.1,"Middle East respiratory syndrome-related coronavirus isolate MERS-CoV/JC44/Ramtha, complete genome",May-2016,['Jordan'],29825,Camelus dromedarius,310.0,10.0
+97,MW086535.1,MW086535.1,"Middle East respiratory syndrome-related coronavirus isolate MERS-CoV/JC32/Ramtha, complete genome",May-2016,['Jordan'],29825,Camelus dromedarius,310.0,10.0
+98,MW086534.1,MW086534.1,"Middle East respiratory syndrome-related coronavirus isolate MERS-CoV/JC31/Ramtha, complete genome",May-2016,['Jordan'],29826,Camelus dromedarius,310.0,10.0
+99,MW086533.1,MW086533.1,"Middle East respiratory syndrome-related coronavirus isolate MERS-CoV/JC37/Ramtha, complete genome",May-2016,['Jordan'],29819,Camelus dromedarius,310.0,10.0
+100,MW086532.1,MW086532.1,"Middle East respiratory syndrome-related coronavirus isolate MERS-CoV/JC30/Ramtha, complete genome",May-2016,['Jordan'],29786,Camelus dromedarius,310.0,10.0
+101,MW086531.1,MW086531.1,"Middle East respiratory syndrome-related coronavirus isolate MERS-CoV/JC26/Ramtha, complete genome",May-2016,['Jordan'],29786,Camelus dromedarius,310.0,10.0
+102,MW086530.1,MW086530.1,"Middle East respiratory syndrome-related coronavirus isolate MERS-CoV/JC27/Ramtha, complete genome",May-2016,['Jordan'],29786,Camelus dromedarius,310.0,10.0
+103,MW086529.1,MW086529.1,"Middle East respiratory syndrome-related coronavirus isolate MERS-CoV/JC28/Ramtha, complete genome",May-2016,['Jordan'],29786,Camelus dromedarius,310.0,10.0
+104,MW086528.1,MW086528.1,"Middle East respiratory syndrome-related coronavirus isolate MERS-CoV/JC25/Ramtha, complete genome",May-2016,['Jordan'],29786,Camelus dromedarius,310.0,10.0
+105,MW086527.1,MW086527.1,"Middle East respiratory syndrome-related coronavirus isolate MERS-CoV/JC17/Azraq, complete genome",May-2016,['Jordan'],29786,Camelus dromedarius,310.0,10.0
+106,KU740200.1,KU740200.1,"Middle East respiratory syndrome-related coronavirus isolate MERS CoV/camel/Egypt/NRCE-NC163/2014, partial genome",17-Dec-2014,['Egypt'],29949,Camelus dromedarius,324.0,9.818181818181818
+107,NC_019843.3,NC_019843.3,"Middle East respiratory syndrome-related coronavirus isolate HCoV-EMC/2012, complete genome",13-Jun-2012,,30119,Homo sapiens,324.0,9.818181818181818
+108,MT675269.1,MT675269.1,"Middle East respiratory syndrome-related coronavirus isolate 16025_13 ORF1ab, ORF1a, S protein, ORF3, ORF4a, ORF4b, ORF5, E protein, M protein, N protein, and ORF8b genes, complete cds",02-Mar-2015,['Saudi Arabia: Riyadh'],29894,Homo sapiens,324.0,9.818181818181818
+109,MT675266.1,MT675266.1,"Middle East respiratory syndrome-related coronavirus isolate 16024_21 ORF1ab and ORF1a genes, partial cds; S protein, ORF3, ORF4a, ORF4b, and ORF5 genes, complete cds; E protein and M protein genes, partial cds; and N protein and ORF8b genes, complete cds",09-Mar-2015,['Saudi Arabia: Riyadh'],29200,Homo sapiens,246.0,9.84
+110,MT675265.1,MT675265.1,"Middle East respiratory syndrome-related coronavirus isolate 16024_20 ORF1ab, ORF1a, S protein, ORF3, ORF4a, ORF4b, ORF5, E protein, M protein, N protein, and ORF8b genes, complete cds",08-Mar-2015,['Saudi Arabia: Riyadh'],29989,Homo sapiens,324.0,9.818181818181818
+111,MT675263.1,MT675263.1,"Middle East respiratory syndrome-related coronavirus isolate 16024_18 ORF1ab, ORF1a, S protein, ORF3, ORF4a, ORF4b, ORF5, E protein, M protein, N protein, and ORF8b genes, complete cds",04-Mar-2015,['Saudi Arabia: Riyadh'],29755,Homo sapiens,324.0,9.818181818181818
+112,MT675262.1,MT675262.1,"Middle East respiratory syndrome-related coronavirus isolate 16024_17 ORF1ab, ORF1a, S protein, ORF3, ORF4a, ORF4b, ORF5, E protein, M protein, N protein, and ORF8b genes, complete cds",04-Mar-2015,['Saudi Arabia: Riyadh'],30027,Homo sapiens,324.0,9.818181818181818
+113,MT675261.1,MT675261.1,"Middle East respiratory syndrome-related coronavirus isolate 16024_16 ORF1ab, ORF1a, S protein, ORF3, ORF4a, ORF4b, ORF5, E protein, M protein, N protein, and ORF8b genes, complete cds",03-Mar-2015,['Saudi Arabia: Riyadh'],30028,Homo sapiens,324.0,9.818181818181818
+114,MT675260.1,MT675260.1,"Middle East respiratory syndrome-related coronavirus isolate 16024_15 ORF1ab, ORF1a, S protein, ORF3, ORF4a, ORF4b, ORF5, E protein, M protein, N protein, and ORF8b genes, complete cds",03-Mar-2015,['Saudi Arabia: Riyadh'],30118,Homo sapiens,324.0,9.818181818181818
+115,MT675259.1,MT675259.1,"Middle East respiratory syndrome-related coronavirus isolate 16023_7 ORF1ab, ORF1a, S protein, ORF3, ORF4a, ORF4b, ORF5, and E protein genes, complete cds; M protein gene, partial cds; and N protein and ORF8b genes, complete cds",28-Feb-2015,['Saudi Arabia: Riyadh'],29898,Homo sapiens,324.0,9.818181818181818
+116,MT675258.1,MT675258.1,"Middle East respiratory syndrome-related coronavirus isolate 16023_6 ORF1ab and ORF1a genes, partial cds; S protein, ORF3, ORF4a, and ORF4b genes, complete cds; ORF5 and M protein genes, partial cds; and N protein and ORF8b genes, complete cds",28-Feb-2015,['Saudi Arabia: Riyadh'],29545,Homo sapiens,166.0,9.764705882352942
+117,MT675257.1,MT675257.1,"Middle East respiratory syndrome-related coronavirus isolate 16023_5 ORF1ab and ORF1a genes, partial cds; and S protein, ORF3, ORF4a, ORF4b, ORF5, E protein, M protein, N protein, and ORF8b genes, complete cds",27-Feb-2015,['Saudi Arabia: Riyadh'],29675,Homo sapiens,246.0,9.84
+118,MT675256.1,MT675256.1,"Middle East respiratory syndrome-related coronavirus isolate 16023_4 ORF1ab, ORF1a, S protein, ORF3, ORF4a, ORF4b, ORF5, E protein, M protein, N protein, and ORF8b genes, complete cds",25-Feb-2015,['Saudi Arabia: Riyadh'],30104,Homo sapiens,324.0,9.818181818181818
+119,MT675255.1,MT675255.1,"Middle East respiratory syndrome-related coronavirus isolate 16023_3 ORF1ab, ORF1a, S protein, ORF3, ORF4a, ORF4b, ORF5, E protein, M protein, N protein, and ORF8b genes, complete cds",23-Feb-2015,['Saudi Arabia: Riyadh'],29898,Homo sapiens,324.0,9.818181818181818
+120,MT675254.1,MT675254.1,"Middle East respiratory syndrome-related coronavirus isolate 16023_2 ORF1ab, ORF1a, S protein, ORF3, ORF4a, and ORF4 genes, complete cds; ORF5, M protein, and N protein genes, partial cds; and ORF8b gene, complete cds",23-Feb-2015,['Saudi Arabia: Riyadh'],29474,Homo sapiens,290.0,10.0
+121,MT675253.1,MT675253.1,"Middle East respiratory syndrome-related coronavirus isolate 16023_1 ORF1ab, ORF1a, S protein, ORF3, ORF4a, ORF4b, ORF5, E protein, M protein, N protein, and ORF8b genes, complete cds",18-Feb-2015,['Saudi Arabia: Riyadh'],30009,Homo sapiens,324.0,9.818181818181818
+122,MT576585.1,MT576585.1,"Middle East respiratory syndrome-related coronavirus isolate MA_30, complete genome",29-JUN-2020,,30115,,354.0,9.833333333333334
+123,MT387202.1,MT387202.1,"Middle East respiratory syndrome-related coronavirus isolate KNIH_002, complete genome",20-May-2015,['South Korea'],30108,Homo sapiens,324.0,9.818181818181818
+124,MN481986.1,MN481986.1,"Middle East respiratory syndrome-related coronavirus isolate Riyadh_1764_2015, partial genome",Nov-2015,['Saudi Arabia'],29918,Homo sapiens,324.0,9.818181818181818
+125,MN481985.1,MN481985.1,"Middle East respiratory syndrome-related coronavirus isolate Riyadh_1769_2015, partial genome",Nov-2015,['Saudi Arabia'],29918,Homo sapiens,324.0,9.818181818181818
+126,MN481984.1,MN481984.1,"Middle East respiratory syndrome-related coronavirus isolate Riyadh_1757_2015, partial genome",Nov-2015,['Saudi Arabia'],29918,Homo sapiens,324.0,9.818181818181818
+127,MN481983.1,MN481983.1,"Middle East respiratory syndrome-related coronavirus isolate Riyadh_1758_2015, partial genome",Nov-2015,['Saudi Arabia'],29918,Homo sapiens,324.0,9.818181818181818
+128,MN481982.1,MN481982.1,"Middle East respiratory syndrome-related coronavirus isolate Riyadh_1760_2015, partial genome",Nov-2015,['Saudi Arabia'],29918,Homo sapiens,324.0,9.818181818181818
+129,MN481981.1,MN481981.1,"Middle East respiratory syndrome-related coronavirus isolate Riyadh_1737_2015, partial genome",Sep-2015,['Saudi Arabia'],29918,Homo sapiens,324.0,9.818181818181818
+130,MN481980.1,MN481980.1,"Middle East respiratory syndrome-related coronavirus isolate Riyadh_1735_2015, partial genome",Sep-2015,['Saudi Arabia'],29918,Homo sapiens,312.0,9.75
+131,MN481979.1,MN481979.1,"Middle East respiratory syndrome-related coronavirus isolate Riyadh_1734_2015, partial genome",Sep-2015,['Saudi Arabia'],29918,Homo sapiens,324.0,9.818181818181818
+132,MN481978.1,MN481978.1,"Middle East respiratory syndrome-related coronavirus isolate Jeddah_10306_2014, partial genome",Apr-2014,['Saudi Arabia'],29918,Homo sapiens,324.0,9.818181818181818
+133,MN481977.1,MN481977.1,"Middle East respiratory syndrome-related coronavirus isolate Jeddah_9355_2014, partial genome",Apr-2014,['Saudi Arabia'],29918,Homo sapiens,324.0,9.818181818181818
+134,MN481976.1,MN481976.1,"Middle East respiratory syndrome-related coronavirus isolate Riyadh_167_2014, partial genome",Apr-2014,['Saudi Arabia'],29918,Homo sapiens,324.0,9.818181818181818
+135,MN481975.1,MN481975.1,"Middle East respiratory syndrome-related coronavirus isolate Jeddah_9289_2014, partial genome",Apr-2014,['Saudi Arabia'],29918,Homo sapiens,324.0,9.818181818181818
+136,MN481974.1,MN481974.1,"Middle East respiratory syndrome-related coronavirus isolate Jeddah_9313_2014, partial genome",Apr-2014,['Saudi Arabia'],29918,Homo sapiens,324.0,9.818181818181818
+137,MN481973.1,MN481973.1,"Middle East respiratory syndrome-related coronavirus isolate Jeddah_8965_2014, partial genome",Apr-2014,['Saudi Arabia'],29918,Homo sapiens,324.0,9.818181818181818
+138,MN481972.1,MN481972.1,"Middle East respiratory syndrome-related coronavirus isolate Jeddah_9278_2014, partial genome",Apr-2014,['Saudi Arabia'],29918,Homo sapiens,324.0,9.818181818181818
+139,MN481971.1,MN481971.1,"Middle East respiratory syndrome-related coronavirus isolate Jeddah_9055_2014, partial genome",Apr-2014,['Saudi Arabia'],29918,Homo sapiens,312.0,9.75
+140,MN481970.1,MN481970.1,"Middle East respiratory syndrome-related coronavirus isolate Jeddah_9042_2014, partial genome",Apr-2014,['Saudi Arabia'],29918,Homo sapiens,324.0,9.818181818181818
+141,MN481969.1,MN481969.1,"Middle East respiratory syndrome-related coronavirus isolate Riyadh_1340_2014, partial genome",Jun-2014,['Saudi Arabia'],29918,Homo sapiens,312.0,9.75
+142,MN481968.1,MN481968.1,"Middle East respiratory syndrome-related coronavirus isolate Riyadh_586_2014, partial genome",May-2014,['Saudi Arabia'],29918,Homo sapiens,312.0,9.75
+143,MN481967.1,MN481967.1,"Middle East respiratory syndrome-related coronavirus isolate Riyadh_1147_2014, partial genome",May-2014,['Saudi Arabia'],29918,Homo sapiens,312.0,9.75
+144,MN481966.1,MN481966.1,"Middle East respiratory syndrome-related coronavirus isolate Riyadh_146_2014, partial genome",Apr-2014,['Saudi Arabia'],29918,Homo sapiens,324.0,9.818181818181818
+145,MN481965.1,MN481965.1,"Middle East respiratory syndrome-related coronavirus isolate Riyadh_150_2014, partial genome",Apr-2014,['Saudi Arabia'],29918,Homo sapiens,324.0,9.818181818181818
+146,MN481964.1,MN481964.1,"Middle East respiratory syndrome-related coronavirus isolate Riyadh_58_2014, partial genome",Apr-2014,['Saudi Arabia'],29918,Homo sapiens,324.0,9.818181818181818
+147,MG987421.1,MG987421.1,"Middle East respiratory syndrome-related coronavirus isolate NL140455, complete genome",08-May-2014,['China'],30483,,464.0,9.872340425531915
+148,MG987420.1,MG987420.1,"Middle East respiratory syndrome-related coronavirus isolate NL13892, complete genome",20-Jul-2013,['China'],30484,,386.0,9.897435897435898
+149,MN723544.1,MN723544.1,"Middle East respiratory syndrome-related coronavirus isolate Hu/Riyadh-KSA-18013832/2018, complete genome",30-Aug-2018,['Saudi Arabia'],30123,Homo sapiens,302.0,9.741935483870968
+150,MN723543.1,MN723543.1,"Middle East respiratory syndrome-related coronavirus isolate Hu/Jeddah-KSA-173RS1570/2017, complete genome",17-Aug-2017,['Saudi Arabia'],30120,Homo sapiens,302.0,9.741935483870968
+151,MN723542.1,MN723542.1,"Middle East respiratory syndrome-related coronavirus isolate Hu/Jeddah-KSA-173RS1101/2017, complete genome",01-Aug-2017,['Saudi Arabia'],30120,Homo sapiens,302.0,9.741935483870968
+152,MN507638.1,MN507638.1,"Middle East respiratory syndrome-related coronavirus isolate llama-passaged-Qatar15, complete genome",23-OCT-2019,['Qatar'],30033,Lama glama,324.0,9.818181818181818
+153,MK280984.2,MK280984.2,"Middle East respiratory syndrome-related coronavirus isolate Qatar15, complete genome",21-May-2015,['Qatar'],30033,Homo sapiens,324.0,9.818181818181818
+154,MN365233.1,MN365233.1,"Middle East respiratory syndrome-related coronavirus strain Hu/Riyadh-KSA-19003852/2019, complete genome",15-Feb-2019,['Saudi Arabia'],30118,Homo sapiens,312.0,9.75
+155,MN365232.1,MN365232.1,"Middle East respiratory syndrome-related coronavirus strain Hu/Riyadh-KSA-19001796/2019, complete genome",28-Jan-2019,['Saudi Arabia'],30118,Homo sapiens,312.0,9.75
+156,MN120513.1,MN120513.1,"Middle East respiratory syndrome-related coronavirus isolate 016, complete genome",27-Mar-2019,['Saudi Arabia'],30118,Homo sapiens,340.0,9.714285714285714
+157,KJ477103.2,KJ477103.2,"Middle East respiratory syndrome-related coronavirus isolate NRCE-HKU270, complete genome",2013,['Egypt'],30101,Camelus dromedarius,306.0,9.870967741935484
+158,MK564475.1,MK564475.1,"Middle East respiratory syndrome-related coronavirus isolate camel/MERS/Amibara/126/2017, complete genome",24-Aug-2017,['Ethiopia'],30085,dromedary,324.0,9.818181818181818
+159,MK564474.1,MK564474.1,"Middle East respiratory syndrome-related coronavirus isolate camel/MERS/Amibara/118/2017, complete genome",24-Aug-2017,['Ethiopia'],30085,dromedary,324.0,9.818181818181818
+160,MK796425.1,MK796425.1,"Middle East respiratory syndrome-related coronavirus isolate KNIH/002_05_2015, complete genome",20-May-2015,['South Korea'],30108,Homo sapiens,324.0,9.818181818181818
+161,MH259486.1,MH259486.1,"Middle East respiratory syndrome-related coronavirus isolate KSA_1723, complete genome",15-Jul-2014,['Saudi Arabia'],30111,Camelus dromedarius,324.0,9.818181818181818
+162,MH259485.1,MH259485.1,"Middle East respiratory syndrome-related coronavirus isolate KSA_1722, complete genome",15-Jul-2014,['Saudi Arabia'],30079,Camelus dromedarius,324.0,9.818181818181818
+163,MH029552.1,MH029552.1,"Middle East respiratory syndrome-related coronavirus isolate Hu/Riyadh-KSA-008D3N/2015, complete genome",26-Aug-2015,['Saudi Arabia'],30123,Homo sapiens,324.0,9.818181818181818
+164,MK483839.1,MK483839.1,"Middle East respiratory syndrome-related coronavirus strain Hu/Albaha-KSA-0800H/2018, complete genome",16-Aug-2018,['Saudi Arabia'],30118,Homo sapiens,312.0,9.75
+165,MK462256.1,MK462256.1,"Middle East respiratory syndrome-related coronavirus strain Hu/Riyadh-KSA-18014506/2018, complete genome",15-Sep-2018,['Saudi Arabia'],30118,Homo sapiens,266.0,9.5
+166,MK462255.1,MK462255.1,"Middle East respiratory syndrome-related coronavirus strain Hu/Riyadh-KSA-18014504/2018, complete genome",15-Sep-2018,['Saudi Arabia'],30052,Homo sapiens,312.0,9.75
+167,MK462254.1,MK462254.1,"Middle East respiratory syndrome-related coronavirus strain Hu/Qaseem-KSA-18013897/2018, complete genome",31-Aug-2018,['Saudi Arabia'],30118,Homo sapiens,312.0,9.75
+168,MK462253.1,MK462253.1,"Middle East respiratory syndrome-related coronavirus strain Hu/Riyadh-KSA-18013832/2018, complete genome",30-Aug-2018,['Saudi Arabia'],30118,Homo sapiens,302.0,9.741935483870968
+169,MK462252.1,MK462252.1,"Middle East respiratory syndrome-related coronavirus strain Hu/Tabuk-KSA-153/2018, complete genome",03-Aug-2018,['Saudi Arabia'],30118,Homo sapiens,302.0,9.741935483870968
+170,MK462251.1,MK462251.1,"Middle East respiratory syndrome-related coronavirus strain Hu/Northern-KSA-1847784/2018, complete genome",18-Jul-2018,['Saudi Arabia'],30118,Homo sapiens,266.0,9.5
+171,MK462250.1,MK462250.1,"Middle East respiratory syndrome-related coronavirus strain Hu/Najran-KSA-183RS279/2018, complete genome",12-Jul-2018,['Saudi Arabia'],30118,Homo sapiens,266.0,9.5
+172,MK462249.1,MK462249.1,"Middle East respiratory syndrome-related coronavirus strain Hu/Riyadh-KSA-18012493/2018, complete genome",09-Jul-2018,['Saudi Arabia'],30118,Homo sapiens,266.0,9.5
+173,MK462248.1,MK462248.1,"Middle East respiratory syndrome-related coronavirus strain Hu/Najran-KSA-182RS2567/2018, complete genome",13-Jun-2018,['Saudi Arabia'],30118,Homo sapiens,312.0,9.75
+174,MK462247.1,MK462247.1,"Middle East respiratory syndrome-related coronavirus strain Hu/Jeddah-KSA-182RS2449/2018, complete genome",08-Jun-2018,['Saudi Arabia'],30118,Homo sapiens,266.0,9.5
+175,MK462246.1,MK462246.1,"Middle East respiratory syndrome-related coronavirus strain Hu/Jeddah-KSA-173RS1570/2017, complete genome",17-Aug-2017,['Saudi Arabia'],30115,Homo sapiens,302.0,9.741935483870968
+176,MK462245.1,MK462245.1,"Middle East respiratory syndrome-related coronavirus strain Hu/Jeddah-KSA-173RS1512/2017, complete genome",15-Aug-2017,['Saudi Arabia'],30115,Homo sapiens,302.0,9.741935483870968
+177,MK462244.1,MK462244.1,"Middle East respiratory syndrome-related coronavirus strain Hu/Aseer-KSA-173RS1288/2017, complete genome",07-Aug-2017,['Saudi Arabia'],30118,Homo sapiens,302.0,9.741935483870968
+178,MK462243.1,MK462243.1,"Middle East respiratory syndrome-related coronavirus strain Hu/Jeddah-KSA-173RS1101/2017, complete genome",01-Aug-2017,['Saudi Arabia'],30115,Homo sapiens,302.0,9.741935483870968
+179,MK129253.1,MK129253.1,"Middle East respiratory syndrome-related coronavirus isolate MERS-CoV/KOR/KCDC/001_2018-TSVi, complete genome",20-Oct-2018,['South Korea'],30150,Homo sapiens,278.0,9.586206896551724
+180,MG757605.1,MG757605.1,"Middle East respiratory syndrome-related coronavirus isolate Hu/Riyadh-KSA-036D1N/2016, complete genome",14-Apr-2016,['Saudi Arabia'],30096,Homo sapiens,324.0,9.818181818181818
+181,MG757604.1,MG757604.1,"Middle East respiratory syndrome-related coronavirus isolate Hu/Riyadh-KSA-039D3T/2016, complete genome",31-Jan-2016,['Saudi Arabia'],30096,Homo sapiens,324.0,9.818181818181818
+182,MG757603.1,MG757603.1,"Middle East respiratory syndrome-related coronavirus isolate Hu/Riyadh-KSA-031D1N/2015, complete genome",18-Sep-2015,['Saudi Arabia'],30096,Homo sapiens,324.0,9.818181818181818
+183,MG757602.1,MG757602.1,"Middle East respiratory syndrome-related coronavirus isolate Hu/Riyadh-KSA-015D1P/2015, complete genome",01-Sep-2015,['Saudi Arabia'],30096,Homo sapiens,324.0,9.818181818181818
+184,MG757601.1,MG757601.1,"Middle East respiratory syndrome-related coronavirus isolate Hu/Riyadh-KSA-014D1N/2015, complete genome",01-Sep-2015,['Saudi Arabia'],30096,Homo sapiens,324.0,9.818181818181818
+185,MG757600.1,MG757600.1,"Middle East respiratory syndrome-related coronavirus isolate Hu/Riyadh-KSA-012D1S/2015, complete genome",01-Sep-2015,['Saudi Arabia'],30096,Homo sapiens,324.0,9.818181818181818
+186,MG757599.1,MG757599.1,"Middle East respiratory syndrome-related coronavirus isolate Hu/Riyadh-KSA-009D1N/2015, complete genome",26-Aug-2015,['Saudi Arabia'],30096,Homo sapiens,324.0,9.818181818181818
+187,MG757598.1,MG757598.1,"Middle East respiratory syndrome-related coronavirus isolate Hu/Riyadh-KSA-008D3N/2015, complete genome",26-Aug-2015,['Saudi Arabia'],30096,Homo sapiens,332.0,9.764705882352942
+188,MG757597.1,MG757597.1,"Middle East respiratory syndrome-related coronavirus isolate Hu/Riyadh-KSA-007D1N/2015, complete genome",24-Aug-2015,['Saudi Arabia'],30096,Homo sapiens,312.0,9.75
+189,MG757596.1,MG757596.1,"Middle East respiratory syndrome-related coronavirus isolate Hu/Riyadh-KSA-006D1S/2015, complete genome",24-Aug-2015,['Saudi Arabia'],30096,Homo sapiens,324.0,9.818181818181818
+190,MG757595.1,MG757595.1,"Middle East respiratory syndrome-related coronavirus isolate Hu/Riyadh-KSA-005D1S/2015, complete genome",24-Aug-2015,['Saudi Arabia'],30096,Homo sapiens,324.0,9.818181818181818
+191,MG757594.1,MG757594.1,"Middle East respiratory syndrome-related coronavirus isolate Hu/Riyadh-KSA-004D1S/2015, complete genome",24-Aug-2015,['Saudi Arabia'],30096,Homo sapiens,324.0,9.818181818181818
+192,MG757593.1,MG757593.1,"Middle East respiratory syndrome-related coronavirus isolate Hu/Riyadh-KSA-002D1N/2015, complete genome",22-Aug-2015,['Saudi Arabia'],30096,Homo sapiens,324.0,9.818181818181818
+193,MK357909.1,MK357909.1,"Middle East respiratory syndrome-related coronavirus isolate 011/LOM/C20/F<1, complete genome",21-Apr-2017,['Kenya'],29797,Camelus dromedarius,324.0,9.818181818181818
+194,MK357908.1,MK357908.1,"Middle East respiratory syndrome-related coronavirus isolate 011/DAB/C8/F<1, complete genome",21-Apr-2017,['Kenya'],29797,Camelus dromedarius,324.0,9.818181818181818
+195,MH734115.1,MH734115.1,"Middle East respiratory syndrome-related coronavirus isolate MERS-CoV camel/Kenya/C1272/2018, complete genome",13-Mar-2018,['Kenya'],30033,Camelus dromedarius,324.0,9.818181818181818
+196,MH734114.1,MH734114.1,"Middle East respiratory syndrome-related coronavirus isolate MERS-CoV camel/Kenya/C1215/2018, complete genome",13-Mar-2018,['Kenya'],30033,Camelus dromedarius,324.0,9.818181818181818
+197,MK039553.1,MK039553.1,"Middle East respiratory syndrome-related coronavirus isolate Hu/Jordan-201440011858/2014, complete genome",23-May-2014,['Jordan'],30123,Homo sapiens,324.0,9.818181818181818
+198,MK039552.1,MK039552.1,"Middle East respiratory syndrome-related coronavirus isolate Hu/Jordan-201440011123/2014, complete genome",21-Apr-2014,['Jordan'],30123,Homo sapiens,324.0,9.818181818181818
+199,MK052676.1,MK052676.1,"Middle East respiratory syndrome-related coronavirus isolate Hu/Jordan-201440011858/2014, complete genome",23-May-2014,['Jordan'],30123,Homo sapiens,324.0,9.818181818181818
+200,MG520076.1,MG520076.1,"Middle East respiratory syndrome-related coronavirus isolate Hu/Riyadh-KSA-023D3N/2015, complete genome",15-Oct-2015,['Saudi Arabia'],30096,Homo sapiens,324.0,9.818181818181818
+201,MG520075.1,MG520075.1,"Middle East respiratory syndrome-related coronavirus isolate Hu/Riyadh-KSA-023D1N/2015, complete genome",13-Oct-2015,['Saudi Arabia'],30096,Homo sapiens,324.0,9.818181818181818
+202,MG546331.1,MG546331.1,"Middle East respiratory syndrome-related coronavirus strain Hu/Riyadh-KSA-023D3N/2015, complete genome",15-Oct-2015,['Saudi Arabia'],30123,Homo sapiens; cell line Vero p2,324.0,9.818181818181818
+203,MG546330.1,MG546330.1,"Middle East respiratory syndrome-related coronavirus strain Hu/Riyadh-KSA-023D1N/2015, complete genome",13-Oct-2015,['Saudi Arabia'],30123,Homo sapiens; cell line Vero p2,324.0,9.818181818181818
+204,MH822886.1,MH822886.1,"Middle East respiratory syndrome-related coronavirus strain MERS-CoV_England-KSA/1/2018, complete genome",22-Aug-2018,['United Kingdom'],30079,Homo sapiens,266.0,9.5
+205,MF000460.1,MF000460.1,"Middle East respiratory syndrome-related coronavirus isolate Hu/Amman-Jordan-12716/2015, complete genome",30-Aug-2015,['Jordan'],30045,Homo sapiens,324.0,9.818181818181818
+206,MF000459.1,MF000459.1,"Middle East respiratory syndrome-related coronavirus isolate Hu/Amman-Jordan-12918/2015, complete genome",07-Sep-2015,['Jordan'],30018,Homo sapiens,324.0,9.818181818181818
+207,MF000458.1,MF000458.1,"Middle East respiratory syndrome-related coronavirus isolate Hu/Amman-Jordan-13030/2015, complete genome",19-Sep-2015,['Jordan'],30045,Homo sapiens,324.0,9.818181818181818
+208,MF000457.1,MF000457.1,"Middle East respiratory syndrome-related coronavirus isolate Hu/Amman-Jordan-12641/2015, complete genome",25-Aug-2015,['Jordan'],30001,Homo sapiens,324.0,9.818181818181818
+209,MG470650.1,MG470650.1,UNVERIFIED: Middle East respiratory syndrome-related coronavirus isolate 2362 genomic sequence,18-Nov-2016,['Saudi Arabia'],30116,Homo sapiens,324.0,9.818181818181818
+210,MG280945.1,MG280945.1,"UNVERIFIED: Middle East respiratory syndrome-related coronavirus strain KASCTIGB2, partial genome",15-Oct-2015,['Saudi Arabia'],29827,,306.0,9.870967741935484
+211,MG280944.1,MG280944.1,"UNVERIFIED: Middle East respiratory syndrome-related coronavirus strain KASCTIGB1, partial genome",15-Oct-2015,['Saudi Arabia'],29813,,310.0,10.0
+212,MH310912.1,MH310912.1,"Middle East respiratory syndrome-related coronavirus strain Hu/Riyadh-KSA-7344/2017, complete genome",15-May-2017,['Saudi Arabia'],30085,Homo sapiens,278.0,9.586206896551724
+213,MH310911.1,MH310911.1,"Middle East respiratory syndrome-related coronavirus strain Hu/Riyadh-KSA-10717/2017, complete genome",06-Jun-2017,['Saudi Arabia'],30096,Homo sapiens,312.0,9.75
+214,MH310910.1,MH310910.1,"Middle East respiratory syndrome-related coronavirus strain Hu/Riyadh-KSA-7696/2017, complete genome",03-Jun-2017,['Saudi Arabia'],30096,Homo sapiens,312.0,9.75
+215,MH310909.1,MH310909.1,"Middle East respiratory syndrome-related coronavirus strain Hu/Riyadh-KSA-5767/2017, complete genome",05-May-2017,['Saudi Arabia'],30065,Homo sapiens,324.0,9.818181818181818
+216,MG912609.1,MG912609.1,"Middle East respiratory syndrome-related coronavirus strain Hu/Riyadh-KSA-7275/2017, partial genome",31-May-2017,['Saudi Arabia'],30123,Homo sapiens,178.0,9.368421052631579
+217,MG912608.1,MG912608.1,"Middle East respiratory syndrome-related coronavirus strain Hu/Riyadh-KSA-9730/2017, complete genome",14-Jun-2017,['Saudi Arabia'],30123,Homo sapiens,306.0,9.870967741935484
+218,MG912607.1,MG912607.1,"Middle East respiratory syndrome-related coronavirus strain Hu/Riyadh-KSA-9522/2017, complete genome",11-Jun-2017,['Saudi Arabia'],30123,Homo sapiens,306.0,9.870967741935484
+219,MG912606.1,MG912606.1,"Middle East respiratory syndrome-related coronavirus strain Hu/Riyadh-KSA-9852/2017, complete genome",14-Jun-2017,['Saudi Arabia'],30123,Homo sapiens,312.0,9.75
+220,MG912605.1,MG912605.1,"Middle East respiratory syndrome-related coronavirus strain Hu/Riyadh-KSA-9835/2017, complete genome",17-Jun-2017,['Saudi Arabia'],30123,Homo sapiens,312.0,9.75
+221,MG912604.1,MG912604.1,"Middle East respiratory syndrome-related coronavirus strain Hu/Riyadh-KSA-9689/2017, complete genome",15-Jun-2017,['Saudi Arabia'],30123,Homo sapiens,312.0,9.75
+222,MG912603.1,MG912603.1,"Middle East respiratory syndrome-related coronavirus strain Hu/Riyadh-KSA-9693/2017, complete genome",12-Jun-2017,['Saudi Arabia'],30123,Homo sapiens,312.0,9.75
+223,MG912602.1,MG912602.1,"Middle East respiratory syndrome-related coronavirus strain Hu/Riyadh-KSA-9614/2017, complete genome",12-Jun-2017,['Saudi Arabia'],30123,Homo sapiens,312.0,9.75
+224,MG912601.1,MG912601.1,"Middle East respiratory syndrome-related coronavirus strain Hu/Riyadh-KSA-10308/2017, complete genome",10-Jun-2017,['Saudi Arabia'],30123,Homo sapiens,312.0,9.75
+225,MG912600.1,MG912600.1,"Middle East respiratory syndrome-related coronavirus strain Hu/Riyadh-KSA-8882/2017, complete genome",08-Jun-2017,['Saudi Arabia'],30123,Homo sapiens,312.0,9.75
+226,MG912599.1,MG912599.1,"Middle East respiratory syndrome-related coronavirus strain Hu/Riyadh-KSA-8667/2017, complete genome",07-Jun-2017,['Saudi Arabia'],30123,Homo sapiens,312.0,9.75
+227,MG912598.1,MG912598.1,"Middle East respiratory syndrome-related coronavirus strain Hu/Riyadh-KSA-7680/2017, complete genome",03-Jun-2017,['Saudi Arabia'],30123,Homo sapiens,312.0,9.75
+228,MG912597.1,MG912597.1,"Middle East respiratory syndrome-related coronavirus strain Hu/Riyadh-KSA-7423/2017, complete genome",02-Jun-2017,['Saudi Arabia'],30123,Homo sapiens,312.0,9.75
+229,MG912596.1,MG912596.1,"Middle East respiratory syndrome-related coronavirus strain Hu/Riyadh-KSA-7373/2017, complete genome",02-Jun-2017,['Saudi Arabia'],30123,Homo sapiens,312.0,9.75
+230,MG912595.1,MG912595.1,"Middle East respiratory syndrome-related coronavirus strain Hu/Riyadh-KSA-7178/2017, complete genome",31-May-2017,['Saudi Arabia'],30123,Homo sapiens,312.0,9.75
+231,MF741836.1,MF741836.1,"Middle East respiratory syndrome-related coronavirus strain Hu/Jordan-13076/2015, partial genome",22-Sep-2015,['Jordan'],30039,Homo sapiens,324.0,9.818181818181818
+232,MF741835.1,MF741835.1,"Middle East respiratory syndrome-related coronavirus strain Hu/Jordan-13068/2015, partial genome",17-Sep-2015,['Jordan'],30039,Homo sapiens,324.0,9.818181818181818
+233,MF741834.1,MF741834.1,"Middle East respiratory syndrome-related coronavirus strain Hu/Jordan-13030/2015, partial genome",19-Sep-2015,['Jordan'],30039,Homo sapiens,324.0,9.818181818181818
+234,MF741833.1,MF741833.1,"Middle East respiratory syndrome-related coronavirus strain Hu/Jordan-13025/2015, partial genome",17-Sep-2015,['Jordan'],30039,Homo sapiens,324.0,9.818181818181818
+235,MF741832.1,MF741832.1,"Middle East respiratory syndrome-related coronavirus strain Hu/Jordan-12964/2015, partial genome",09-Sep-2015,['Jordan'],29322,Homo sapiens,324.0,9.818181818181818
+236,MF741831.1,MF741831.1,"Middle East respiratory syndrome-related coronavirus strain Hu/Jordan-12856/2015, partial genome",03-Sep-2015,['Jordan'],30048,Homo sapiens,312.0,9.75
+237,MF741830.1,MF741830.1,"Middle East respiratory syndrome-related coronavirus strain Hu/Jordan-12764/2015, partial genome",31-Aug-2015,['Jordan'],30048,Homo sapiens,324.0,9.818181818181818
+238,MF741829.1,MF741829.1,"Middle East respiratory syndrome-related coronavirus strain Hu/Jordan-12716/2015, partial genome",30-Aug-2015,['Jordan'],30048,Homo sapiens,324.0,9.818181818181818
+239,MF741828.1,MF741828.1,"Middle East respiratory syndrome-related coronavirus strain Hu/Jordan-12688/2015, partial genome",27-Aug-2015,['Jordan'],30048,Homo sapiens,312.0,9.75
+240,MF741827.1,MF741827.1,"Middle East respiratory syndrome-related coronavirus strain Hu/Jordan-12662/2015, partial genome",26-Aug-2015,['Jordan'],29322,Homo sapiens,324.0,9.818181818181818
+241,MF741826.1,MF741826.1,"Middle East respiratory syndrome-related coronavirus strain Hu/Jordan-12642/2015, partial genome",25-Aug-2015,['Jordan'],30048,Homo sapiens,312.0,9.75
+242,MF741825.1,MF741825.1,"Middle East respiratory syndrome-related coronavirus strain Hu/Jordan-12641/2015, partial genome",25-Aug-2015,['Jordan'],30048,Homo sapiens,324.0,9.818181818181818
+243,MF741837.1,MF741837.1,"Middle East respiratory syndrome-related coronavirus strain Hu/Jordan-12918/2015, partial genome",07-Sep-2015,['Jordan'],30039,Homo sapiens,324.0,9.818181818181818
+244,MG366483.1,MG366483.1,"Middle East respiratory syndrome-related coronavirus strain Hu/Riyadh-KSA-7413/2017, complete genome",02-Jun-2017,['Saudi Arabia'],30096,Homo sapiens,312.0,9.75
+245,MH432120.1,MH432120.1,"Middle East respiratory syndrome-related coronavirus isolate 2366, complete genome",28-Feb-2017,['Saudi Arabia'],30119,Homo sapiens,264.0,9.777777777777779
+246,MH395139.1,MH395139.1,"Middle East respiratory syndrome-related coronavirus isolate 2363, complete genome",04-Dec-2016,['Saudi Arabia'],30119,Homo sapiens,324.0,9.818181818181818
+247,MH371127.1,MH371127.1,"Middle East respiratory syndrome-related coronavirus isolate 2362, complete genome",25-Nov-2016,['Saudi Arabia'],30119,,324.0,9.818181818181818
+248,LP963762.1,LP963762.1,Sequence 1 from Patent WO2017176596,29-APR-2018,,30119,,324.0,9.818181818181818
+249,MG021452.1,MG021452.1,"Middle East respiratory syndrome-related coronavirus isolate NL140422, complete genome",08-May-2014,['China'],30113,,488.0,10.382978723404255
+250,MG021451.1,MG021451.1,"Middle East respiratory syndrome-related coronavirus isolate NL13845, complete genome",17-Jul-2013,['China'],30113,,534.0,9.88888888888889
+251,MH013216.1,MH013216.1,"Middle East respiratory syndrome-related coronavirus strain HCoV-EMC, complete genome",15-Oct-2015,['Saudi Arabia'],30118,Homo sapiens,324.0,9.818181818181818
+252,MF593268.1,MF593268.1,"Middle East respiratory syndrome-related coronavirus strain Neoromicia/5038, complete genome",20-Apr-2015,['South Africa'],30009,Neoromicia capensis,256.0,9.481481481481481
+253,MG923481.1,MG923481.1,"Middle East respiratory syndrome-related coronavirus isolate MERS-CoV camel/Nigeria/NV2020/2016, complete genome",16-Feb-2016,['Nigeria'],29462,Camelus dromedarius,284.0,9.793103448275861
+254,MG923480.1,MG923480.1,"Middle East respiratory syndrome-related coronavirus isolate MERS-CoV camel/Nigeria/NV1787/2016, complete genome",07-Feb-2016,['Nigeria'],29462,Camelus dromedarius,284.0,9.793103448275861
+255,MG923479.1,MG923479.1,"Middle East respiratory syndrome-related coronavirus isolate MERS-CoV camel/Nigeria/NV1712/2016, complete genome",05-Feb-2016,['Nigeria'],29455,Camelus dromedarius,284.0,9.793103448275861
+256,MG923478.1,MG923478.1,"Middle East respiratory syndrome-related coronavirus isolate MERS-CoV camel/Nigeria/NV1673/2016, complete genome",03-Feb-2016,['Nigeria'],29462,Camelus dromedarius,284.0,9.793103448275861
+257,MG923477.1,MG923477.1,"Middle East respiratory syndrome-related coronavirus isolate MERS-CoV camel/Nigeria/NV2040/2016, complete genome",17-Feb-2016,['Nigeria'],29458,Camelus dromedarius,284.0,9.793103448275861
+258,MG923476.1,MG923476.1,"Middle East respiratory syndrome-related coronavirus isolate MERS-CoV camel/Nigeria/NV1989/2016, complete genome",15-Feb-2016,['Nigeria'],29455,Camelus dromedarius,284.0,9.793103448275861
+259,MG923475.1,MG923475.1,"Middle East respiratory syndrome-related coronavirus isolate MERS-CoV camel/Nigeria/NV1657/2016, complete genome",03-Feb-2016,['Nigeria'],29462,Camelus dromedarius,284.0,9.793103448275861
+260,MG923474.1,MG923474.1,"Middle East respiratory syndrome-related coronavirus isolate MERS-CoV camel/Nigeria/NV1405/2016, complete genome",24-Jan-2016,['Nigeria'],29454,Camelus dromedarius,284.0,9.793103448275861
+261,MG923473.1,MG923473.1,"Middle East respiratory syndrome-related coronavirus isolate MERS-CoV camel/Burkina Faso/CIRAD-HKU697/2015, complete genome",16-Mar-2015,['Burkina Faso'],29374,Camelus dromedarius,284.0,9.793103448275861
+262,MG923472.1,MG923472.1,"Middle East respiratory syndrome-related coronavirus isolate MERS-CoV camel/Nigeria/NS004/2015, complete genome",13-Jan-2015,['Nigeria'],29680,Camelus dromedarius,284.0,9.793103448275861
+263,MG923471.1,MG923471.1,"Middle East respiratory syndrome-related coronavirus isolate MERS-CoV camel/Burkina Faso/CIRAD-HKU785/2015, complete genome",18-Mar-2015,['Burkina Faso'],29721,Camelus dromedarius,284.0,9.793103448275861
+264,MG923470.1,MG923470.1,"Middle East respiratory syndrome-related coronavirus isolate MERS-CoV camel/Burkina Faso/CIRAD-HKU434/2015, complete genome",23-Feb-2015,['Burkina Faso'],29423,Camelus dromedarius,284.0,9.793103448275861
+265,MG923469.1,MG923469.1,"Middle East respiratory syndrome-related coronavirus isolate MERS-CoV camel/Morocco/CIRAD-HKU213/2015, complete genome",03-Mar-2015,['Morocco'],29421,Camelus dromedarius,284.0,9.793103448275861
+266,MG923468.1,MG923468.1,"Middle East respiratory syndrome-related coronavirus isolate MERS-CoV camel/Ethiopia/AAU-EPHI-HKU4458/2017, complete genome",15-Mar-2017,['Ethiopia'],30091,Camelus dromedarius,324.0,9.818181818181818
+267,MG923467.1,MG923467.1,"Middle East respiratory syndrome-related coronavirus isolate MERS-CoV camel/Ethiopia/AAU-EPHI-HKU4448/2017, complete genome",15-Mar-2017,['Ethiopia'],30077,Camelus dromedarius,324.0,9.818181818181818
+268,MG923466.1,MG923466.1,"Middle East respiratory syndrome-related coronavirus isolate MERS-CoV camel/Ethiopia/AAU-EPHI-HKU4412/2017, complete genome",15-Mar-2017,['Ethiopia'],30047,Camelus dromedarius,324.0,9.818181818181818
+269,MG596803.1,MG596803.1,"Middle East respiratory syndrome-related coronavirus isolate Bat-CoV/P.khulii/Italy/206645-63/2011, complete genome",2011,['Italy'],30039,Pipistrellus kuhlii,284.0,9.793103448275861
+270,MG596802.1,MG596802.1,"Middle East respiratory syndrome-related coronavirus isolate Bat-CoV/H.savii/Italy/206645-40/2011, complete genome",2011,['Italy'],30048,Hypsugo savii,286.0,9.862068965517242
+271,KY688124.1,KY688124.1,"Middle East respiratory syndrome-related coronavirus strain Hu/Hufuf-KSA-11401/2015, complete genome",20-May-2015,['Saudi Arabia'],30102,Homo sapiens,324.0,9.818181818181818
+272,KY688123.1,KY688123.1,"Middle East respiratory syndrome-related coronavirus strain Hu/Hufuf-KSA-11150/2015, complete genome",13-May-2015,['Saudi Arabia'],30102,Homo sapiens,324.0,9.818181818181818
+273,KY688122.1,KY688122.1,"Middle East respiratory syndrome-related coronavirus strain Hu/Hufuf-KSA-11767/2015, complete genome",27-May-2015,['Saudi Arabia'],30059,Homo sapiens,324.0,9.818181818181818
+274,KY688121.1,KY688121.1,"Middle East respiratory syndrome-related coronavirus strain Hu/Hufuf-KSA-11442/2015, complete genome",22-May-2015,['Saudi Arabia'],30039,Homo sapiens,324.0,9.818181818181818
+275,KY688120.1,KY688120.1,"Middle East respiratory syndrome-related coronavirus strain Hu/Hufuf-KSA-11002/2015, complete genome",10-May-2015,['Saudi Arabia'],30102,Homo sapiens,324.0,9.818181818181818
+276,KY688119.1,KY688119.1,"Middle East respiratory syndrome-related coronavirus strain Hu/Aseer-KSA-Rs924/2015, complete genome",01-May-2015,['Saudi Arabia'],30061,Homo sapiens,324.0,9.818181818181818
+277,KY688118.1,KY688118.1,"Middle East respiratory syndrome-related coronavirus strain Hu/Khobar-KSA-6736/2015, complete genome",07-Feb-2015,['Saudi Arabia'],30075,Homo sapiens,324.0,9.818181818181818
+278,KY673149.1,KY673149.1,"Middle East respiratory syndrome-related coronavirus strain Camel/Oman_1_2015, complete genome",Jan-2015,['Oman'],30123,Camel,372.0,10.054054054054054
+279,KY673148.1,KY673148.1,"Middle East respiratory syndrome-related coronavirus strain Hu/Oman_50_2015, complete genome",06-Jan-2015,['Oman'],30123,Homo sapiens,372.0,10.054054054054054
+280,KY581700.1,KY581700.1,"Middle East respiratory syndrome-related coronavirus strain Camel/UAE_3B-C_2014, complete genome",18-Feb-2014,['United Arab Emirates'],30123,camel,372.0,10.054054054054054
+281,KY581699.1,KY581699.1,"Middle East respiratory syndrome-related coronavirus strain Camel/UAE_2B-E_2014, complete genome",01-Jun-2014,['United Arab Emirates'],30123,camel,324.0,9.818181818181818
+282,KY581698.1,KY581698.1,"Middle East respiratory syndrome-related coronavirus strain Camel/UAE_1H-F_2014, complete genome",01-Jun-2014,['United Arab Emirates'],30123,camel,324.0,9.818181818181818
+283,KY581697.1,KY581697.1,"Middle East respiratory syndrome-related coronavirus strain Camel/UAE_1H-D_2014, complete genome",18-Feb-2014,['United Arab Emirates'],30123,camel,372.0,10.054054054054054
+284,KY581696.1,KY581696.1,"Middle East respiratory syndrome-related coronavirus strain Camel/UAE_1H-B_2014, complete genome",12-Mar-2014,['United Arab Emirates'],30123,camel,372.0,10.054054054054054
+285,KY581695.1,KY581695.1,"Middle East respiratory syndrome-related coronavirus strain Camel/UAE_1B-A_2014, complete genome",01-Jun-2014,['United Arab Emirates'],30123,camel,324.0,9.818181818181818
+286,KY581694.1,KY581694.1,"Middle East respiratory syndrome-related coronavirus strain Hu/UAE_X_2014, complete genome",2014,['United Arab Emirates'],30123,Homo sapiens,324.0,9.818181818181818
+287,KY581693.1,KY581693.1,"Middle East respiratory syndrome-related coronavirus strain Hu/UAE_032_2014, complete genome",20-Apr-2014,['United Arab Emirates'],30123,Homo sapiens,324.0,9.818181818181818
+288,KY581692.1,KY581692.1,"Middle East respiratory syndrome-related coronavirus strain Hu/UAE_025_2014, complete genome",15-Apr-2014,['United Arab Emirates'],30123,Homo sapiens,372.0,10.054054054054054
+289,KY581691.1,KY581691.1,"Middle East respiratory syndrome-related coronavirus strain Hu/UAE_023_2014, complete genome",14-Apr-2014,['United Arab Emirates'],30123,Homo sapiens,372.0,10.054054054054054
+290,KY581690.1,KY581690.1,"Middle East respiratory syndrome-related coronavirus strain Hu/UAE_017_2014, complete genome",12-Apr-2014,['United Arab Emirates'],30123,Homo sapiens,372.0,10.054054054054054
+291,KY581689.1,KY581689.1,"Middle East respiratory syndrome-related coronavirus strain Hu/UAE_015_2014, complete genome",10-Apr-2014,['United Arab Emirates'],30123,Homo sapiens,372.0,10.054054054054054
+292,KY581688.1,KY581688.1,"Middle East respiratory syndrome-related coronavirus strain Hu/UAE_011_2014, complete genome",10-Apr-2014,['United Arab Emirates'],30123,Homo sapiens,372.0,10.054054054054054
+293,KY581687.1,KY581687.1,"Middle East respiratory syndrome-related coronavirus strain Hu/UAE_011_2013, complete genome",23-Dec-2013,['United Arab Emirates'],30123,Homo sapiens,324.0,9.818181818181818
+294,KY581686.1,KY581686.1,"Middle East respiratory syndrome-related coronavirus strain Hu/UAE_009_2014, complete genome",10-Apr-2014,['United Arab Emirates'],30123,Homo sapiens,372.0,10.054054054054054
+295,KY581685.1,KY581685.1,"Middle East respiratory syndrome-related coronavirus strain Hu/UAE_004_2013, complete genome",12-Jul-2013,['United Arab Emirates'],30123,Homo sapiens,324.0,9.818181818181818
+296,KY581684.1,KY581684.1,"Middle East respiratory syndrome-related coronavirus strain Hu/UAE_002_2013, complete genome",10-Jul-2013,['United Arab Emirates'],30123,Homo sapiens,324.0,9.818181818181818
+297,MG366883.1,MG366883.1,"Middle East respiratory syndrome-related coronavirus strain Hu/Riyadh-KSA-10024/2017, complete genome",15-Jun-2015,['Saudi Arabia'],30123,Homo sapiens,312.0,9.75
+298,MG366882.1,MG366882.1,"Middle East respiratory syndrome-related coronavirus strain Hu/Riyadh-KSA-8683/2017, complete genome",07-Jun-2015,['Saudi Arabia'],30123,Homo sapiens,312.0,9.75
+299,MG366881.1,MG366881.1,"Middle East respiratory syndrome-related coronavirus strain Hu/Riyadh-KSA-8677/2017, complete genome",07-Jun-2015,['Saudi Arabia'],30123,Homo sapiens,312.0,9.75
+300,MG366880.1,MG366880.1,"Middle East respiratory syndrome-related coronavirus strain Hu/Riyadh-KSA-7436/2017, complete genome",02-Jun-2015,['Saudi Arabia'],30123,Homo sapiens,306.0,9.870967741935484
+301,MF598722.1,MF598722.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_415915_W6_2015, complete genome",Apr-2015,['United Arab Emirates'],30123,Camelus dromedarius,312.0,9.75
+302,MF598721.1,MF598721.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_416452_W6_2015, complete genome",Apr-2015,['United Arab Emirates'],30123,Camelus dromedarius,312.0,9.75
+303,MF598720.1,MF598720.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_416452_W5_2015, complete genome",Apr-2015,['United Arab Emirates'],30123,Camelus dromedarius,312.0,9.75
+304,MF598719.1,MF598719.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_415911_W4_2015, complete genome",Apr-2015,['United Arab Emirates'],30123,Camelus dromedarius,312.0,9.75
+305,MF598718.1,MF598718.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_415915_W4_2015, complete genome",Apr-2015,['United Arab Emirates'],30123,Camelus dromedarius,312.0,9.75
+306,MF598717.1,MF598717.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_417163_W4_2015, complete genome",Apr-2015,['United Arab Emirates'],30123,Camelus dromedarius,312.0,9.75
+307,MF598716.1,MF598716.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_414486_W4_2015, complete genome",Apr-2015,['United Arab Emirates'],30123,Camelus dromedarius,312.0,9.75
+308,MF598715.1,MF598715.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_416452_W4_2015, complete genome",Apr-2015,['United Arab Emirates'],30123,Camelus dromedarius,312.0,9.75
+309,MF598714.1,MF598714.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_414500_W4_2015, complete genome",Apr-2015,['United Arab Emirates'],30123,Camelus dromedarius,312.0,9.75
+310,MF598713.1,MF598713.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_414377_W4_2015, complete genome",Apr-2015,['United Arab Emirates'],30123,Camelus dromedarius,312.0,9.75
+311,MF598712.1,MF598712.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_414492_W4_2015, complete genome",Apr-2015,['United Arab Emirates'],30123,Camelus dromedarius,324.0,9.818181818181818
+312,MF598711.1,MF598711.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_414481_W4_2015, complete genome",Apr-2015,['United Arab Emirates'],30123,Camelus dromedarius,324.0,9.818181818181818
+313,MF598710.1,MF598710.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_417162_W4_2015, complete genome",Apr-2015,['United Arab Emirates'],30123,Camelus dromedarius,312.0,9.75
+314,MF598709.1,MF598709.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_414485_W4_2015, complete genome",Apr-2015,['United Arab Emirates'],30123,Camelus dromedarius,324.0,9.818181818181818
+315,MF598708.1,MF598708.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_414492_W3_2015, complete genome",Apr-2015,['United Arab Emirates'],30123,Camelus dromedarius,312.0,9.75
+316,MF598707.1,MF598707.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_415915_W3_2015, complete genome",Apr-2015,['United Arab Emirates'],30123,Camelus dromedarius,312.0,9.75
+317,MF598706.1,MF598706.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_415911_W3_2015, complete genome",Apr-2015,['United Arab Emirates'],30123,Camelus dromedarius,312.0,9.75
+318,MF598705.1,MF598705.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_414486_W3_2015, complete genome",Apr-2015,['United Arab Emirates'],30123,Camelus dromedarius,312.0,9.75
+319,MF598704.1,MF598704.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_414500_W3_2015, complete genome",Apr-2015,['United Arab Emirates'],30123,Camelus dromedarius,312.0,9.75
+320,MF598703.1,MF598703.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_414480_W3_2015, complete genome",Apr-2015,['United Arab Emirates'],30123,Camelus dromedarius,312.0,9.75
+321,MF598702.1,MF598702.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_414377_W3_2015, complete genome",Apr-2015,['United Arab Emirates'],30123,Camelus dromedarius,324.0,9.818181818181818
+322,MF598701.1,MF598701.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_414498_W3_2015, complete genome",Apr-2015,['United Arab Emirates'],30123,Camelus dromedarius,324.0,9.818181818181818
+323,MF598700.1,MF598700.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_414379_W3_2015, complete genome",Apr-2015,['United Arab Emirates'],30123,Camelus dromedarius,324.0,9.818181818181818
+324,MF598699.1,MF598699.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_414485_W3_2015, complete genome",Apr-2015,['United Arab Emirates'],30123,Camelus dromedarius,324.0,9.818181818181818
+325,MF598698.1,MF598698.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_B111_2015, complete genome",Mar-2015,['United Arab Emirates'],30123,Camelus dromedarius,324.0,9.818181818181818
+326,MF598697.1,MF598697.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_B110_2015, complete genome",Mar-2015,['United Arab Emirates'],30123,Camelus dromedarius,324.0,9.818181818181818
+327,MF598696.1,MF598696.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_B109_2015, complete genome",Mar-2015,['United Arab Emirates'],30123,Camelus dromedarius,324.0,9.818181818181818
+328,MF598695.1,MF598695.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_B108_2015, complete genome",Mar-2015,['United Arab Emirates'],30123,Camelus dromedarius,324.0,9.818181818181818
+329,MF598694.1,MF598694.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_B107_2015, complete genome",Mar-2015,['United Arab Emirates'],30123,Camelus dromedarius,324.0,9.818181818181818
+330,MF598693.1,MF598693.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_B106_2015, complete genome",Mar-2015,['United Arab Emirates'],30123,Camelus dromedarius,324.0,9.818181818181818
+331,MF598692.1,MF598692.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_B105_2015, complete genome",Mar-2015,['United Arab Emirates'],30123,Camelus dromedarius,324.0,9.818181818181818
+332,MF598691.1,MF598691.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_B104_2015, complete genome",Mar-2015,['United Arab Emirates'],30123,Camelus dromedarius,324.0,9.818181818181818
+333,MF598690.1,MF598690.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_B103_2015, complete genome",Mar-2015,['United Arab Emirates'],30123,Camelus dromedarius,312.0,9.75
+334,MF598689.1,MF598689.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_B102_2015, complete genome",Mar-2015,['United Arab Emirates'],30121,Camelus dromedarius,372.0,10.054054054054054
+335,MF598688.1,MF598688.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_B101_2015, complete genome",Mar-2015,['United Arab Emirates'],30123,Camelus dromedarius,324.0,9.818181818181818
+336,MF598687.1,MF598687.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_B100_2015, complete genome",Mar-2015,['United Arab Emirates'],30123,Camelus dromedarius,372.0,10.054054054054054
+337,MF598686.1,MF598686.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_B99_2015, complete genome",Mar-2015,['United Arab Emirates'],30123,Camelus dromedarius,324.0,9.818181818181818
+338,MF598685.1,MF598685.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_B97_2015, complete genome",Mar-2015,['United Arab Emirates'],30123,Camelus dromedarius,324.0,9.818181818181818
+339,MF598684.1,MF598684.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_B96_2015, complete genome",Mar-2015,['United Arab Emirates'],30123,Camelus dromedarius,324.0,9.818181818181818
+340,MF598683.1,MF598683.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_B95_2015, complete genome",Mar-2015,['United Arab Emirates'],30123,Camelus dromedarius,324.0,9.818181818181818
+341,MF598682.1,MF598682.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_B93_2015, complete genome",Mar-2015,['United Arab Emirates'],30123,Camelus dromedarius,312.0,9.75
+342,MF598681.1,MF598681.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_B92_2015, complete genome",Mar-2015,['United Arab Emirates'],30123,Camelus dromedarius,372.0,10.054054054054054
+343,MF598680.1,MF598680.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_B91_2015, complete genome",Mar-2015,['United Arab Emirates'],30123,Camelus dromedarius,324.0,9.818181818181818
+344,MF598679.1,MF598679.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_B90_2015, complete genome",Mar-2015,['United Arab Emirates'],30123,Camelus dromedarius,324.0,9.818181818181818
+345,MF598678.1,MF598678.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_B88_2015, complete genome",Mar-2015,['United Arab Emirates'],30123,Camelus dromedarius,312.0,9.75
+346,MF598677.1,MF598677.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_B87_2015, complete genome",Mar-2015,['United Arab Emirates'],30123,Camelus dromedarius,372.0,10.054054054054054
+347,MF598676.1,MF598676.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_B86_2015, complete genome",Mar-2015,['United Arab Emirates'],30123,Camelus dromedarius,324.0,9.818181818181818
+348,MF598675.1,MF598675.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_B85_2015, complete genome",Mar-2015,['United Arab Emirates'],30123,Camelus dromedarius,324.0,9.818181818181818
+349,MF598674.1,MF598674.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_B84_2015, complete genome",Mar-2015,['United Arab Emirates'],30123,Camelus dromedarius,324.0,9.818181818181818
+350,MF598673.1,MF598673.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_B83_2015, complete genome",Mar-2015,['United Arab Emirates'],30123,Camelus dromedarius,312.0,9.75
+351,MF598672.1,MF598672.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_B82_2015, complete genome",Mar-2015,['United Arab Emirates'],30123,Camelus dromedarius,372.0,10.054054054054054
+352,MF598671.1,MF598671.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_B81_2015, complete genome",Mar-2015,['United Arab Emirates'],30123,Camelus dromedarius,324.0,9.818181818181818
+353,MF598670.1,MF598670.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_B80_2015, complete genome",Mar-2015,['United Arab Emirates'],30123,Camelus dromedarius,372.0,10.054054054054054
+354,MF598669.1,MF598669.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_B79_2015, complete genome",Mar-2015,['United Arab Emirates'],30123,Camelus dromedarius,324.0,9.818181818181818
+355,MF598668.1,MF598668.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_B78_2015, complete genome",Mar-2015,['United Arab Emirates'],30123,Camelus dromedarius,324.0,9.818181818181818
+356,MF598667.1,MF598667.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_B77_2015, complete genome",Mar-2015,['United Arab Emirates'],30123,Camelus dromedarius,372.0,10.054054054054054
+357,MF598666.1,MF598666.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_B76_2015, complete genome",Mar-2015,['United Arab Emirates'],30123,Camelus dromedarius,324.0,9.818181818181818
+358,MF598665.1,MF598665.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_B75_2015, complete genome",Mar-2015,['United Arab Emirates'],30123,Camelus dromedarius,324.0,9.818181818181818
+359,MF598664.1,MF598664.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_B74_2015, complete genome",Mar-2015,['United Arab Emirates'],30123,Camelus dromedarius,324.0,9.818181818181818
+360,MF598663.1,MF598663.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_B73_2015, complete genome",Mar-2015,['United Arab Emirates'],30123,Camelus dromedarius,324.0,9.818181818181818
+361,MF598662.1,MF598662.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_B72_2015, complete genome",Mar-2015,['United Arab Emirates'],30123,Camelus dromedarius,324.0,9.818181818181818
+362,MF598661.1,MF598661.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_B71_2015, complete genome",Mar-2015,['United Arab Emirates'],30123,Camelus dromedarius,324.0,9.818181818181818
+363,MF598660.1,MF598660.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_B70_2015, complete genome",Mar-2015,['United Arab Emirates'],30123,Camelus dromedarius,324.0,9.818181818181818
+364,MF598659.1,MF598659.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_B69_2015, complete genome",Mar-2015,['United Arab Emirates'],30123,Camelus dromedarius,312.0,9.75
+365,MF598658.1,MF598658.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_B68_2015, complete genome",Mar-2015,['United Arab Emirates'],30123,Camelus dromedarius,324.0,9.818181818181818
+366,MF598657.1,MF598657.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_B67_2015, complete genome",Mar-2015,['United Arab Emirates'],30123,Camelus dromedarius,324.0,9.818181818181818
+367,MF598656.1,MF598656.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_B66_2015, complete genome",Mar-2015,['United Arab Emirates'],30123,Camelus dromedarius,372.0,10.054054054054054
+368,MF598655.1,MF598655.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_B65_2015, complete genome",Mar-2015,['United Arab Emirates'],30123,Camelus dromedarius,312.0,9.75
+369,MF598654.1,MF598654.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_B64_2015, complete genome",Mar-2015,['United Arab Emirates'],30123,Camelus dromedarius,324.0,9.818181818181818
+370,MF598653.1,MF598653.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_B63_2015, complete genome",Mar-2015,['United Arab Emirates'],30123,Camelus dromedarius,360.0,10.0
+371,MF598652.1,MF598652.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_B62_2015, complete genome",Mar-2015,['United Arab Emirates'],30123,Camelus dromedarius,372.0,10.054054054054054
+372,MF598651.1,MF598651.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_B61_2015, complete genome",Mar-2015,['United Arab Emirates'],30123,Camelus dromedarius,324.0,9.818181818181818
+373,MF598650.1,MF598650.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_B60_2015, complete genome",Mar-2015,['United Arab Emirates'],30123,Camelus dromedarius,372.0,10.054054054054054
+374,MF598649.1,MF598649.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_B59_2015, complete genome",Mar-2015,['United Arab Emirates'],30123,Camelus dromedarius,372.0,10.054054054054054
+375,MF598648.1,MF598648.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_B58_2015, complete genome",Mar-2015,['United Arab Emirates'],30123,Camelus dromedarius,324.0,9.818181818181818
+376,MF598647.1,MF598647.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_B56_2015, complete genome",Mar-2015,['United Arab Emirates'],30123,Camelus dromedarius,372.0,10.054054054054054
+377,MF598646.1,MF598646.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_B55_2015, complete genome",Mar-2015,['United Arab Emirates'],30123,Camelus dromedarius,324.0,9.818181818181818
+378,MF598645.1,MF598645.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_B54_2015, complete genome",Mar-2015,['United Arab Emirates'],30123,Camelus dromedarius,324.0,9.818181818181818
+379,MF598644.1,MF598644.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_B53_2015, complete genome",Mar-2015,['United Arab Emirates'],30123,Camelus dromedarius,324.0,9.818181818181818
+380,MF598643.1,MF598643.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_B52_2015, complete genome",Mar-2015,['United Arab Emirates'],30123,Camelus dromedarius,324.0,9.818181818181818
+381,MF598642.1,MF598642.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_B51_2015, complete genome",Mar-2015,['United Arab Emirates'],30123,Camelus dromedarius,324.0,9.818181818181818
+382,MF598641.1,MF598641.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_B50_2015, complete genome",Mar-2015,['United Arab Emirates'],30123,Camelus dromedarius,324.0,9.818181818181818
+383,MF598640.1,MF598640.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_B49_2015, complete genome",Mar-2015,['United Arab Emirates'],30123,Camelus dromedarius,312.0,9.75
+384,MF598639.1,MF598639.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_B48_2015, complete genome",Mar-2015,['United Arab Emirates'],30123,Camelus dromedarius,372.0,10.054054054054054
+385,MF598638.1,MF598638.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_B47_2015, complete genome",Mar-2015,['United Arab Emirates'],30123,Camelus dromedarius,324.0,9.818181818181818
+386,MF598637.1,MF598637.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_B46_2015, complete genome",Mar-2015,['United Arab Emirates'],30123,Camelus dromedarius,324.0,9.818181818181818
+387,MF598636.1,MF598636.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_B45_2015, complete genome",Mar-2015,['United Arab Emirates'],30123,Camelus dromedarius,372.0,10.054054054054054
+388,MF598635.1,MF598635.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_B44_2015, complete genome",Mar-2015,['United Arab Emirates'],30123,Camelus dromedarius,372.0,10.054054054054054
+389,MF598634.1,MF598634.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_B42_2015, complete genome",Mar-2015,['United Arab Emirates'],30123,Camelus dromedarius,312.0,9.75
+390,MF598633.1,MF598633.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_B41_2015, complete genome",Mar-2015,['United Arab Emirates'],30123,Camelus dromedarius,324.0,9.818181818181818
+391,MF598632.1,MF598632.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_B40_2015, complete genome",Mar-2015,['United Arab Emirates'],30123,Camelus dromedarius,324.0,9.818181818181818
+392,MF598631.1,MF598631.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_B39_2015, complete genome",Mar-2015,['United Arab Emirates'],30123,Camelus dromedarius,324.0,9.818181818181818
+393,MF598630.1,MF598630.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_B38_2015, complete genome",Mar-2015,['United Arab Emirates'],30123,Camelus dromedarius,324.0,9.818181818181818
+394,MF598629.1,MF598629.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_B37_2015, complete genome",Mar-2015,['United Arab Emirates'],30123,Camelus dromedarius,324.0,9.818181818181818
+395,MF598628.1,MF598628.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_B36_2015, complete genome",Mar-2015,['United Arab Emirates'],30123,Camelus dromedarius,292.0,9.733333333333333
+396,MF598627.1,MF598627.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_B35_2015, complete genome",Mar-2015,['United Arab Emirates'],30123,Camelus dromedarius,324.0,9.818181818181818
+397,MF598626.1,MF598626.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_B34_2015, complete genome",Mar-2015,['United Arab Emirates'],30123,Camelus dromedarius,324.0,9.818181818181818
+398,MF598625.1,MF598625.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_B33_2015, complete genome",Mar-2015,['United Arab Emirates'],30123,Camelus dromedarius,324.0,9.818181818181818
+399,MF598624.1,MF598624.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_B32_2015, complete genome",Mar-2015,['United Arab Emirates'],30123,Camelus dromedarius,324.0,9.818181818181818
+400,MF598623.1,MF598623.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_B31_2015, complete genome",Mar-2015,['United Arab Emirates'],30123,Camelus dromedarius,324.0,9.818181818181818
+401,MF598622.1,MF598622.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_B30_2015, complete genome",Mar-2015,['United Arab Emirates'],30123,Camelus dromedarius,324.0,9.818181818181818
+402,MF598621.1,MF598621.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_B29_2015, complete genome",Mar-2015,['United Arab Emirates'],30123,Camelus dromedarius,324.0,9.818181818181818
+403,MF598620.1,MF598620.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_B28_2015, complete genome",Mar-2015,['United Arab Emirates'],30123,Camelus dromedarius,324.0,9.818181818181818
+404,MF598619.1,MF598619.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_B27_2015, complete genome",Mar-2015,['United Arab Emirates'],30123,Camelus dromedarius,372.0,10.054054054054054
+405,MF598618.1,MF598618.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_B26_2015, complete genome",Mar-2015,['United Arab Emirates'],30123,Camelus dromedarius,324.0,9.818181818181818
+406,MF598617.1,MF598617.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_B25_2015, complete genome",Mar-2015,['United Arab Emirates'],30123,Camelus dromedarius,312.0,9.75
+407,MF598616.1,MF598616.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_B24_2015, complete genome",Mar-2015,['United Arab Emirates'],30123,Camelus dromedarius,372.0,10.054054054054054
+408,MF598615.1,MF598615.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_B23_2015, complete genome",Mar-2015,['United Arab Emirates'],30123,Camelus dromedarius,324.0,9.818181818181818
+409,MF598614.1,MF598614.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_B22_2015, complete genome",Mar-2015,['United Arab Emirates'],30123,Camelus dromedarius,324.0,9.818181818181818
+410,MF598613.1,MF598613.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_B21_2015, complete genome",Mar-2015,['United Arab Emirates'],30123,Camelus dromedarius,324.0,9.818181818181818
+411,MF598612.1,MF598612.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_B20_2015, complete genome",Mar-2015,['United Arab Emirates'],30123,Camelus dromedarius,324.0,9.818181818181818
+412,MF598611.1,MF598611.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_B19_2015, complete genome",Mar-2015,['United Arab Emirates'],30123,Camelus dromedarius,324.0,9.818181818181818
+413,MF598610.1,MF598610.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_B18_2015, complete genome",Mar-2015,['United Arab Emirates'],30123,Camelus dromedarius,312.0,9.75
+414,MF598609.1,MF598609.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_B17_2015, complete genome",Mar-2015,['United Arab Emirates'],30123,Camelus dromedarius,324.0,9.818181818181818
+415,MF598608.1,MF598608.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_B16_2015, complete genome",Mar-2015,['United Arab Emirates'],30123,Camelus dromedarius,324.0,9.818181818181818
+416,MF598607.1,MF598607.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_B15_2015, complete genome",Mar-2015,['United Arab Emirates'],30123,Camelus dromedarius,324.0,9.818181818181818
+417,MF598606.1,MF598606.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_B14_2015, complete genome",Mar-2015,['United Arab Emirates'],30123,Camelus dromedarius,324.0,9.818181818181818
+418,MF598605.1,MF598605.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_B13_2015, complete genome",Mar-2015,['United Arab Emirates'],30123,Camelus dromedarius,312.0,9.75
+419,MF598604.1,MF598604.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_B12_2015, complete genome",Mar-2015,['United Arab Emirates'],30123,Camelus dromedarius,324.0,9.818181818181818
+420,MF598603.1,MF598603.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_B11_2015, complete genome",Mar-2015,['United Arab Emirates'],30123,Camelus dromedarius,324.0,9.818181818181818
+421,MF598602.1,MF598602.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_B10_2015, complete genome",Mar-2015,['United Arab Emirates'],30123,Camelus dromedarius,324.0,9.818181818181818
+422,MF598601.1,MF598601.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_B9_2015, complete genome",Mar-2015,['United Arab Emirates'],30123,Camelus dromedarius,312.0,9.75
+423,MF598600.1,MF598600.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_B8_2015, complete genome",Mar-2015,['United Arab Emirates'],30123,Camelus dromedarius,312.0,9.75
+424,MF598599.1,MF598599.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_B7_2015, complete genome",Mar-2015,['United Arab Emirates'],30123,Camelus dromedarius,312.0,9.75
+425,MF598598.1,MF598598.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_B6_2015, complete genome",Mar-2015,['United Arab Emirates'],30123,Camelus dromedarius,324.0,9.818181818181818
+426,MF598597.1,MF598597.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_B5_2015, complete genome",Mar-2015,['United Arab Emirates'],30123,Camelus dromedarius,312.0,9.75
+427,MF598596.1,MF598596.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_B4_2015, complete genome",Mar-2015,['United Arab Emirates'],30123,Camelus dromedarius,312.0,9.75
+428,MF598595.1,MF598595.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_B2_2015, complete genome",Mar-2015,['United Arab Emirates'],30123,Camelus dromedarius,324.0,9.818181818181818
+429,MF598594.1,MF598594.1,"Middle East respiratory syndrome-related coronavirus strain camel/UAE_B1_2015, complete genome",Mar-2015,['United Arab Emirates'],30123,Camelus dromedarius,324.0,9.818181818181818
+430,MG011359.2,MG011359.2,"Middle East respiratory syndrome-related coronavirus isolate Hu/Riyadh-KSA-16559/2016, complete genome",29-Mar-2016,['Saudi Arabia'],30096,Homo sapiens,324.0,9.818181818181818
+431,MG011358.2,MG011358.2,"Middle East respiratory syndrome-related coronavirus isolate Hu/Riyadh-KSA-24241/2016, complete genome",21-Sep-2016,['Saudi Arabia'],30096,Homo sapiens,324.0,9.818181818181818
+432,MG011357.2,MG011357.2,"Middle East respiratory syndrome-related coronavirus isolate Hu/Riyadh-KSA-24244/2016, complete genome",21-Sep-2016,['Saudi Arabia'],30096,Homo sapiens,324.0,9.818181818181818
+433,MG011355.2,MG011355.2,"Middle East respiratory syndrome-related coronavirus isolate Hu/Riyadh-KSA-21155/2016, complete genome",01-Jul-2016,['Saudi Arabia'],30096,Homo sapiens,324.0,9.818181818181818
+434,MG011354.2,MG011354.2,"Middle East respiratory syndrome-related coronavirus isolate Hu/Riyadh-KSA-20570/2016, complete genome",16-Jun-2016,['Saudi Arabia'],30096,Homo sapiens,324.0,9.818181818181818
+435,MG011353.2,MG011353.2,"Middle East respiratory syndrome-related coronavirus isolate Hu/Riyadh-KSA-19949/2016, complete genome",01-Jun-2016,['Saudi Arabia'],30096,Homo sapiens,324.0,9.818181818181818
+436,MG011352.2,MG011352.2,"Middle East respiratory syndrome-related coronavirus isolate Hu/Qasim-KSA-893/2016, complete genome",20-Jul-2016,['Saudi Arabia'],30096,Homo sapiens,324.0,9.818181818181818
+437,MG011351.2,MG011351.2,"Middle East respiratory syndrome-related coronavirus isolate Hu/Madinah-KSA-390/2016, complete genome",10-Apr-2016,['Saudi Arabia'],30096,Homo sapiens,324.0,9.818181818181818
+438,MG011345.2,MG011345.2,"Middle East respiratory syndrome-related coronavirus isolate Hu/Riyadh-KSA-15385/2016, complete genome",18-Mar-2016,['Saudi Arabia'],30096,Homo sapiens,324.0,9.818181818181818
+439,MG011342.2,MG011342.2,"Middle East respiratory syndrome-related coronavirus isolate Hu/Riyadh-KSA-13984/2016, complete genome",07-Mar-2016,['Saudi Arabia'],30096,Homo sapiens,324.0,9.818181818181818
+440,MG011362.1,MG011362.1,"Middle East respiratory syndrome-related coronavirus isolate Hu/Riyadh-KSA-K37029157/2016, complete genome",25-Dec-2016,['Saudi Arabia'],30096,Homo sapiens,306.0,9.870967741935484
+441,MG011361.1,MG011361.1,"Middle East respiratory syndrome-related coronavirus isolate Hu/Riyadh-KSA-K17000405/2017, complete genome",10-Jan-2017,['Saudi Arabia'],30096,Homo sapiens,306.0,9.870967741935484
+442,MG011360.1,MG011360.1,"Middle East respiratory syndrome-related coronavirus isolate Hu/Riyadh-KSA-K17000887/2017, complete genome",23-Jan-2017,['Saudi Arabia'],30096,Homo sapiens,306.0,9.870967741935484
+443,MG011356.1,MG011356.1,"Middle East respiratory syndrome-related coronavirus isolate Hu/Riyadh-KSA-21891/2016, complete genome",12-Jul-2016,['Saudi Arabia'],30096,Homo sapiens,324.0,9.818181818181818
+444,MG011350.1,MG011350.1,"Middle East respiratory syndrome-related coronavirus isolate Hu/Riyadh-KSA-16849/2016, complete genome",04-Apr-2016,['Saudi Arabia'],30096,Homo sapiens,324.0,9.818181818181818
+445,MG011349.1,MG011349.1,"Middle East respiratory syndrome-related coronavirus isolate Hu/Riyadh-KSA-17382/2016, complete genome",13-Apr-2016,['Saudi Arabia'],30096,Homo sapiens,324.0,9.818181818181818
+446,MG011348.1,MG011348.1,"Middle East respiratory syndrome-related coronavirus isolate Hu/Riyadh-KSA-17756/2016, complete genome",18-Apr-2016,['Saudi Arabia'],30096,Homo sapiens,324.0,9.818181818181818
+447,MG011347.1,MG011347.1,"Middle East respiratory syndrome-related coronavirus isolate Hu/Riyadh-KSA-14670/2016, complete genome",13-Mar-2016,['Saudi Arabia'],30096,Homo sapiens,324.0,9.818181818181818
+448,MG011346.1,MG011346.1,"Middle East respiratory syndrome-related coronavirus isolate Hu/Riyadh-KSA-14949/2016, complete genome",14-Mar-2016,['Saudi Arabia'],30096,Homo sapiens,324.0,9.818181818181818
+449,MG011344.1,MG011344.1,"Middle East respiratory syndrome-related coronavirus isolate Hu/Riyadh-KSA-14675/2016, complete genome",13-Mar-2016,['Saudi Arabia'],30096,Homo sapiens,324.0,9.818181818181818
+450,MG011343.1,MG011343.1,"Middle East respiratory syndrome-related coronavirus isolate Hu/Riyadh-KSA-14607/2016, complete genome",12-Mar-2016,['Saudi Arabia'],30096,Homo sapiens,324.0,9.818181818181818
+451,MG011341.1,MG011341.1,"Middle East respiratory syndrome-related coronavirus isolate Hu/Qasim-KSA-13922/2016, complete genome",06-Mar-2016,['Saudi Arabia'],30096,Homo sapiens,324.0,9.818181818181818
+452,MG011340.1,MG011340.1,"Middle East respiratory syndrome-related coronavirus isolate Hu/Riyadh-KSA-13798/2016, complete genome",05-Mar-2016,['Saudi Arabia'],30096,Homo sapiens,324.0,9.818181818181818
+453,KT225476.2,KT225476.2,"Middle East respiratory syndrome coronavirus isolate MERS-CoV/THA/CU/17_06_2015, complete genome",17-Jun-2015,['Thailand'],29809,Homo sapiens,324.0,9.818181818181818
+454,KT326819.1,KT326819.1,"Middle East respiratory syndrome-related coronavirus strain MERS-CoV/KOR/KNIH/001_05_2015, complete genome",22-May-2015,['South Korea'],29995,Homo sapiens,324.0,9.818181818181818
+455,KX154694.1,KX154694.1,"Middle East respiratory syndrome-related coronavirus isolate Hu/Artawiyah-KSA-13328/2016, complete genome",29-Feb-2016,['Saudi Arabia'],30096,Homo sapiens,310.0,10.0
+456,KX154693.1,KX154693.1,"Middle East respiratory syndrome-related coronavirus isolate Hu/Riyadh-KSA-13127/2016, complete genome",29-Feb-2016,['Saudi Arabia'],30096,Homo sapiens,324.0,9.818181818181818
+457,KX154692.1,KX154692.1,"Middle East respiratory syndrome-related coronavirus isolate Hu/Riyadh-KSA-12969/2016, complete genome",27-Feb-2016,['Saudi Arabia'],30096,Homo sapiens,324.0,9.818181818181818
+458,KX154691.1,KX154691.1,"Middle East respiratory syndrome-related coronavirus isolate Hu/Riyadh-KSA-12832/2016, complete genome",25-Feb-2016,['Saudi Arabia'],30096,Homo sapiens,324.0,9.818181818181818
+459,KX154690.1,KX154690.1,"Middle East respiratory syndrome-related coronavirus isolate Hu/Jeddah-KSA-161RS1146/2016, complete genome",Jan-2016,['Saudi Arabia'],30096,Homo sapiens,324.0,9.818181818181818
+460,KX154689.1,KX154689.1,"Middle East respiratory syndrome-related coronavirus isolate Hu/Riyadh-KSA-10208/2016, complete genome",Jan-2016,['Saudi Arabia'],30096,Homo sapiens,324.0,9.818181818181818
+461,KX154688.1,KX154688.1,"Middle East respiratory syndrome-related coronavirus isolate Hu/Riyadh-KSA-12160/2016, complete genome",Feb-2016,['Saudi Arabia'],30096,Homo sapiens,324.0,9.818181818181818
+462,KX154687.1,KX154687.1,"Middle East respiratory syndrome-related coronavirus isolate Hu/Riyadh-KSA-11958/2016, complete genome",Feb-2016,['Saudi Arabia'],30096,Homo sapiens,342.0,9.771428571428572
+463,KX154686.1,KX154686.1,"Middle East respiratory syndrome-related coronavirus isolate Hu/Riyadh-KSA-11898/2016, complete genome",Feb-2016,['Saudi Arabia'],30096,Homo sapiens,324.0,9.818181818181818
+464,KX154685.1,KX154685.1,"Middle East respiratory syndrome-related coronavirus isolate Hu/Riyadh-KSA-11740/2016, complete genome",Feb-2016,['Saudi Arabia'],30096,Homo sapiens,324.0,9.818181818181818
+465,KX154684.1,KX154684.1,"Middle East respiratory syndrome-related coronavirus isolate Hu/Riyadh-KSA-11739/2016, complete genome",Feb-2016,['Saudi Arabia'],30096,Homo sapiens,324.0,9.818181818181818
+466,KY689142.1,KY689142.1,UNVERIFIED: Middle East respiratory syndrome-related coronavirus strain MERS-Cov/Riyadh-KSA/NGHA_ KAMC_2016 genomic sequence,Jan-2016,['Saudi Arabia'],29837,Homo sapiens,324.0,9.818181818181818
+467,KX108946.1,KX108946.1,"Middle East respiratory syndrome-related coronavirus isolate D1189.1/15, complete genome",18-May-2015,['United Arab Emirates'],30099,Camelus dromedarius,324.0,9.818181818181818
+468,KX108945.1,KX108945.1,"Middle East respiratory syndrome-related coronavirus isolate D1271/15, complete genome",29-May-2015,['United Arab Emirates'],30101,Camelus dromedarius,324.0,9.818181818181818
+469,KX108944.1,KX108944.1,"Middle East respiratory syndrome-related coronavirus isolate D1157/15, complete genome",12-May-2015,['United Arab Emirates'],30099,Camelus dromedarius,324.0,9.818181818181818
+470,KX108943.1,KX108943.1,"Middle East respiratory syndrome-related coronavirus isolate D998/15, complete genome",23-Apr-2015,['United Arab Emirates'],30088,Camelus dromedarius,364.0,9.837837837837839
+471,KX108942.1,KX108942.1,"Middle East respiratory syndrome-related coronavirus isolate D389/15, complete genome",15-Feb-2015,['United Arab Emirates'],30099,Camelus dromedarius,324.0,9.818181818181818
+472,KX108941.1,KX108941.1,"Middle East respiratory syndrome-related coronavirus isolate D383/15, complete genome",14-Feb-2015,['United Arab Emirates'],30099,Camelus dromedarius,324.0,9.818181818181818
+473,KX108940.1,KX108940.1,"Middle East respiratory syndrome-related coronavirus isolate D374/15, complete genome",12-Feb-2015,['United Arab Emirates'],30099,Camelus dromedarius,324.0,9.818181818181818
+474,KX108939.1,KX108939.1,"Middle East respiratory syndrome-related coronavirus isolate D252/15, complete genome",30-Jan-2015,['United Arab Emirates'],30099,Camelus dromedarius,324.0,9.818181818181818
+475,KX108938.1,KX108938.1,"Middle East respiratory syndrome-related coronavirus isolate D2597.2/14, complete genome",13-Dec-2014,['United Arab Emirates'],30101,Camelus dromedarius,324.0,9.818181818181818
+476,KX108937.1,KX108937.1,"Middle East respiratory syndrome-related coronavirus isolate D1164.1/14, complete genome",02-Jun-2014,['United Arab Emirates'],30097,Camelus dromedarius,324.0,9.818181818181818
+477,KT861628.1,KT861628.1,"Middle East respiratory syndrome-related coronavirus isolate Hu/Jordan-201440011123/2014, complete genome",21-Apr-2014,['Jordan'],30096,Homo sapiens,324.0,9.818181818181818
+478,KT861627.1,KT861627.1,"Middle East respiratory syndrome-related coronavirus isolate Hu/Jordan-20140010168/2014, complete genome",22-Jan-2014,['Jordan'],30089,Homo sapiens,324.0,9.818181818181818
+479,KT877351.1,KT877351.1,"Middle East respiratory syndrome coronavirus isolate KSA_1724, complete genome",Sep-2014,['Saudi Arabia'],30010,Camelus dromedarius,324.0,9.818181818181818
+480,KT877350.1,KT877350.1,"Middle East respiratory syndrome coronavirus isolate KSA_1725, complete genome",Sep-2014,['Saudi Arabia'],30121,Camelus dromedarius,324.0,9.818181818181818
+481,KT368860.1,KT368860.1,"Middle East respiratory syndrome coronavirus isolate camel/Jeddah/Jd6(b)/2015, complete genome",Jan-2015,['Saudi Arabia'],30122,camel,324.0,9.818181818181818
+482,KU710265.1,KU710265.1,"Middle East respiratory syndrome-related coronavirus isolate Hu/Taif/KSA-7032/2014/S530del, complete genome",04-Nov-2014,['Saudi Arabia'],29566,Homo sapiens,324.0,9.818181818181818
+483,KU710264.1,KU710264.1,"Middle East respiratory syndrome-related coronavirus isolate Hu/Taif/KSA-7032/2014, complete genome",04-Nov-2014,['Saudi Arabia'],30096,Homo sapiens,324.0,9.818181818181818
+484,KU851864.1,KU851864.1,"Middle East respiratory syndrome-related coronavirus isolate Hu/Riyadh-KSA-16098/2015, complete genome",24-Aug-2015,['Saudi Arabia'],30096,Homo sapiens,324.0,9.818181818181818
+485,KU851863.1,KU851863.1,"Middle East respiratory syndrome-related coronavirus isolate Hu/Riyadh-KSA-16077/2015, complete genome",27-Aug-2015,['Saudi Arabia'],30096,Homo sapiens,324.0,9.818181818181818
+486,KU851862.1,KU851862.1,"Middle East respiratory syndrome-related coronavirus isolate Hu/Riyadh-KSA-16117/2015, complete genome",24-Aug-2015,['Saudi Arabia'],30096,Homo sapiens,324.0,9.818181818181818
+487,KU851861.1,KU851861.1,"Middle East respiratory syndrome-related coronavirus isolate Hu/Riyadh-KSA-16120/2015, complete genome",24-Aug-2015,['Saudi Arabia'],30096,Homo sapiens,324.0,9.818181818181818
+488,KU851860.1,KU851860.1,"Middle East respiratory syndrome-related coronavirus isolate Hu/Riyadh-KSA-16121/2015, complete genome",24-Aug-2015,['Saudi Arabia'],30096,Homo sapiens,324.0,9.818181818181818
+489,KU851859.1,KU851859.1,"Middle East respiratory syndrome-related coronavirus isolate Hu/Jeddah-KSA-3RS2702/2015, complete genome",12-Jul-2015,['Saudi Arabia'],30076,Homo sapiens,324.0,9.818181818181818
+490,KX034100.1,KX034100.1,"Middle East respiratory syndrome coronavirus isolate MERS-CoV/KOR/Seoul/177-3-2015, complete genome",03-Jul-2015,['South Korea'],30118,Homo sapiens,324.0,9.818181818181818
+491,KX034099.1,KX034099.1,"Middle East respiratory syndrome coronavirus isolate MERS-CoV/KOR/Seoul/169-2015, complete genome",26-Jun-2015,['South Korea'],30110,Homo sapiens,324.0,9.818181818181818
+492,KX034098.1,KX034098.1,"Middle East respiratory syndrome coronavirus isolate MERS-CoV/KOR/Seoul/162-1-2015, complete genome",22-Jun-2015,['South Korea'],30106,Homo sapiens,324.0,9.818181818181818
+493,KX034097.1,KX034097.1,"Middle East respiratory syndrome coronavirus isolate MERS-CoV/KOR/Seoul/080-3-2015, complete genome",17-Jun-2015,['South Korea'],30118,Homo sapiens,324.0,9.818181818181818
+494,KX034096.1,KX034096.1,"Middle East respiratory syndrome coronavirus isolate MERS-CoV/KOR/Seoul/077-2-2015, complete genome",17-Jun-2015,['South Korea'],30082,Homo sapiens,324.0,9.818181818181818
+495,KX034095.1,KX034095.1,"Middle East respiratory syndrome coronavirus isolate MERS-CoV/KOR/Seoul/066-2015, complete genome",04-Jun-2015,['South Korea'],30118,Homo sapiens,324.0,9.818181818181818
+496,KX034094.1,KX034094.1,"Middle East respiratory syndrome coronavirus isolate MERS-CoV/KOR/Seoul/050-1-2015, complete genome",11-Jun-2015,['South Korea'],30111,Homo sapiens,324.0,9.818181818181818
+497,KX034093.1,KX034093.1,"Middle East respiratory syndrome coronavirus isolate MERS-CoV/KOR/Seoul/014-2015, partial genome",30-May-2015,['South Korea'],30118,Homo sapiens,324.0,9.818181818181818
+498,KU233364.1,KU233364.1,"Middle East respiratory syndrome-related coronavirus isolate Jordan_1_cultured_2015, partial genome",2015,['Jordan'],30029,Homo sapiens,324.0,9.818181818181818
+499,KU233363.1,KU233363.1,"Middle East respiratory syndrome-related coronavirus isolate Jordan_1_2015, partial genome",2015,['Jordan'],30064,Homo sapiens,324.0,9.818181818181818
+500,KU233362.1,KU233362.1,"Middle East respiratory syndrome-related coronavirus isolate Jordan_10_2015, partial genome",2015,['Jordan'],30004,Homo sapiens,324.0,9.818181818181818
+501,KP209313.1,KP209313.1,"Middle East respiratory syndrome coronavirus strain Abu Dhabi_UAE_26_2014, complete genome",13-Apr-2014,['United Arab Emirates'],30123,Homo sapiens,372.0,10.054054054054054
+502,KP209312.1,KP209312.1,"Middle East respiratory syndrome coronavirus strain Abu Dhabi_UAE_9_2013, complete genome",15-Nov-2013,['United Arab Emirates'],30123,Homo sapiens,324.0,9.818181818181818
+503,KP209311.1,KP209311.1,"Middle East respiratory syndrome coronavirus strain Abu Dhabi_UAE_33_2014, complete genome",17-Apr-2014,['United Arab Emirates'],30123,Homo sapiens,372.0,10.054054054054054
+504,KP209310.1,KP209310.1,"Middle East respiratory syndrome coronavirus strain Abu Dhabi/Gayathi_UAE_2_2014, complete genome",07-Mar-2014,['United Arab Emirates'],30123,Homo sapiens,372.0,10.054054054054054
+505,KP209309.1,KP209309.1,"Middle East respiratory syndrome coronavirus strain Abu Dhabi_UAE_30_2014, complete genome",19-Apr-2014,['United Arab Emirates'],30123,Homo sapiens,372.0,10.054054054054054
+506,KP209308.1,KP209308.1,"Middle East respiratory syndrome coronavirus strain Abu Dhabi_UAE_16_2014, complete genome",10-Apr-2014,['United Arab Emirates'],30123,Homo sapiens,372.0,10.054054054054054
+507,KP209307.1,KP209307.1,"Middle East respiratory syndrome coronavirus strain Abu Dhabi_UAE_18_2014, complete genome",10-Apr-2014,['United Arab Emirates'],30123,Homo sapiens,372.0,10.054054054054054
+508,KP209306.1,KP209306.1,"Middle East respiratory syndrome coronavirus strain Abu Dhabi_UAE_8_2014, complete genome",07-Apr-2014,['United Arab Emirates'],30123,Homo sapiens,372.0,10.054054054054054
+509,KU308549.1,KU308549.1,"Middle East respiratory syndrome-related coronavirus isolate Korea/Seoul/SNU1-035/2015, complete genome",08-Jun-2015,['South Korea'],30119,Homo sapiens,324.0,9.818181818181818
+510,KT026456.1,KT026456.1,"Middle East respiratory syndrome coronavirus isolate Hu/Riyadh_KSA_4050_2015, complete genome",01-Mar-2015,['Saudi Arabia'],30120,Homo sapiens,324.0,9.818181818181818
+511,KT026455.1,KT026455.1,"Middle East respiratory syndrome coronavirus isolate Hu/Riyadh_KSA_2959_2015, complete genome",10-Feb-2015,['Saudi Arabia'],30114,Homo sapiens,324.0,9.818181818181818
+512,KT026454.1,KT026454.1,"Middle East respiratory syndrome coronavirus strain Hu/Riyadh_KSA_4050_2015, complete genome",01-Mar-2015,['Saudi Arabia'],30123,Homo sapiens,324.0,9.818181818181818
+513,KT026453.1,KT026453.1,"Middle East respiratory syndrome coronavirus strain Hu/Riyadh_KSA_2959_2015, complete genome",10-Feb-2015,['Saudi Arabia'],30114,Homo sapiens,324.0,9.818181818181818
+514,KT868877.1,KT868877.1,"Middle East respiratory syndrome-related coronavirus isolate MERS-CoV/KOR/CNUH_SNU/172_06_2015, partial genome",22-Jun-2015,['South Korea'],30068,Homo sapiens,324.0,9.818181818181818
+515,KT868876.1,KT868876.1,"Middle East respiratory syndrome-related coronavirus isolate MERS-CoV/KOR/CNUH_SNU/148_06_2015, partial genome",10-Jun-2015,['South Korea'],30068,Homo sapiens,324.0,9.818181818181818
+516,KT868875.1,KT868875.1,"Middle East respiratory syndrome-related coronavirus isolate MERS-CoV/KOR/CNUH_SNU/122_06_2015, partial genome",10-Jun-2015,['South Korea'],30068,Homo sapiens,324.0,9.818181818181818
+517,KT868874.1,KT868874.1,"Middle East respiratory syndrome-related coronavirus isolate MERS-CoV/KOR/CNUH_SNU/110_06_2015, partial genome",11-Jun-2015,['South Korea'],30068,Homo sapiens,324.0,9.818181818181818
+518,KT868873.1,KT868873.1,"Middle East respiratory syndrome-related coronavirus isolate MERS-CoV/KOR/CNUH_SNU/085_06_2015, partial genome",10-Jun-2015,['South Korea'],30068,Homo sapiens,324.0,9.818181818181818
+519,KT868872.1,KT868872.1,"Middle East respiratory syndrome-related coronavirus isolate MERS-CoV/KOR/CNUH_SNU/082_06_2015, partial genome",10-Jun-2015,['South Korea'],30068,Homo sapiens,324.0,9.818181818181818
+520,KT868871.1,KT868871.1,"Middle East respiratory syndrome-related coronavirus isolate MERS-CoV/KOR/CNUH_SNU/054_06_2015, partial genome",09-Jun-2015,['South Korea'],30068,Homo sapiens,324.0,9.818181818181818
+521,KT868870.1,KT868870.1,"Middle East respiratory syndrome-related coronavirus isolate MERS-CoV/KOR/CNUH_SNU/038_06_2015, partial genome",10-Jun-2015,['South Korea'],30065,Homo sapiens,324.0,9.818181818181818
+522,KT868869.1,KT868869.1,"Middle East respiratory syndrome-related coronavirus isolate MERS-CoV/KOR/CNUH_SNU/031_06_2015, partial genome",11-Jun-2015,['South Korea'],30068,Homo sapiens,324.0,9.818181818181818
+523,KT868868.1,KT868868.1,"Middle East respiratory syndrome-related coronavirus isolate MERS-CoV/KOR/CNUH_SNU/030_06_2015, partial genome",08-Jun-2015,['South Korea'],30068,Homo sapiens,324.0,9.818181818181818
+524,KT868867.1,KT868867.1,"Middle East respiratory syndrome-related coronavirus isolate MERS-CoV/KOR/CNUH_SNU/024_06_2015, partial genome",08-Jun-2015,['South Korea'],30068,Homo sapiens,324.0,9.818181818181818
+525,KT868866.1,KT868866.1,"Middle East respiratory syndrome-related coronavirus isolate MERS-CoV/KOR/CNUH_SNU/023_06_2015, partial genome",11-Jun-2015,['South Korea'],30068,Homo sapiens,324.0,9.818181818181818
+526,KT868865.1,KT868865.1,"Middle East respiratory syndrome-related coronavirus isolate MERS-CoV/KOR/CNUH_SNU/016_06_2015, partial genome",11-Jun-2015,['South Korea'],30068,Homo sapiens,324.0,9.818181818181818
+527,KT374057.1,KT374057.1,"Middle East respiratory syndrome coronavirus isolate KOREA/Seoul/168-2-2015, complete genome",24-Jun-2015,['South Korea'],29831,Homo sapiens,324.0,9.818181818181818
+528,KT374056.1,KT374056.1,"Middle East respiratory syndrome coronavirus isolate KOREA/Seoul/168-1-2015, complete genome",21-Jun-2015,['South Korea'],29831,Homo sapiens,324.0,9.818181818181818
+529,KT374055.1,KT374055.1,"Middle East respiratory syndrome coronavirus isolate KOREA/Seoul/035-2-2015, complete genome",18-Jun-2015,['South Korea'],29831,Homo sapiens,324.0,9.818181818181818
+530,KT374054.1,KT374054.1,"Middle East respiratory syndrome coronavirus isolate KOREA/Seoul/035-1-2015, complete genome",03-Jun-2015,['South Korea'],29831,Homo sapiens,324.0,9.818181818181818
+531,KT374053.1,KT374053.1,"Middle East respiratory syndrome coronavirus isolate KOREA/Seoul/014-2-2015, complete genome",13-Jun-2015,['South Korea'],29831,Homo sapiens,324.0,9.818181818181818
+532,KT374052.1,KT374052.1,"Middle East respiratory syndrome coronavirus isolate KOREA/Seoul/014-1-2015, complete genome",31-May-2015,['South Korea'],29831,Homo sapiens,324.0,9.818181818181818
+533,KT374051.1,KT374051.1,"Middle East respiratory syndrome coronavirus isolate KOREA/Seoul/163-1-2015, complete genome",19-Jun-2015,['South Korea'],29831,Homo sapiens,324.0,9.818181818181818
+534,KT374050.1,KT374050.1,"Middle East respiratory syndrome coronavirus isolate KOREA/Seoul/163-2-2015, complete genome",29-Jun-2015,['South Korea'],29831,Homo sapiens,324.0,9.818181818181818
+535,KT806055.1,KT806055.1,"Middle East respiratory syndrome coronavirus isolate Hu/Jeddah-KSA-C20860/2015, complete genome",10-Feb-2015,['Saudi Arabia'],30096,Homo sapiens,324.0,9.818181818181818
+536,KT806054.1,KT806054.1,"Middle East respiratory syndrome coronavirus isolate Hu/Najran-KSA-C20915/2015, complete genome",13-Feb-2015,['Saudi Arabia'],29695,Homo sapiens,324.0,9.818181818181818
+537,KT806053.1,KT806053.1,"Middle East respiratory syndrome coronavirus isolate Hu/Kharj-KSA-2598/2015, complete genome",02-Feb-2015,['Saudi Arabia'],30096,Homo sapiens,324.0,9.818181818181818
+538,KT806052.1,KT806052.1,"Middle East respiratory syndrome coronavirus isolate Hu/Kharj-KSA-2599/2015, complete genome",02-Feb-2015,['Saudi Arabia'],30096,Homo sapiens,324.0,9.818181818181818
+539,KT806051.1,KT806051.1,"Middle East respiratory syndrome coronavirus isolate Hu/Riyadh-KSA-2716/2015, complete genome",05-Feb-2015,['Saudi Arabia'],30096,Homo sapiens,324.0,9.818181818181818
+540,KT806049.1,KT806049.1,"Middle East respiratory syndrome coronavirus isolate Hu/Riyadh-KSA-3181/2015, complete genome",15-Feb-2015,['Saudi Arabia'],30096,Homo sapiens,324.0,9.818181818181818
+541,KT806048.1,KT806048.1,"Middle East respiratory syndrome coronavirus isolate Hu/Khobar-KSA-6736/2015, complete genome",07-Feb-2015,['Saudi Arabia'],30096,Homo sapiens,324.0,9.818181818181818
+542,KT806047.1,KT806047.1,"Middle East respiratory syndrome coronavirus isolate Hu/Hufuf-KSA-9158/2015, complete genome",27-Mar-2015,['Saudi Arabia'],30087,Homo sapiens,324.0,9.818181818181818
+543,KT806046.1,KT806046.1,"Middle East respiratory syndrome coronavirus isolate Hu/Hufuf-KSA-11002/2015, complete genome",10-May-2015,['Saudi Arabia'],30096,Homo sapiens,324.0,9.818181818181818
+544,KT806045.1,KT806045.1,"Middle East respiratory syndrome coronavirus isolate Hu/Jeddah-KSA-C21271/2015, complete genome",22-Feb-2015,['Saudi Arabia'],30096,Homo sapiens,324.0,9.818181818181818
+545,KT806044.1,KT806044.1,"Middle East respiratory syndrome coronavirus isolate Hu/Jeddah-KSA-C20843/2015, complete genome",09-Feb-2015,['Saudi Arabia'],30096,Homo sapiens,324.0,9.818181818181818
+546,KU242424.1,KU242424.1,"Middle East respiratory syndrome coronavirus isolate Camel/UAE/D469-14, complete genome",04-Mar-2014,['United Arab Emirates'],30112,Camelus dromedarius,324.0,9.818181818181818
+547,KU242423.1,KU242423.1,"Middle East respiratory syndrome coronavirus isolate Camel/UAE/D511-14, complete genome",12-Mar-2014,['United Arab Emirates'],30112,Camelus dromedarius,324.0,9.818181818181818
+548,KT368890.1,KT368890.1,"Middle East respiratory syndrome coronavirus isolate camel/Taif/T157(b)/2015, complete genome",Mar-2015,['Saudi Arabia'],30120,camel,324.0,9.818181818181818
+549,KT368889.1,KT368889.1,"Middle East respiratory syndrome coronavirus isolate camel/Taif/T150/2015, complete genome",Mar-2015,['Saudi Arabia'],30110,camel,324.0,9.818181818181818
+550,KT368888.1,KT368888.1,"Middle East respiratory syndrome coronavirus isolate camel/Taif/T98/2015, complete genome",Apr-2015,['Saudi Arabia'],30116,camel,324.0,9.818181818181818
+551,KT368887.1,KT368887.1,"Middle East respiratory syndrome coronavirus isolate camel/Taif/T92/2015, complete genome",Apr-2015,['Saudi Arabia'],30116,camel,324.0,9.818181818181818
+552,KT368886.1,KT368886.1,"Middle East respiratory syndrome coronavirus isolate camel/Taif/T91(b)/2015, complete genome",Apr-2015,['Saudi Arabia'],30118,camel,324.0,9.818181818181818
+553,KT368885.1,KT368885.1,"Middle East respiratory syndrome coronavirus isolate camel/Taif/T89/2015, complete genome",Apr-2015,['Saudi Arabia'],30118,camel,324.0,9.818181818181818
+554,KT368884.1,KT368884.1,"Middle East respiratory syndrome coronavirus isolate camel/Taif/T68/2015, complete genome",Apr-2015,['Saudi Arabia'],30114,camel,324.0,9.818181818181818
+555,KT368883.1,KT368883.1,"Middle East respiratory syndrome coronavirus isolate camel/Taif/T22/2015, complete genome",Apr-2015,['Saudi Arabia'],30122,camel,314.0,9.8125
+556,KT368882.1,KT368882.1,"Middle East respiratory syndrome coronavirus isolate camel/Taif/T16/2015, complete genome",Apr-2015,['Saudi Arabia'],30120,camel,314.0,9.8125
+557,KT368881.1,KT368881.1,"Middle East respiratory syndrome coronavirus isolate camel/Taif/T7/2015, complete genome",Apr-2015,['Saudi Arabia'],30113,camel,314.0,9.8125
+558,KT368880.1,KT368880.1,"Middle East respiratory syndrome coronavirus isolate camel/Taif/T3/2015, complete genome",Apr-2015,['Saudi Arabia'],30122,camel,314.0,9.8125
+559,KT368879.1,KT368879.1,"Middle East respiratory syndrome coronavirus isolate camel/Riyadh/Ry86/2015, complete genome",Mar-2015,['Saudi Arabia'],30107,camel,344.0,9.82857142857143
+560,KT368878.1,KT368878.1,"Middle East respiratory syndrome coronavirus isolate camel/Riyadh/Ry79/2015, complete genome",Mar-2015,['Saudi Arabia'],30117,camel,324.0,9.818181818181818
+561,KT368877.1,KT368877.1,"Middle East respiratory syndrome coronavirus isolate camel/Riyadh/Ry64/2015, complete genome",Mar-2015,['Saudi Arabia'],30118,camel,324.0,9.818181818181818
+562,KT368876.1,KT368876.1,"Middle East respiratory syndrome coronavirus isolate camel/Riyadh/Ry63/2015, complete genome",Mar-2015,['Saudi Arabia'],30121,camel,324.0,9.818181818181818
+563,KT368875.1,KT368875.1,"Middle East respiratory syndrome coronavirus isolate camel/Riyadh/Ry179/2015, complete genome",Mar-2015,['Saudi Arabia'],30113,camel,324.0,9.818181818181818
+564,KT368874.1,KT368874.1,"Middle East respiratory syndrome coronavirus isolate camel/Riyadh/Ry178/2015, complete genome",Mar-2015,['Saudi Arabia'],30122,camel,324.0,9.818181818181818
+565,KT368873.1,KT368873.1,"Middle East respiratory syndrome coronavirus isolate camel/Riyadh/Ry177/2015, complete genome",Mar-2015,['Saudi Arabia'],30118,camel,324.0,9.818181818181818
+566,KT368872.1,KT368872.1,"Middle East respiratory syndrome coronavirus isolate camel/Riyadh/Ry173/2015, complete genome",Mar-2015,['Saudi Arabia'],30122,camel,324.0,9.818181818181818
+567,KT368871.1,KT368871.1,"Middle East respiratory syndrome coronavirus isolate camel/Riyadh/Ry162/2015, complete genome",Mar-2015,['Saudi Arabia'],30118,camel,324.0,9.818181818181818
+568,KT368870.1,KT368870.1,"Middle East respiratory syndrome coronavirus isolate camel/Riyadh/Ry159(b)/2015, complete genome",Mar-2015,['Saudi Arabia'],30110,camel,324.0,9.818181818181818
+569,KT368869.1,KT368869.1,"Middle East respiratory syndrome coronavirus isolate camel/Riyadh/Ry137/2015, complete genome",Mar-2015,['Saudi Arabia'],30111,camel,324.0,9.818181818181818
+570,KT368868.1,KT368868.1,"Middle East respiratory syndrome coronavirus isolate camel/Riyadh/Ry136/2015, complete genome",Mar-2015,['Saudi Arabia'],30122,camel,324.0,9.818181818181818
+571,KT368867.1,KT368867.1,"Middle East respiratory syndrome coronavirus isolate camel/Jeddah/Jd199/2015, complete genome",Feb-2015,['Saudi Arabia'],30116,camel,324.0,9.818181818181818
+572,KT368866.1,KT368866.1,"Middle East respiratory syndrome coronavirus isolate camel/Jeddah/Jd175/2015, complete genome",Feb-2015,['Saudi Arabia'],30114,camel,324.0,9.818181818181818
+573,KT368865.1,KT368865.1,"Middle East respiratory syndrome coronavirus isolate camel/Jeddah/Jd90/2015, complete genome",Jan-2015,['Saudi Arabia'],30109,camel,324.0,9.818181818181818
+574,KT368864.1,KT368864.1,"Middle East respiratory syndrome coronavirus isolate camel/Jeddah/Jd87/2015, complete genome",Jan-2015,['Saudi Arabia'],30118,camel,324.0,9.818181818181818
+575,KT368863.1,KT368863.1,"Middle East respiratory syndrome coronavirus isolate camel/Jeddah/Jd86/2015, complete genome",Jan-2015,['Saudi Arabia'],30120,camel,324.0,9.818181818181818
+576,KT368862.1,KT368862.1,"Middle East respiratory syndrome coronavirus isolate camel/Jeddah/Jd85/2015, complete genome",Jan-2015,['Saudi Arabia'],30120,camel,324.0,9.818181818181818
+577,KT368861.1,KT368861.1,"Middle East respiratory syndrome coronavirus isolate camel/Jeddah/Jd7/2015, complete genome",Jan-2015,['Saudi Arabia'],30118,camel,324.0,9.818181818181818
+578,KT368859.1,KT368859.1,"Middle East respiratory syndrome coronavirus isolate camel/Jeddah/Jd4/2015, complete genome",Jan-2015,['Saudi Arabia'],30116,camel,324.0,9.818181818181818
+579,KT368858.1,KT368858.1,"Middle East respiratory syndrome coronavirus isolate camel/Jeddah/Jd1(b)/2015, complete genome",Jan-2015,['Saudi Arabia'],30113,camel,324.0,9.818181818181818
+580,KT368857.1,KT368857.1,"Middle East respiratory syndrome coronavirus isolate camel/Jeddah/S99/2014, complete genome",Sep-2014,['Saudi Arabia'],30119,camel,324.0,9.818181818181818
+581,KT368856.1,KT368856.1,"Middle East respiratory syndrome coronavirus isolate camel/Jeddah/S94/2014, complete genome",Sep-2014,['Saudi Arabia'],30117,camel,324.0,9.818181818181818
+582,KT368855.1,KT368855.1,"Middle East respiratory syndrome coronavirus isolate camel/Jeddah/S93/2014, complete genome",Sep-2014,['Saudi Arabia'],30115,camel,324.0,9.818181818181818
+583,KT368854.1,KT368854.1,"Middle East respiratory syndrome coronavirus isolate camel/Jeddah/S73/2014, complete genome",Sep-2014,['Saudi Arabia'],30118,camel,324.0,9.818181818181818
+584,KT368853.1,KT368853.1,"Middle East respiratory syndrome coronavirus isolate camel/Jeddah/S100/2014, complete genome",Sep-2014,['Saudi Arabia'],30108,camel,324.0,9.818181818181818
+585,KT368852.1,KT368852.1,"Middle East respiratory syndrome coronavirus isolate camel/Jeddah/O47(b)/2014, complete genome",Oct-2014,['Saudi Arabia'],30117,camel,324.0,9.818181818181818
+586,KT368851.1,KT368851.1,"Middle East respiratory syndrome coronavirus isolate camel/Jeddah/O30/2014, complete genome",Oct-2014,['Saudi Arabia'],30119,camel,324.0,9.818181818181818
+587,KT368850.1,KT368850.1,"Middle East respiratory syndrome coronavirus isolate camel/Jeddah/O24/2014, complete genome",Oct-2014,['Saudi Arabia'],30118,camel,324.0,9.818181818181818
+588,KT368849.1,KT368849.1,"Middle East respiratory syndrome coronavirus isolate camel/Jeddah/O23(b)/2014, complete genome",Oct-2014,['Saudi Arabia'],30117,camel,324.0,9.818181818181818
+589,KT368848.1,KT368848.1,"Middle East respiratory syndrome coronavirus isolate camel/Jeddah/N68(b)/2014, complete genome",Nov-2014,['Saudi Arabia'],30118,camel,324.0,9.818181818181818
+590,KT368847.1,KT368847.1,"Middle East respiratory syndrome coronavirus isolate camel/Jeddah/N62(b)/2014, complete genome",Nov-2014,['Saudi Arabia'],30110,camel,324.0,9.818181818181818
+591,KT368846.1,KT368846.1,"Middle East respiratory syndrome coronavirus isolate camel/Jeddah/N51/2014, complete genome",Nov-2014,['Saudi Arabia'],30115,camel,324.0,9.818181818181818
+592,KT368845.1,KT368845.1,"Middle East respiratory syndrome coronavirus isolate camel/Jeddah/D92/2014, complete genome",Dec-2014,['Saudi Arabia'],30116,camel,342.0,9.771428571428572
+593,KT368844.1,KT368844.1,"Middle East respiratory syndrome coronavirus isolate camel/Jeddah/D90/2014, complete genome",Dec-2014,['Saudi Arabia'],30109,camel,342.0,9.771428571428572
+594,KT368843.1,KT368843.1,"Middle East respiratory syndrome coronavirus isolate camel/Jeddah/D88/2014, complete genome",Dec-2014,['Saudi Arabia'],30118,camel,342.0,9.771428571428572
+595,KT368842.1,KT368842.1,"Middle East respiratory syndrome coronavirus isolate camel/Jeddah/D50(b)/2014, complete genome",Dec-2014,['Saudi Arabia'],30116,camel,324.0,9.818181818181818
+596,KT368841.1,KT368841.1,"Middle East respiratory syndrome coronavirus isolate camel/Jeddah/D49/2014, complete genome",Dec-2014,['Saudi Arabia'],30110,camel,324.0,9.818181818181818
+597,KT368840.1,KT368840.1,"Middle East respiratory syndrome coronavirus isolate camel/Jeddah/D48/2014, complete genome",Dec-2014,['Saudi Arabia'],30116,camel,324.0,9.818181818181818
+598,KT368839.1,KT368839.1,"Middle East respiratory syndrome coronavirus isolate camel/Jeddah/D47/2014, complete genome",Dec-2014,['Saudi Arabia'],30117,camel,324.0,9.818181818181818
+599,KT368838.1,KT368838.1,"Middle East respiratory syndrome coronavirus isolate camel/Jeddah/D46(b)/2014, complete genome",Dec-2014,['Saudi Arabia'],30118,camel,324.0,9.818181818181818
+600,KT368837.1,KT368837.1,"Middle East respiratory syndrome coronavirus isolate camel/Jeddah/D45/2014, complete genome",Dec-2014,['Saudi Arabia'],30117,camel,324.0,9.818181818181818
+601,KT368836.1,KT368836.1,"Middle East respiratory syndrome coronavirus isolate camel/Jeddah/D43(b)/2014, complete genome",Dec-2014,['Saudi Arabia'],30119,camel,324.0,9.818181818181818
+602,KT368835.1,KT368835.1,"Middle East respiratory syndrome coronavirus isolate camel/Jeddah/D42/2014, complete genome",Dec-2014,['Saudi Arabia'],30119,camel,324.0,9.818181818181818
+603,KT368834.1,KT368834.1,"Middle East respiratory syndrome coronavirus isolate camel/Jeddah/D40/2014, complete genome",Dec-2014,['Saudi Arabia'],30113,camel,324.0,9.818181818181818
+604,KT368833.1,KT368833.1,"Middle East respiratory syndrome coronavirus isolate camel/Jeddah/D38(b)/2014, complete genome",Dec-2014,['Saudi Arabia'],30118,camel,324.0,9.818181818181818
+605,KT368832.1,KT368832.1,"Middle East respiratory syndrome coronavirus isolate camel/Jeddah/D36/2014, complete genome",Dec-2014,['Saudi Arabia'],30118,camel,324.0,9.818181818181818
+606,KT368831.1,KT368831.1,"Middle East respiratory syndrome coronavirus isolate camel/Jeddah/D35/2014, complete genome",Dec-2014,['Saudi Arabia'],30118,camel,324.0,9.818181818181818
+607,KT368830.1,KT368830.1,"Middle East respiratory syndrome coronavirus isolate camel/Jeddah/D34/2014, complete genome",Dec-2014,['Saudi Arabia'],30119,camel,324.0,9.818181818181818
+608,KT368829.1,KT368829.1,"Middle East respiratory syndrome coronavirus isolate camel/Jeddah/D33(b)/2014, complete genome",Dec-2014,['Saudi Arabia'],30118,camel,324.0,9.818181818181818
+609,KT368828.1,KT368828.1,"Middle East respiratory syndrome coronavirus isolate camel/Jeddah/D100/2014, complete genome",Dec-2014,['Saudi Arabia'],30119,camel,342.0,9.771428571428572
+610,KT368827.1,KT368827.1,"Middle East respiratory syndrome coronavirus isolate camel/Jeddah/401/2014, complete genome",Sep-2014,['Saudi Arabia'],30114,camel,324.0,9.818181818181818
+611,KT368826.1,KT368826.1,"Middle East respiratory syndrome coronavirus isolate camel/Riyadh/Ry84N/2014, complete genome",Jul-2014,['Saudi Arabia'],30122,camel,324.0,9.818181818181818
+612,KT368825.1,KT368825.1,"Middle East respiratory syndrome coronavirus isolate camel/Riyadh/Ry23N/2014, complete genome",Jul-2014,['Saudi Arabia'],30119,camel,324.0,9.818181818181818
+613,KT368824.1,KT368824.1,"Middle East respiratory syndrome coronavirus isolate camel/Jeddah/F13A/2014, complete genome",May-2014,['Saudi Arabia'],30115,camel,324.0,9.818181818181818
+614,KT751244.1,KT751244.1,"Middle East respiratory syndrome-related coronavirus strain D2731.3/14, complete genome",09-DEC-2015,['United Arab Emirates: Dubai'],30107,dromedary camel,312.0,9.75
+615,KT121581.1,KT121581.1,"Middle East respiratory syndrome coronavirus isolate KFMC-7, complete genome",03-May-2014,['Saudi Arabia'],29751,Homo sapiens,298.0,9.933333333333334
+616,KT121580.1,KT121580.1,"Middle East respiratory syndrome coronavirus isolate KFMC-1, complete genome",28-Apr-2014,['Saudi Arabia'],29799,Homo sapiens,312.0,9.75
+617,KT121579.1,KT121579.1,"Middle East respiratory syndrome coronavirus isolate KFMC-8, complete genome",30-Apr-2014,['Saudi Arabia'],29751,Homo sapiens,312.0,9.75
+618,KT121578.1,KT121578.1,"Middle East respiratory syndrome coronavirus isolate KFMC-10, complete genome",01-May-2014,['Saudi Arabia'],29785,Homo sapiens,312.0,9.75
+619,KT121577.1,KT121577.1,"Middle East respiratory syndrome coronavirus isolate KFMC-2, complete genome",11-May-2014,['Saudi Arabia'],29896,Homo sapiens,312.0,9.75
+620,KT121576.1,KT121576.1,"Middle East respiratory syndrome coronavirus isolate KFMC-6, complete genome",18-May-2014,['Saudi Arabia'],29896,Homo sapiens,312.0,9.75
+621,KT121575.1,KT121575.1,"Middle East respiratory syndrome coronavirus isolate KFMC-4, complete genome",12-May-2014,['Saudi Arabia'],29896,Homo sapiens,312.0,9.75
+622,KT121574.1,KT121574.1,"Middle East respiratory syndrome coronavirus isolate KFMC-9, complete genome",07-May-2014,['Saudi Arabia'],29896,Homo sapiens,312.0,9.75
+623,KT121573.1,KT121573.1,"Middle East respiratory syndrome coronavirus isolate KFMC-3, complete genome",09-May-2014,['Saudi Arabia'],29896,Homo sapiens,312.0,9.75
+624,KT121572.1,KT121572.1,"Middle East respiratory syndrome coronavirus isolate KFMC-5, complete genome",12-May-2014,['Saudi Arabia'],29896,Homo sapiens,312.0,9.75
+625,KM027262.1,KM027262.1,"Middle East respiratory syndrome coronavirus isolate Riyadh_2014KSA_683/KSA/2014, complete genome",22-Apr-2014,['Saudi Arabia'],29896,Homo sapiens,312.0,9.75
+626,KM027261.1,KM027261.1,"Middle East respiratory syndrome coronavirus isolate Makkah_C9355/KSA/Makkah/2014-04-15, complete genome",15-Apr-2014,['Saudi Arabia'],29809,Homo sapiens,324.0,9.818181818181818
+627,KM027260.1,KM027260.1,"Middle East respiratory syndrome coronavirus isolate Jeddah_C10306/KSA/2014-04-20, complete genome",21-Apr-2014,['Saudi Arabia'],29874,Homo sapiens,324.0,9.818181818181818
+628,KM027259.1,KM027259.1,"Middle East respiratory syndrome coronavirus isolate Jeddah_C9055/KSA/2014-04-14, complete genome",14-Apr-2014,['Saudi Arabia'],29918,Homo sapiens,324.0,9.818181818181818
+629,KM027258.1,KM027258.1,"Middle East respiratory syndrome coronavirus isolate Jeddah_C8826/KSA/2014-04-12, complete genome",12-Apr-2014,['Saudi Arabia'],29809,Homo sapiens,324.0,9.818181818181818
+630,KM027257.1,KM027257.1,"Middle East respiratory syndrome coronavirus isolate Jeddah_C7770/KSA/2014-04-07, complete genome",07-Apr-2014,['Saudi Arabia'],29774,Homo sapiens,324.0,9.818181818181818
+631,KM027256.1,KM027256.1,"Middle East respiratory syndrome coronavirus isolate Jeddah_C7569/KSA/2014-04-03, complete genome",2014,['Saudi Arabia'],29918,Homo sapiens,324.0,9.818181818181818
+632,KM027255.1,KM027255.1,"Middle East respiratory syndrome coronavirus isolate Jeddah_C7149/KSA/2014-04-05, complete genome",2014,['Saudi Arabia'],29919,Homo sapiens,324.0,9.818181818181818
+633,KJ813439.1,KJ813439.1,"Middle East respiratory syndrome coronavirus strain Indiana/USA-1_Saudi Arabia_2014, complete genome",30-Apr-2014,['USA'],30123,Homo sapiens,312.0,9.75
+634,KT029139.1,KT029139.1,"Middle East respiratory syndrome coronavirus isolate MERS-CoV/KOR/KNIH/002_05_2015, complete genome",20-May-2015,['South Korea'],30108,Homo sapiens,324.0,9.818181818181818
+635,KT006149.2,KT006149.2,"Middle East respiratory syndrome coronavirus strain ChinaGD01, complete genome",27-May-2015,['China'],30114,Homo sapiens,324.0,9.818181818181818
+636,KT156561.1,KT156561.1,"Middle East respiratory syndrome coronavirus strain Hu/Oman_2874_2013, complete genome",28-Dec-2013,['Oman'],30123,Homo sapiens,324.0,9.818181818181818
+637,KT156560.1,KT156560.1,"Middle East respiratory syndrome coronavirus strain Hu/Oman_2285_2013, complete genome",28-Oct-2013,['Oman'],30123,Homo sapiens,324.0,9.818181818181818
+638,KT036374.1,KT036374.1,"Middle East respiratory syndrome coronavirus isolate ChinaGD01 variant 2, partial genome",28-May-2015,['China'],29514,Homo sapiens,310.0,10.0
+639,KT036373.1,KT036373.1,"Middle East respiratory syndrome coronavirus isolate ChinaGD01 variant 1, partial genome",28-May-2015,['China'],29509,Homo sapiens,310.0,10.0
+640,KT036372.1,KT036372.1,"Middle East respiratory syndrome coronavirus isolate ChinaGD01, partial genome",28-May-2015,['China'],29928,Homo sapiens,324.0,9.818181818181818
+641,KR011266.1,KR011266.1,"Middle East respiratory syndrome coronavirus strain Hu/Riyadh-KSA-2049/2015, complete genome",06-Jan-2015,['Saudi Arabia'],30096,Homo sapiens,312.0,9.75
+642,KR011265.1,KR011265.1,"Middle East respiratory syndrome coronavirus strain Hu/Riyadh-KSA-2466/2015, complete genome",26-Jan-2015,['Saudi Arabia'],30096,Homo sapiens,312.0,9.75
+643,KR011264.1,KR011264.1,"Middle East respiratory syndrome coronavirus strain Hu/Riyadh-KSA-2343/2015, complete genome",21-Jan-2015,['Saudi Arabia'],30096,Homo sapiens,312.0,9.75
+644,KR011263.1,KR011263.1,"Middle East respiratory syndrome coronavirus strain Hu/Riyadh-KSA-2345/2015, complete genome",21-Jan-2015,['Saudi Arabia'],30096,Homo sapiens,312.0,9.75
+645,KJ361503.1,KJ361503.1,"Middle East respiratory syndrome coronavirus isolate Hu-France - FRA2_130569-2013_Isolate_Sanger, complete genome",07-May-2013,['France'],30040,Homo sapiens,324.0,9.818181818181818
+646,KJ361502.1,KJ361502.1,"Middle East respiratory syndrome coronavirus isolate Hu-France - FRA2_130569-2013_InSpu_Sanger, complete genome",07-May-2013,['France'],29783,Homo sapiens,324.0,9.818181818181818
+647,KJ361501.1,KJ361501.1,"Middle East respiratory syndrome coronavirus isolate Hu-France - FRA2_130569-2013_IS_HTS, complete genome",07-May-2013,['France'],29880,Homo sapiens,324.0,9.818181818181818
+648,KJ361500.1,KJ361500.1,"Middle East respiratory syndrome coronavirus isolate Hu-France (UAE) - FRA1_1627-2013_BAL_Sanger, complete genome",26-Apr-2013,['France'],29267,Homo sapiens,246.0,9.84
+649,KJ361499.1,KJ361499.1,"Middle East respiratory syndrome coronavirus isolate Hu-France (UAE) - FRA1_1627-2013_BAL_HTS, partial genome",26-Apr-2013,['France'],29780,Homo sapiens,316.0,9.875
+650,KP719933.1,KP719933.1,"Middle East respiratory syndrome coronavirus isolate Camel/UAE/D1209/2014, complete genome",09-FEB-2015,['United Arab Emirates'],29559,Camelus dromedarius,324.0,9.818181818181818
+651,KP719932.1,KP719932.1,"Middle East respiratory syndrome coronavirus isolate Camel/UAE/D1243.12/2014, complete genome",Jun-2014,['United Arab Emirates'],29559,Camelus dromedarius,324.0,9.818181818181818
+652,KP719931.1,KP719931.1,"Middle East respiratory syndrome coronavirus isolate Camel/UAE/D1339.2/2014, complete genome",Jun-2014,['United Arab Emirates'],29559,Camelus dromedarius,324.0,9.818181818181818
+653,KP719930.1,KP719930.1,"Middle East respiratory syndrome coronavirus isolate Camel/UAE/D1164.14/2014, complete genome",Jun-2014,['United Arab Emirates'],29559,Camelus dromedarius,324.0,9.818181818181818
+654,KP719929.1,KP719929.1,"Middle East respiratory syndrome coronavirus isolate Camel/UAE/D1164.11/2014, complete genome",Jun-2014,['United Arab Emirates'],29559,Camelus dromedarius,324.0,9.818181818181818
+655,KP719928.1,KP719928.1,"Middle East respiratory syndrome coronavirus isolate Camel/UAE/D1164.10/2014, complete genome",Jun-2014,['United Arab Emirates'],29559,Camelus dromedarius,324.0,9.818181818181818
+656,KP719927.1,KP719927.1,"Middle East respiratory syndrome coronavirus isolate Camel/UAE/D1164.9/2014, complete genome",Jun-2014,['United Arab Emirates'],29559,Camelus dromedarius,324.0,9.818181818181818
+657,KM210278.1,KM210278.1,"Middle East respiratory syndrome coronavirus isolate England/3/2013, complete genome",10-Feb-2013,['United Kingdom'],30035,Homo sapiens,324.0,9.818181818181818
+658,KM210277.1,KM210277.1,"Middle East respiratory syndrome coronavirus isolate England/4/2013, complete genome",13-Feb-2013,['United Kingdom'],30031,Homo sapiens,324.0,9.818181818181818
+659,KP223131.1,KP223131.1,"Middle East respiratory syndrome coronavirus isolate Florida/USA-2_Saudi Arabia_2014, complete genome",Jun-2014,['USA'],30123,Homo sapiens,324.0,9.818181818181818
+660,KJ650098.1,KJ650098.1,"Middle East respiratory syndrome coronavirus isolate Camel/Qatar_2_2014, complete genome",16-Feb-2014,['Qatar'],30117,Camelus dromedarius,324.0,9.818181818181818
+661,KJ650297.1,KJ650297.1,"Middle East respiratory syndrome coronavirus isolate KFU-HKU 1, complete genome",30-Nov-2013,['Saudi Arabia'],30105,dromedary,324.0,9.818181818181818
+662,KJ650296.1,KJ650296.1,"Middle East respiratory syndrome coronavirus isolate KFU-HKU 19Dam, complete genome",30-Dec-2013,['Saudi Arabia'],30099,dromedary,324.0,9.818181818181818
+663,KJ650295.1,KJ650295.1,"Middle East respiratory syndrome coronavirus isolate KFU-HKU 13, complete genome",30-Dec-2013,['Saudi Arabia'],30100,dromedary,324.0,9.818181818181818
+664,KF600652.1,KF600652.1,"Middle East respiratory syndrome coronavirus isolate Riyadh_2_2012, complete genome",30-Oct-2012,['Saudi Arabia'],30082,Homo sapiens,324.0,9.818181818181818
+665,KF600651.1,KF600651.1,"Middle East respiratory syndrome coronavirus isolate Al-Hasa_18_2013, complete genome",23-May-2013,['Saudi Arabia'],30105,Homo sapiens,324.0,9.818181818181818
+666,KF600647.1,KF600647.1,"Middle East respiratory syndrome coronavirus isolate Al-Hasa_17_2013, complete genome",15-May-2013,['Saudi Arabia'],30115,Homo sapiens,324.0,9.818181818181818
+667,KF600645.1,KF600645.1,"Middle East respiratory syndrome coronavirus isolate Al-Hasa_15_2013, complete genome",11-May-2013,['Saudi Arabia'],30071,Homo sapiens,324.0,9.818181818181818
+668,KF600644.1,KF600644.1,"Middle East respiratory syndrome coronavirus isolate Al-Hasa_16_2013, complete genome",12-May-2013,['Saudi Arabia'],30078,Homo sapiens,324.0,9.818181818181818
+669,KF600634.1,KF600634.1,"Middle East respiratory syndrome coronavirus isolate Al-Hasa_21_2013, complete genome",30-May-2013,['Saudi Arabia'],30063,Homo sapiens,324.0,9.818181818181818
+670,KF600632.1,KF600632.1,"Middle East respiratory syndrome coronavirus isolate Al-Hasa_19_2013, complete genome",23-May-2013,['Saudi Arabia'],30108,Homo sapiens,324.0,9.818181818181818
+671,KF600630.1,KF600630.1,"Middle East respiratory syndrome coronavirus isolate Buraidah_1_2013, complete genome",13-May-2013,['Saudi Arabia'],30081,Homo sapiens,324.0,9.818181818181818
+672,KF600628.1,KF600628.1,"Middle East respiratory syndrome coronavirus isolate Hafr-Al-Batin_1_2013, complete genome",04-Jun-2013,['Saudi Arabia'],30104,Homo sapiens,324.0,9.818181818181818
+673,KF600627.1,KF600627.1,"Middle East respiratory syndrome coronavirus isolate Al-Hasa_12_2013, complete genome",07-May-2013,['Saudi Arabia'],30076,Homo sapiens,324.0,9.818181818181818
+674,KF600620.1,KF600620.1,"Middle East respiratory syndrome coronavirus isolate Bisha_1_2012, complete genome",19-Jun-2012,['Saudi Arabia'],30056,Homo sapiens,324.0,9.818181818181818
+675,KF600613.1,KF600613.1,"Middle East respiratory syndrome coronavirus isolate Riyadh_3_2013, complete genome",05-Feb-2013,['Saudi Arabia'],30064,Homo sapiens,324.0,9.818181818181818
+676,KF600612.1,KF600612.1,"Middle East respiratory syndrome coronavirus isolate Riyadh_1_2012, complete genome",23-Oct-2012,['Saudi Arabia'],30063,Homo sapiens,324.0,9.818181818181818
+677,KF192507.1,KF192507.1,"Middle East respiratory syndrome coronavirus, complete genome",2013,['United Arab Emirates'],30123,Homo sapiens,324.0,9.818181818181818
+678,KF186565.1,KF186565.1,"Middle East respiratory syndrome coronavirus isolate Al-Hasa_3_2013, complete genome",22-Apr-2013,['Saudi Arabia'],30069,Homo sapiens,324.0,9.818181818181818
+679,KF186567.1,KF186567.1,"Middle East respiratory syndrome coronavirus isolate Al-Hasa_1_2013, complete genome",09-May-2013,['Saudi Arabia'],30117,Homo sapiens,324.0,9.818181818181818
+680,KF186566.1,KF186566.1,"Middle East respiratory syndrome coronavirus isolate Al-Hasa_2_2013, complete genome",21-Apr-2013,['Saudi Arabia'],30113,Homo sapiens,324.0,9.818181818181818
+681,KF186564.1,KF186564.1,"Middle East respiratory syndrome coronavirus isolate Al-Hasa_4_2013, complete genome",01-May-2013,['Saudi Arabia'],30081,Homo sapiens,324.0,9.818181818181818
+682,KM015348.1,KM015348.1,"Middle East respiratory syndrome coronavirus isolate England/2/2013, complete genome",10-Feb-2013,['United Kingdom'],30042,Homo sapiens,324.0,9.818181818181818
+683,KF958702.1,KF958702.1,"Middle East respiratory syndrome coronavirus isolate MERS-CoV-Jeddah-human-1, complete genome",05-Nov-2013,['Saudi Arabia'],29851,Homo sapiens,324.0,9.818181818181818
+684,KF917527.1,KF917527.1,"Middle East respiratory syndrome coronavirus isolate MERS-CoV-Jeddah-Camel-1, complete genome",08-Nov-2013,['Saudi Arabia'],29851,camel,324.0,9.818181818181818
+685,KJ556336.1,KJ556336.1,"Middle East respiratory syndrome coronavirus isolate Jeddah_1_2013, complete genome",06-Nov-2013,['Saudi Arabia'],29890,Homo sapiens,324.0,9.818181818181818
+686,KJ477102.1,KJ477102.1,"Middle East respiratory syndrome coronavirus, complete genome",2013,['Egypt'],29908,camelus dromedarius,284.0,9.793103448275861
+687,KJ829365.1,KJ829365.1,"Middle East respiratory syndrome coronavirus strain Florida/USA-2_Saudi Arabia_2014, complete genome",10-May-2014,['USA'],30123,Homo sapiens,324.0,9.818181818181818
+688,KJ713299.1,KJ713299.1,"Middle East respiratory syndrome coronavirus isolate KSA-CAMEL-376, complete genome",Nov-2013,['Saudi Arabia'],30116,Camelus dromedarius,324.0,9.818181818181818
+689,KJ713298.1,KJ713298.1,"Middle East respiratory syndrome coronavirus isolate KSA-CAMEL-363, complete genome",Nov-2013,['Saudi Arabia'],30083,Camelus dromedarius,324.0,9.818181818181818
+690,KJ713297.1,KJ713297.1,"Middle East respiratory syndrome coronavirus isolate KSA-CAMEL-503, complete genome",Nov-2013,['Saudi Arabia'],30114,Camelus dromedarius,354.0,9.833333333333334
+691,KJ713296.1,KJ713296.1,"Middle East respiratory syndrome coronavirus isolate KSA-CAMEL-378, complete genome",Nov-2013,['Saudi Arabia'],30113,Camelus dromedarius,324.0,9.818181818181818
+692,KJ713295.1,KJ713295.1,"Middle East respiratory syndrome coronavirus isolate KSA-CAMEL-505, complete genome",Nov-2013,['Saudi Arabia'],30113,Camelus dromedarius,324.0,9.818181818181818
+693,KJ156952.1,KJ156952.1,"Middle East respiratory syndrome coronavirus isolate Riyadh_4_2013, complete genome",01-Mar-2013,['Saudi Arabia'],30054,Homo sapiens,324.0,9.818181818181818
+694,KJ156949.1,KJ156949.1,"Middle East respiratory syndrome coronavirus isolate Taif_1_2013, complete genome",12-Jun-2013,['Saudi Arabia'],30055,Homo sapiens,324.0,9.818181818181818
+695,KJ156944.1,KJ156944.1,"Middle East respiratory syndrome coronavirus isolate Riyadh_5_2013, complete genome",02-Jul-2013,['Saudi Arabia'],30055,Homo sapiens,324.0,9.818181818181818
+696,KJ156934.1,KJ156934.1,"Middle East respiratory syndrome coronavirus isolate Riyadh_14_2013, complete genome",15-Aug-2013,['Saudi Arabia'],30055,Homo sapiens,324.0,9.818181818181818
+697,KJ156910.1,KJ156910.1,"Middle East respiratory syndrome coronavirus isolate Hafr-Al-Batin_2_2013, complete genome",05-Aug-2013,['Saudi Arabia'],30055,Homo sapiens,324.0,9.818181818181818
+698,KJ156881.1,KJ156881.1,"Middle East respiratory syndrome coronavirus isolate Wadi-Ad-Dawasir_1_2013, complete genome",12-Jun-2013,['Saudi Arabia'],30055,Homo sapiens,324.0,9.818181818181818
+699,KJ156874.1,KJ156874.1,"Middle East respiratory syndrome coronavirus isolate Hafr-Al-Batin_6_2013, complete genome",28-Aug-2013,['Saudi Arabia'],30055,Homo sapiens,324.0,9.818181818181818
+700,KJ156869.1,KJ156869.1,"Middle East respiratory syndrome coronavirus isolate Riyadh_9_2013, complete genome",17-Jul-2013,['Saudi Arabia'],30055,Homo sapiens,324.0,9.818181818181818
+701,KJ156866.1,KJ156866.1,"Middle East respiratory syndrome coronavirus isolate Al-Hasa_25_2013, complete genome",02-May-2013,['Saudi Arabia'],30054,Homo sapiens,324.0,9.818181818181818
+702,KF961222.1,KF961222.1,"Middle East respiratory syndrome coronavirus isolate Qatar4, complete genome",17-Oct-2013,['Qatar'],30086,Homo sapiens,324.0,9.818181818181818
+703,KF961221.1,KF961221.1,"Middle East respiratory syndrome coronavirus isolate Qatar3, complete genome",13-Oct-2013,['Qatar'],30090,Homo sapiens,324.0,9.818181818181818
+704,KF745068.1,KF745068.1,"Middle East respiratory syndrome coronavirus isolate FRA/UAE, complete genome",07-May-2013,['France'],29901,Homo sapiens,324.0,9.818181818181818
+705,NC_038294.1,NC_038294.1,"Betacoronavirus England 1 isolate H123990006, complete genome",11-Sep-2012,['United Kingdom'],30111,Homo sapiens,316.0,9.875
+706,KJ473821.1,KJ473821.1,"BtVs-BetaCoV/SC2013, complete genome",07-JUL-2017,['China'],30423,Vespertilio superans,758.0,10.106666666666667
+707,KC869678.4,KC869678.4,"Coronavirus Neoromicia/PML-PHE1/RSA/2011, complete genome",2011,['South Africa'],30111,Neoromicia capensis,266.0,9.5
+708,KJ614529.1,KJ614529.1,"Human betacoronavirus 2c Jordan-N3/2012 isolate MG167, complete genome",18-JUN-2014,,30094,,324.0,9.818181818181818
+709,KC164505.2,KC164505.2,"Betacoronavirus England 1, complete genome",11-Sep-2012,['United Kingdom'],30111,Homo sapiens,316.0,9.875
+710,KC667074.1,KC667074.1,"Human betacoronavirus 2c England-Qatar/2012, complete genome",19-Sep-2012,['United Kingdom: England'],30112,Homo sapiens,316.0,9.875
+711,KC776174.1,KC776174.1,"Human betacoronavirus 2c Jordan-N3/2012, complete genome",Apr-2012,['Jordan'],30030,Homo sapiens,324.0,9.818181818181818
+712,JX869059.2,JX869059.2,"Human betacoronavirus 2c EMC/2012, complete genome",13-Jun-2012,,30119,Homo sapiens,324.0,9.818181818181818

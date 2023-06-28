@@ -1,0 +1,12 @@
+,GenBank ID,Accession,Description,Collection Date,Geographic Location,Sequence Length,Host,Intervals Total Length,Intervals Mean Length
+0,NC_009988.1,NC_009988.1,"Rhinolophus bat coronavirus HKU2, complete genome",31-DEC-2021,,27165,,320.0,10.32258064516129
+1,MF370205.1,MF370205.1,"Rhinolophus bat coronavirus HKU2 isolate Swine enteric alphacoronavirus CH/GD-01/2017/P2, complete genome",2017,['China: Guangdong'],27155,swine,320.0,10.32258064516129
+2,EF203067.1,EF203067.1,"Bat coronavirus HKU2 strain HKU2/HK/33/2006, complete genome",09-OCT-2007,,27164,,314.0,10.466666666666667
+3,EF203066.1,EF203066.1,"Bat coronavirus HKU2 strain HKU2/HK/298/2006, complete genome",09-OCT-2007,,27164,,314.0,10.466666666666667
+4,EF203065.1,EF203065.1,"Bat coronavirus HKU2 strain HKU2/HK/46/2006, complete genome",09-OCT-2007,,27164,,314.0,10.466666666666667
+5,EF203064.1,EF203064.1,"Bat coronavirus HKU2 strain HKU2/GD/430/2006, complete genome",09-OCT-2007,,27165,,320.0,10.32258064516129
+6,MW727454.1,MW727454.1,"Porcine enteric alphacoronavirus isolate GDZQ-2018, complete genome",01-Sep-2018,['China'],27171,porcine,320.0,10.32258064516129
+7,MH697599.1,MH697599.1,"UNVERIFIED_ASMBLY: Porcine enteric alphacoronavirus isolate PEAV_GDS04_P12, complete genome",Feb-2017,['China'],27183,porcine,330.0,10.3125
+8,MH539766.1,MH539766.1,"Porcine enteric alphacoronavirus isolate CHN-GD-2017, complete genome",Jul-2017,['China'],27170,Sus scrofa,338.0,10.242424242424242
+9,MG742313.1,MG742313.1,"Porcine enteric alphacoronavirus strain PEAV-GD-CH/2017, complete genome",14-Mar-2017,['China: Guangzhou'],27155,,310.0,10.333333333333334
+10,MF167434.1,MF167434.1,"Porcine enteric alphacoronavirus GDS04, complete genome",06-Mar-2017,['China'],27171,porcine,320.0,10.32258064516129

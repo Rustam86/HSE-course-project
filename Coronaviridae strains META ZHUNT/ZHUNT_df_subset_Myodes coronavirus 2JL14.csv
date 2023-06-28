@@ -1,0 +1,6 @@
+,GenBank ID,Accession,Description,Collection Date,Geographic Location,Sequence Length,Host,Intervals Total Length,Intervals Mean Length
+0,OM373091.1,OM373091.1,UNVERIFIED: Grimso virus isolate GRP2306-17 genomic sequence,19-Sep-2017,['Sweden'],30688,Myodes glareolus,258.0,10.32
+1,OM373090.1,OM373090.1,UNVERIFIED: Grimso virus isolate GRP215-15 genomic sequence,17-Apr-2015,['Sweden'],31317,Myodes glareolus,258.0,10.32
+2,NC_046954.1,NC_046954.1,"Rodent coronavirus isolate RtMruf-CoV-2/JL2014, complete genome",Aug-2014,['China'],31393,Myodes rufocanus,370.0,9.487179487179487
+3,KY370046.1,KY370046.1,"Rodent coronavirus isolate RtMruf-CoV-2/JL2014 ORF1ab polyprotein, hemagglutinin-esterase protein, spike glycoprotein, envelope protein, membrane protein, and nucleocapsid protein genes, complete cds",Aug-2014,['China'],31393,Myodes rufocanus,370.0,9.487179487179487
+4,KY370045.1,KY370045.1,"Rodent coronavirus isolate RtMruf-CoV-1/JL2014 ORF1ab polyprotein, spike glycoprotein, envelope protein, membrane protein, and nucleocapsid protein genes, complete cds",Aug-2014,['China'],29197,Myodes rufocanus,358.0,9.944444444444445

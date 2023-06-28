@@ -1,0 +1,4 @@
+,GenBank ID,Accession,Description,Collection Date,Geographic Location,Sequence Length,Host,Intervals Total Length,Intervals Mean Length
+0,NC_022103.1,NC_022103.1,"Bat coronavirus CDPHE15/USA/2006, complete genome",07-Aug-2006,"['USA: Boulder County, CO']",28035,Myotis lucifugus,262.0,10.076923076923077
+1,KF430219.1,KF430219.1,"Bat coronavirus CDPHE15/USA/2006, complete genome",07-Aug-2006,"['USA: Boulder County, CO']",28035,Myotis lucifugus,262.0,10.076923076923077
+2,KY799179.1,KY799179.1,"Myotis lucifugus coronavirus, complete genome",Nov-2010,['Canada'],28173,Myotis lucifugus (little brown bat),264.0,10.153846153846153

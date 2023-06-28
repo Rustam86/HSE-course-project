@@ -1,0 +1,11 @@
+,GenBank ID,Accession,Description,Collection Date,Geographic Location,Sequence Length,Host,Intervals Total Length,Intervals Mean Length
+0,EF065513.1,EF065513.1,"Rousettus bat coronavirus HKU9, complete genome",01-FEB-2022,['China: Guangdong province'],29114,bat,270.0,9.642857142857142
+1,NC_009021.1,NC_009021.1,"Rousettus bat coronavirus HKU9, complete genome",22-NOV-2020,['China: Guangdong province'],29114,bat,270.0,9.642857142857142
+2,MG762674.1,MG762674.1,"Rousettus bat coronavirus HKU9 isolate Rousettus spp/Jinghong/2009, complete genome",01-Nov-2009,['China'],29134,Rousettus sp.,444.0,10.090909090909092
+3,HM211101.1,HM211101.1,"Bat coronavirus HKU9-10-2, complete genome",10-Apr-2006,['China: Guangdong province'],29122,bat BF_506I,468.0,9.75
+4,HM211100.1,HM211100.1,"Bat coronavirus HKU9-10-1, complete genome",10-Apr-2006,['China: Guangdong province'],29136,bat BF_506I,534.0,9.709090909090909
+5,HM211099.1,HM211099.1,"Bat coronavirus HKU9-5-2, complete genome",11-Dec-2005,['China: Guangdong province'],29112,bat BF_258I,562.0,9.525423728813559
+6,HM211098.1,HM211098.1,"Bat coronavirus HKU9-5-1, complete genome",11-Dec-2005,['China: Guangdong province'],29136,bat BF_258I,568.0,9.793103448275861
+7,EF065516.1,EF065516.1,"Bat coronavirus HKU9-4, complete genome",07-FEB-2007,['China: Guangdong province'],29155,bat,674.0,10.212121212121213
+8,EF065515.1,EF065515.1,"Bat coronavirus HKU9-3, complete genome",07-FEB-2007,['China: Guangdong province'],29136,bat,556.0,9.75438596491228
+9,EF065514.1,EF065514.1,"Bat coronavirus HKU9-2, complete genome",07-FEB-2007,['China: Guangdong province'],29107,bat,534.0,9.709090909090909

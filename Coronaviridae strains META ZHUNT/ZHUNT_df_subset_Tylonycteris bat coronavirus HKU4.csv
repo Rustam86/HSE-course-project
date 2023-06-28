@@ -1,0 +1,13 @@
+,GenBank ID,Accession,Description,Collection Date,Geographic Location,Sequence Length,Host,Intervals Total Length,Intervals Mean Length
+0,NC_009019.1,NC_009019.1,"Tylonycteris bat coronavirus HKU4, complete genome",20-NOV-2020,['China: Guangdong province'],30286,bat,298.0,10.642857142857142
+1,EF065505.1,EF065505.1,"Tylonycteris bat coronavirus HKU4, complete genome",01-FEB-2022,['China: Guangdong province'],30286,bat,298.0,10.642857142857142
+2,MW218395.1,MW218395.1,"Tylonycteris bat coronavirus HKU4 isolate SM3A, complete genome",16-Aug-2010,['Hong Kong'],30248,Tylonycteris pachypus,232.0,10.545454545454545
+3,MH002339.1,MH002339.1,"Tylonycteris bat coronavirus HKU4 isolate SZ140324, complete genome",23-Apr-2014,['China'],30280,,298.0,10.642857142857142
+4,MH002338.1,MH002338.1,"Tylonycteris bat coronavirus HKU4 isolate CZ07, complete genome",01-Nov-2012,['China'],30252,,266.0,10.64
+5,MH002337.1,MH002337.1,"Tylonycteris bat coronavirus HKU4 isolate CZ01, complete genome",01-Nov-2012,['China'],30255,,266.0,10.64
+6,KJ473822.1,KJ473822.1,"BtTp-BetaCoV/GX2012, complete genome",2012,['China'],30247,Tylonycteris pachypus,296.0,10.571428571428571
+7,DQ648794.1,DQ648794.1,"Bat coronavirus (BtCoV/133/2005), complete genome",19-JUL-2006,,30307,,320.0,10.666666666666666
+8,EF065508.1,EF065508.1,"Bat coronavirus HKU4-4, complete genome",07-FEB-2007,['China: Guangdong province'],30316,bat,298.0,10.642857142857142
+9,EF065507.1,EF065507.1,"Bat coronavirus HKU4-3, complete genome",07-FEB-2007,['China: Guangdong province'],30286,bat,298.0,10.642857142857142
+10,EF065506.1,EF065506.1,"Bat coronavirus HKU4-2, complete genome",07-FEB-2007,['China: Guangdong province'],30286,bat,298.0,10.642857142857142
+11,NC_009020.1,NC_009020.1,"Pipistrellus bat coronavirus HKU5, complete genome",20-NOV-2020,['China: Guangdong province'],30482,bat,522.0,10.44

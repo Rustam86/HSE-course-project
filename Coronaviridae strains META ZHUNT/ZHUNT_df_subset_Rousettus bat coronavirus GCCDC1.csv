@@ -1,0 +1,11 @@
+,GenBank ID,Accession,Description,Collection Date,Geographic Location,Sequence Length,Host,Intervals Total Length,Intervals Mean Length
+0,MT350598.1,MT350598.1,"Rousettus bat coronavirus GCCDC1, complete genome",Oct-2016,['Singapore'],30162,Eonycteris spelaea,1266.0,10.209677419354838
+1,MZ293755.1,MZ293755.1,"Rousettus bat coronavirus isolate SBB-797, complete genome",02-Oct-2008,['Bangladesh'],29109,Rousettus leschenaultii,450.0,10.0
+2,MZ293754.1,MZ293754.1,"Rousettus bat coronavirus isolate SBB-788, complete genome",02-Oct-2008,['Bangladesh'],29100,Rousettus leschenaultii,472.0,9.63265306122449
+3,MZ293753.1,MZ293753.1,"Rousettus bat coronavirus isolate SBB-747, complete genome",05-Sep-2008,['Bangladesh'],29095,Rousettus leschenaultii,434.0,10.093023255813954
+4,MZ293752.1,MZ293752.1,"Rousettus bat coronavirus isolate SBB-726, complete genome",14-Jul-2012,['Bangladesh'],29112,Rousettus leschenaultii,494.0,9.686274509803921
+5,MZ293756.1,MZ293756.1,"Rousettus bat coronavirus isolate SBB-943, complete genome",27-Aug-2012,['Bangladesh'],29090,Rousettus leschenaultii,452.0,9.416666666666666
+6,MZ293739.1,MZ293739.1,"Rousettus bat coronavirus isolate PREDICT/GCS-242, complete genome",10-May-2013,['Rwanda'],29125,Rousettus aegyptiacus,386.0,9.897435897435898
+7,NC_030886.1,NC_030886.1,"Rousettus bat coronavirus isolate GCCDC1 356, complete genome",28-May-2014,['China'],30161,Rousettus leschenaulti,1462.0,10.223776223776223
+8,KU762338.1,KU762338.1,"Rousettus bat coronavirus isolate GCCDC1 356, complete genome",28-May-2014,['China'],30161,Rousettus leschenaulti,1462.0,10.223776223776223
+9,KU762337.1,KU762337.1,"Rousettus bat coronavirus isolate GCCDC1 346, partial genome",28-May-2014,['China'],30118,Rousettus leschenaulti,1292.0,10.09375

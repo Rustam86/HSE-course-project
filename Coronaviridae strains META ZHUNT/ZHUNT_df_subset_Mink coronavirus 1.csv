@@ -1,0 +1,5 @@
+,GenBank ID,Accession,Description,Collection Date,Geographic Location,Sequence Length,Host,Intervals Total Length,Intervals Mean Length
+0,MN535737.1,MN535737.1,"Mink coronavirus 1 strain MCoV1/11918-1/DK/2015, complete genome",Jul-2015,['Denmark: Holstebro'],28914,Neovison vison,308.0,9.625
+1,MN535736.1,MN535736.1,"Mink coronavirus 1 strain MCoV1/11917-2/DK/2015, complete genome",Jul-2015,['Denmark: Hjoerring'],28910,Neovison vison,334.0,9.823529411764707
+2,NC_023760.1,NC_023760.1,"Mink coronavirus strain WD1127, complete genome",01-Jan-1998,['USA: Wisconsin'],28941,Mustela vison,284.0,9.793103448275861
+3,HM245925.1,HM245925.1,"Mink coronavirus strain WD1127, complete genome",01-Jan-1998,['USA: Wisconsin'],28941,Mustela vison,284.0,9.793103448275861
