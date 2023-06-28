@@ -519,7 +519,7 @@ def plot_time_length_regression(df: pd.DataFrame, row_linkage: np.ndarray, color
 
 
 
-def create_genbank_info_df(intervals_file: str, show_progress: bool = False) -> pd.DataFrame:
+def create_genbank_info_df_prog(intervals_file: str, show_progress: bool = False) -> pd.DataFrame:
     """
     This function fetches information for each GenBank ID from the NCBI database and stores it in a pandas DataFrame.
 
@@ -588,6 +588,7 @@ def create_genbank_info_df(intervals_file: str, show_progress: bool = False) -> 
                         }, ignore_index=True)
 
     return df
+
 
 
 def pango_to_who(pango_lineage: str) -> str:
