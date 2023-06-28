@@ -1,6 +1,0 @@
-,GenBank ID,Accession,Description,Collection Date,Geographic Location,Sequence Length,Host,Intervals total length,Intervals mean length
-0,NC_010646.1,NC_010646.1,"Beluga Whale coronavirus SW1, complete genome",13-AUG-2018,,31686,Delphinapterus leucas (beluga whale),1253.0,156.625
-1,EU111742.1,EU111742.1,"Coronavirus SW1, complete genome",30-APR-2008,,31686,Delphinapterus leucas (beluga whale),1253.0,156.625
-2,KF793826.1,KF793826.1,"Bottlenose dolphin coronavirus HKU22 isolate CF090331, complete genome",11-MAR-2014,,31775,,1380.0,197.14285714285714
-3,KF793825.1,KF793825.1,"Bottlenose dolphin coronavirus HKU22 isolate CF090327, complete genome",11-MAR-2014,,31766,,1638.0,182.0
-4,KF793824.1,KF793824.1,"Bottlenose dolphin coronavirus HKU22 isolate CF090325, complete genome",11-MAR-2014,,31769,,1635.0,181.66666666666666
