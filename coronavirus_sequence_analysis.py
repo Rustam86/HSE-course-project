@@ -1059,6 +1059,6 @@ virus_taxa_species = {
     'Suncus murinus coronavirus X74': ('Eulipotyphla', 'Alphacoronavirus'),
     'Tylonycteris bat coronavirus HKU4': ('Bats', 'Betacoronavirus'),
     'White-eye coronavirus HKU16': ('Birds', 'Deltacoronavirus'),
-    'Wigeon coronavirus HKU2': ('Birds', 'Deltacoronavirus'),
+    'Wigeon coronavirus HKU20': ('Birds', 'Deltacoronavirus'),
     'SARS-CoV-2': ('Human', 'Betacoronavirus')
 }
