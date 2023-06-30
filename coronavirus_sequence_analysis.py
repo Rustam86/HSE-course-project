@@ -399,8 +399,8 @@ def plot_time_length_regression(df: pd.DataFrame, row_linkage: np.ndarray, color
                                 title: str = 'Time and ZNA length regression',
                                 remove_outliers: Tuple[bool, int] = (False, 3),
                                 figsize: Tuple[int, int] = (10, 5), point_size: int = 3,
-                                save: bool = False, normalize: bool = False, file_name: str = 'results',
-                                legend_loc: str = 'best', off: bool = False) -> None:
+                                save_figure: bool = False, normalize: bool = False, file_name: str = 'results',
+                                legend_loc: str = 'best', close_figure: bool = False) -> None:
     """
     This function plots a time-length regression.
 
@@ -412,7 +412,7 @@ def plot_time_length_regression(df: pd.DataFrame, row_linkage: np.ndarray, color
     remove_outliers (Tuple[bool, int]): A tuple indicating whether to remove outliers and the z-score threshold for outlier removal.
     figsize (Tuple[int, int]): The size of the figure.
     point_size (int): The size of the points in the scatter plot.
-    save (bool): Whether to save the figure as a PNG.
+    save_figure (bool): Whether to save the figure as a PNG.
     normalize (bool): Whether to normalize the data.
     file_name (str): The name of the file to save the figure as.
     legend_loc (str): The location of the legend.
@@ -506,12 +506,12 @@ def plot_time_length_regression(df: pd.DataFrame, row_linkage: np.ndarray, color
     plt.ylabel('Z-RNA Regions Length')
 
     # Save the figure if specified
-    if save:
+    if save_figure:
         plt.savefig(f"{file_name}_heatmap.png")
         plt.savefig(f"{file_name}_heatmap.pdf")
 
     # Close the figure if specified
-    if off:
+    if close_figure:
         plt.close()
 
     # Show the plot
