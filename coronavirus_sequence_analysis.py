@@ -257,7 +257,7 @@ def compute_jaccard_index(set_intervals1: List[Tuple[int, int]], set_intervals2:
 
 
 
-def create_clustered_dataframe(zrna_intervals_file_path: str, virus_name: str, dataframe_subset: pd.DataFrame) -> Tuple[pd.DataFrame, np.ndarray, int]:
+def create_clustered_dataframe(zrna_intervals_file_path: str, virus_name: str) -> Tuple[pd.DataFrame, np.ndarray, int]:
     """
     This function creates a clustered dataframe based on Jaccard indices of intervals.
 
@@ -279,9 +279,6 @@ def create_clustered_dataframe(zrna_intervals_file_path: str, virus_name: str, d
     # Check if there are enough sequences
     if len(sequence_ids) < 5:
         return 'Less than 5 sequences'
-
-    # Copy the dataframe subset
-    dataframe_subset_copy = dataframe_subset.copy()
 
     # Compute the Jaccard index matrix
     intervals_list = list(intervals_dict.items())
@@ -313,89 +310,61 @@ def create_clustered_dataframe(zrna_intervals_file_path: str, virus_name: str, d
 
 
 
-def plot_heatmap_with_dendrogram(clustered_dataframe: pd.DataFrame, row_linkage_matrix: np.ndarray, color_threshold: float, 
-                                 title: str = 'Heat map with dendrogram', figsize: Tuple[int, int] = (10, 10), 
-                                 save_figure: bool = False, file_name: str = 'results', close_figure: bool = False) -> None:
+def create_clustered_dataframe(zrna_intervals_file_path: str, virus_name: str) -> Tuple[pd.DataFrame, np.ndarray, int]:
     """
-    This function plots a heatmap with a dendrogram.
+    This function creates a clustered dataframe based on Jaccard indices of intervals.
 
     Parameters:
-    clustered_dataframe (pd.DataFrame): The clustered dataframe to be plotted.
-    row_linkage_matrix (np.ndarray): The hierarchical clustering encoded as a linkage matrix.
-    color_threshold (float): The color threshold for the dendrogram.
-    title (str): The title of the plot.
-    figsize (tuple): The size of the figure.
-    save_figure (bool): Whether to save the figure.
-    file_name (str): The name of the file to save the figure as.
-    close_figure (bool): Whether to close the figure after plotting.
+    zrna_intervals_file_path (str): The file containing Z-RNA interval data.
+    virus_name (str): The name of the virus.
+    dataframe_subset (pd.DataFrame): The subset of the dataframe to be clustered.
 
     Returns:
-    None
+    clustered_dataframe (pd.DataFrame): The clustered dataframe.
+    row_linkage_matrix (np.ndarray): The hierarchical clustering encoded as a linkage matrix.
+    optimal_color_threshold (int): The optimal color threshold for the clusters.
     """
 
-    # Create a figure to contain the plot elements
-    figure = plt.figure(figsize=figsize)
+    # Parse the intervals file
+    intervals_dict = parse_prediction_files(zrna_intervals_file_path)
+    sequence_ids = list(intervals_dict.keys())
 
-    # Create a gridspec to handle the layout
-    grid_spec = figure.add_gridspec(2, 2, width_ratios=[0.05, 1], height_ratios=[0.2, 1], wspace=0.02, hspace=0.02)
+    # Check if there are enough sequences
+    if len(sequence_ids) < 5:
+        return 'Less than 5 sequences'
 
-    # Add dendrogram on top
-    dendrogram_axis = figure.add_subplot(grid_spec[0, 1])
-    with plt.rc_context({'lines.linewidth': 0.5}):
-        dendrogram = dendrogram(row_linkage_matrix, ax=dendrogram_axis, orientation='top', color_threshold=color_threshold)
-    dendrogram_axis.axis('off')
+    # Compute the Jaccard index matrix
+    intervals_list = list(intervals_dict.items())
+    interval_count = len(intervals_list)
+    sequence_labels = [intervals_list[i][0] for i in range(interval_count)]
+    jaccard_index_matrix = [[compute_jaccard_index(intervals_list[i][1], intervals_list[j][1]) for j in range(interval_count)] for i in range(interval_count)]
+    jaccard_dataframe = pd.DataFrame(jaccard_index_matrix, index=sequence_labels, columns=sequence_labels)
 
-    # Assign each data point to a cluster
-    clusters = fcluster(row_linkage_matrix, color_threshold, criterion='distance')
+    # Perform hierarchical clustering on rows and columns
+    row_linkage_matrix = linkage(jaccard_dataframe.values, method='average', metric='euclidean')
+    column_linkage_matrix = linkage(jaccard_dataframe.values.T, method='average', metric='euclidean')
 
-    # Create a color map
-    color_map = {
-        1: "#1f77b4",
-        2: "#ff7f0e",
-        3: "#2ca02c",
-        4: "#d62728",
-        5: "#9467bd",
-        6: "#8c564b",
-        7: "#e377c2",
-        8: "#7f7f7f",
-        9: "#bcbd22",
-        10: "#17becf",
-        11: "#ff00ff",
-        12: "#00ffff",
-        13: "#ffff00",
-        14: "#800080",
-        15: "#008080",
-        16: "#008000",
-        17: "#800000",
-        18: "#000080",
-        19: "#808080",
-        20: "#ff0000"
-    }
+    # Reorder the dataframe based on the clustering
+    row_dendrogram = dendrogram(row_linkage_matrix, no_plot=True)
+    column_dendrogram = dendrogram(column_linkage_matrix, no_plot=True)
+    clustered_dataframe = jaccard_dataframe.iloc[row_dendrogram['leaves'], column_dendrogram['leaves']]
 
-    # Change the color of each line to match the cluster colors
-    for i, d, c in zip(dendrogram['icoord'], dendrogram['dcoord'], clusters):
-        for j in range(4):
-            x = 0.5 * sum(i[j:j+2])
-            y = d[j]
-            dendrogram_axis.plot(x, y, color=color_map[c])
+    # Find the optimal color threshold for the clusters
+    max_cluster_count = -1
+    optimal_color_threshold = -1
+    for color_threshold in range(2, 7):
+        cluster_index = fcluster(row_linkage_matrix, t=color_threshold, criterion='distance')
+        cluster_count = len(set(cluster_index))
+        if cluster_count <= 10 and cluster_count > max_cluster_count:
+            max_cluster_count = cluster_count
+            optimal_color_threshold = color_threshold
 
-    # Add heatmap
-    heatmap_axis = figure.add_subplot(grid_spec[1, 1])
-    sns.heatmap(clustered_dataframe, annot=False, ax=heatmap_axis, cbar=False, xticklabels=False, yticklabels=False)
-
-    # Add title to the entire figure
-    figure.suptitle(title, fontsize=10, y=0.91)
-
-    plt.tick_params(labelsize=5)
-    if save_figure:
-        plt.savefig(f"{file_name}_heatmap.png")
-        plt.savefig(f"{file_name}_heatmap.pdf")
-    if close_figure:
-        plt.close()
+    return clustered_dataframe, row_linkage_matrix, optimal_color_threshold
 
 
 
-def plot_time_length_regression(df: pd.DataFrame, row_linkage: np.ndarray, color_threshold: float,
+
+def plot_time_length_regression(meta_df: pd.DataFrame, clusterd_df: pd.DataFrame, row_linkage: np.ndarray, color_threshold: float,
                                 title: str = 'Time and ZNA length regression',
                                 remove_outliers: Tuple[bool, int] = (False, 3),
                                 figsize: Tuple[int, int] = (10, 5), point_size: int = 3,
@@ -423,14 +392,19 @@ def plot_time_length_regression(df: pd.DataFrame, row_linkage: np.ndarray, color
     """
 
     # Copy the dataframe
-    df_copy = df.copy()
+    clusterd_ids = clusterd_df.columns
+    clusterd_ids_dict = {k: v for v, k in enumerate(clusterd_ids)}
+    df_copy = meta_df[meta_df['Accession'].isin(clusterd_ids)]
+    df_copy['order'] = df_copy['Accession'].apply(clusterd_ids_dict.get)
+    df_copy = df_copy.sort_values('order').drop(columns='order')
+
 
     # Normalize the data if specified
     if normalize:
-        df_copy['Normalized_Length'] = df_copy['Intervals total length'] / df_copy.loc[df_copy['Accession'].isin(df_copy['Accession']), 'Sequence Length']
+        df_copy['Normalized_Length'] = df_copy['Intervals Total Length'] / df_copy.loc[df_copy['Accession'].isin(df_copy['Accession']), 'Sequence Length']
         length_column = 'Normalized_Length'
     else:
-        length_column = 'Intervals total length'
+        length_column = 'Intervals Total Length'
 
     # Assign each data point to a cluster
     df_copy['Clusters'] = fcluster(row_linkage, t=color_threshold, criterion='distance')
@@ -442,8 +416,8 @@ def plot_time_length_regression(df: pd.DataFrame, row_linkage: np.ndarray, color
 
     # Remove outliers if specified
     if remove_outliers[0]:
-        z_scores = df_copy[['Date_Ordinal', 'Intervals total length']].apply(lambda x: (x - x.mean()) / x.std())
-        df_copy = df_copy[(np.abs(z_scores['Date_Ordinal']) <= remove_outliers[1]) & (np.abs(z_scores['Intervals total length']) <= remove_outliers[1])]
+        z_scores = df_copy[['Date_Ordinal', 'Intervals Total Length']].apply(lambda x: (x - x.mean()) / x.std())
+        df_copy = df_copy[(np.abs(z_scores['Date_Ordinal']) <= remove_outliers[1]) & (np.abs(z_scores['Intervals Total Length']) <= remove_outliers[1])]
 
     # Create a color map
     color_map = {
@@ -456,17 +430,7 @@ def plot_time_length_regression(df: pd.DataFrame, row_linkage: np.ndarray, color
         7: "#e377c2",
         8: "#7f7f7f",
         9: "#bcbd22",
-        10: "#17becf",
-        11: "#ff00ff",
-        12: "#00ffff",
-        13: "#ffff00",
-        14: "#800080",
-        15: "#008080",
-        16: "#008000",
-        17: "#800000",
-        18: "#000080",
-        19: "#808080",
-        20: "#ff0000"
+        10: "#17becf"
     }
 
     # Fit a linear regression model
