@@ -747,10 +747,11 @@ def draw_boxplot_species(
 
     # Mapping English letters to Greek letters
     greek_dict = {
-        'a': r'$\alpha$', 'b': r'$\beta$', 'g': r'$\gamma$', 'd': r'$\delta$', 'e': r'$\epsilon$',
-        'z': r'$\zeta$', 'h': r'$\eta$', 'th': r'$\theta$', 'i': r'$\iota$', 'k': r'$\kappa$',
-        'l': r'$\lambda$', 'm': r'$\mu$', 'n': r'$\nu$', 'x': r'$\xi$', 'p': r'$\pi$', 'r': r'$\rho$',
-        's': r'$\sigma$', 't': r'$\tau$', 'ph': r'$\phi$', 'ch': r'$\chi$', 'ps': r'$\psi$', 'o': r'$\omega$'
+        'alphacoronavirus': r'$\alpha$', 
+        'betacoronavirus': r'$\beta$', 
+        'gammacoronavirus': r'$\gamma$', 
+        'deltacoronavirus': r'$\delta$',  
+        'alphapironavirus': r'$\pi$', 
     }
 
     # Specify the species groups
@@ -763,7 +764,7 @@ def draw_boxplot_species(
     data_subset = data_subset[data_subset['species'].isin(species_groups)]
 
     # Sort dataframe by species
-    data_subset = data_subset.sort_values(by='species')
+    data_subset = data_subset.sort_values(by=['species', 'name'])
 
     # Store the 'Intervals total length' for each category
     category_values = []
@@ -823,7 +824,7 @@ def draw_boxplot_species(
         taxa = data_subset[data_subset[category_label] == label_text.get_text()]['taxa'].unique()[0]
         # Convert first letter to Greek equivalent
         taxa = taxa.lower()
-        taxa_greek = greek_dict.get(taxa[:taxa.find('coronavirus')], taxa[0])
+        taxa_greek = greek_dict.get(taxa, taxa[0])
 
         # Update y position to below y=0 and set color based on taxa
         ax.text(
@@ -879,6 +880,7 @@ def draw_simple_barplot(data: Dict, title: str = 'Count of variants',
     # Show the plot
     plt.show()
 
+
 # Data
 data_6M = {
     'Alpha': 545082,
@@ -895,6 +897,7 @@ data_6M = {
     'Zeta': 1309,
     'Unknown': 3060362
 }
+
 
 data_4k = {
     'Alpha': 304,
@@ -969,8 +972,7 @@ def draw_boxplot_who(
     plt.show()
 
 
-
-virus_taxa_species = {
+VIRUS_TAXA_SPECIES = {
     'Alphacoronavirus 1': ('Cats/Dogs/Swine', 'Alphacoronavirus'),
     'Alphacoronavirus AMALF': ('Bats', 'Alphacoronavirus'),
     'Alphacoronavirus BT020': ('Bats', 'Alphacoronavirus'),
