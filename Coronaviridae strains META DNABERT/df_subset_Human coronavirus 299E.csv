@@ -1,0 +1,113 @@
+,GenBank ID,Accession,Description,Collection Date,Geographic Location,Sequence Length,Host,Intervals total length,Intervals mean length
+0,MT797634.1,MT797634.1,"Human coronavirus 229E isolate HK20-42, complete genome",2020-01,['Hong Kong'],27261,Homo sapiens,750.0,150.0
+1,KY996417.1,KY996417.1,"Human coronavirus 229E strain 229E/UF-1/2016, complete genome",23-Nov-2016,['USA'],27270,,1436.0,359.0
+2,KF293666.1,KF293666.1,"Human coronavirus 229E clone K22-p11, partial genome",01-OCT-2013,['Sweden'],26897,Homo sapiens,1146.0,163.71428571428572
+3,KF293665.1,KF293665.1,"Human coronavirus 229E clone mock-p11, partial genome",01-OCT-2013,['Sweden'],26897,Homo sapiens,1146.0,163.71428571428572
+4,KF293664.1,KF293664.1,"Human coronavirus 229E clone p0, partial genome",01-OCT-2013,['Sweden'],26897,Homo sapiens,1146.0,163.71428571428572
+5,JX503061.1,JX503061.1,"Human coronavirus 229E isolate J0304, complete genome",2009,['Italy'],27208,Homo sapiens,807.0,115.28571428571429
+6,JX503060.1,JX503060.1,"Human coronavirus 229E isolate 0349, complete genome",2010,['Netherlands'],27263,Homo sapiens,1436.0,359.0
+7,OK073084.1,OK073084.1,"Human coronavirus 229E strain P42, complete genome",2017,['China'],27239,Homo sapiens,864.0,123.42857142857143
+8,OK073083.1,OK073083.1,"Human coronavirus 229E strain RS15, complete genome",2017,['China'],27282,Homo sapiens,745.0,149.0
+9,OK073082.1,OK073082.1,"Human coronavirus 229E strain R41, complete genome",2018,['China'],27267,Homo sapiens,905.0,129.28571428571428
+10,OK073081.1,OK073081.1,"Human coronavirus 229E strain R39, complete genome",2018,['China'],27284,Homo sapiens,640.0,106.66666666666667
+11,OK073080.1,OK073080.1,"Human coronavirus 229E strain R35, complete genome",2018,['China'],27213,Homo sapiens,714.0,178.5
+12,OK073079.1,OK073079.1,"Human coronavirus 229E strain R22, complete genome",2018,['China'],27284,Homo sapiens,722.0,144.4
+13,OK073078.1,OK073078.1,"Human coronavirus 229E strain R10, complete genome",2017,['China'],27228,Homo sapiens,951.0,190.2
+14,OK073077.1,OK073077.1,"Human coronavirus 229E strain R2, complete genome",2018,['China'],27284,Homo sapiens,722.0,144.4
+15,LC654445.1,LC654445.1,"Human coronavirus 229E Fukushima_H829_2020 RNA, complete genome",2020,['Japan: Fukushima'],27263,Homo sapiens,653.0,326.5
+16,ON729316.1,ON729316.1,"Human coronavirus 229E strain SC0678, complete genome",2019,['USA'],27211,Homo sapiens,640.0,160.0
+17,ON791801.1,ON791801.1,"Human coronavirus 229E strain LC22, complete genome",2022,['USA'],27284,Homo sapiens,741.0,148.2
+18,KY621348.1,KY621348.1,"Human coronavirus 229E strain HCoV_229E/Seattle/USA/SC379/2016, complete genome",2016,['USA'],27144,Homo sapiens,726.0,145.2
+19,KY674914.1,KY674914.1,"Human coronavirus 229E strain HCoV_229E/Seattle/USA/SC399/2016, complete genome",2016,['USA'],27055,Homo sapiens,528.0,264.0
+20,KY369909.2,KY369909.2,"Human coronavirus 229E strain HCoV_229E/Seattle/USA/SC677/2016, complete genome",2016,['USA'],26592,Homo sapiens,1076.0,119.55555555555556
+21,KY369914.1,KY369914.1,"Human coronavirus 229E strain HCoV_229E/Seattle/USA/SC9773/2016, complete genome",2016,['USA'],27231,Homo sapiens,653.0,326.5
+22,KY369912.1,KY369912.1,"Human coronavirus 229E strain HCoV_229E/Seattle/USA/SC9731/2016, complete genome",2016,['USA'],27208,Homo sapiens,907.0,75.58333333333333
+23,KY983587.1,KY983587.1,"Human coronavirus 229E strain HCoV_229E/Seattle/USA/SC3112/2015, complete genome",2015,['USA'],27235,Homo sapiens,734.0,146.8
+24,KY967357.1,KY967357.1,"Human coronavirus 229E strain HCoV_229E/Seattle/USA/SC2872/2015, complete genome",2015,['USA'],27242,Homo sapiens,709.0,101.28571428571429
+25,KY684760.1,KY684760.1,"Human coronavirus 229E strain HCoV_229E/Seattle/USA/SC2282/2017, complete genome",2016,['USA'],27249,Homo sapiens,741.0,148.2
+26,MZ712010.1,MZ712010.1,"Human coronavirus 229E strain KBPV-VR-9, partial genome",Jun-2017,['South Korea'],27254,Homo sapiens,1120.0,112.0
+27,OK662398.1,OK662398.1,"Human coronavirus 229E strain TKU-2021B, complete genome",2021,['Finland'],27317,Homo sapiens,744.0,248.0
+28,MH828489.1,MH828489.1,"Human coronavirus 229E strain vzcorona-a3 nonfunctional replicase polyprotein 1ab gene, complete sequence",22-Oct-2013,['Viet Nam'],27242,Homo sapiens,658.0,329.0
+29,LC654446.1,LC654446.1,"Human coronavirus 229E Fukushima_H832_2020 RNA, complete genome",2020,['Japan: Fukushima'],27267,Homo sapiens,595.0,119.0
+30,AB691767.2,AB691767.2,"Human coronavirus 229E Niigata/01/08 RNA, complete genome",2008,['Japan: Niigata'],27252,Homo sapiens,767.0,191.75
+31,AB691766.2,AB691766.2,"Human coronavirus 229E Sendai-H/1948/04 RNA, complete genome",2004,"['Japan: Miyagi, Sendai']",27245,Homo sapiens,1478.0,123.16666666666667
+32,AB691765.2,AB691765.2,"Human coronavirus 229E Sendai-H/826/04 RNA, complete genome",2004,"['Japan: Miyagi, Sendai']",27250,Homo sapiens,1358.0,123.45454545454545
+33,AB691764.2,AB691764.2,"Human coronavirus 229E Sendai-H/1121/04 RNA, complete genome",2004,"['Japan: Miyagi, Sendai']",27259,Homo sapiens,887.0,177.4
+34,MW587038.1,MW587038.1,"Human coronavirus 229E isolate S0959FBW ORF1ab polyprotein (ORF1ab), ORF1a polyprotein (ORF1a), surface glycoprotein (S), ORF4 protein (ORF4), envelope protein (E), membrane protein (M), and nucleocapsid protein (N) genes, complete cds",May-2016/Dec-2017,['China'],27162,Homo sapiens,495.0,247.5
+35,MW587037.1,MW587037.1,"Human coronavirus 229E isolate S0970XLQ ORF1ab polyprotein (ORF1ab), ORF1a polyprotein (ORF1a), surface glycoprotein (S), ORF4 protein (ORF4), envelope protein (E), membrane protein (M), and nucleocapsid protein (N) genes, complete cds",May-2016/Dec-2017,['China'],27250,Homo sapiens,642.0,80.25
+36,MW587036.1,MW587036.1,"Human coronavirus 229E isolate S1004CFR ORF1ab polyprotein (ORF1ab), ORF1a polyprotein (ORF1a), surface glycoprotein (S), ORF4 protein (ORF4), envelope protein (E), membrane protein (M), and nucleocapsid protein (N) genes, complete cds",May-2016/Dec-2017,['China'],27128,Homo sapiens,465.0,38.75
+37,MW587035.1,MW587035.1,"Human coronavirus 229E isolate S0677SP ORF1ab polyprotein (ORF1ab), ORF1a polyprotein (ORF1a), surface glycoprotein (S), ORF4 protein (ORF4), envelope protein (E), membrane protein (M), and nucleocapsid protein (N) genes, complete cds",May-2016/Dec-2017,['China'],27174,Homo sapiens,645.0,107.5
+38,OK625404.1,OK625404.1,"Human coronavirus 229E strain ATCC VR-740, partial genome",2017,['South Korea'],27270,Homo sapiens,973.0,162.16666666666666
+39,MW202340.1,MW202340.1,"MAG: Human coronavirus 229E isolate 229E_S220, complete genome",2018,['USA'],27230,Homo sapiens,958.0,119.75
+40,NC_002645.1,NC_002645.1,"Human coronavirus 229E, complete genome",17-AUG-2021,,27317,,744.0,248.0
+41,KY674919.1,KY674919.1,"Human coronavirus 229E strain N08-434B, complete genome",2008,['USA'],27136,Homo sapiens,491.0,70.14285714285714
+42,MW532107.1,MW532107.1,"Human coronavirus 229E strain 229E/China/02/2009, complete genome",15-Apr-2009,['China'],27237,Homo sapiens,951.0,317.0
+43,MW532106.1,MW532106.1,"Human coronavirus 229E strain 229E/China/01/2009, complete genome",09-Jun-2009,['China'],27167,Homo sapiens,1279.0,639.5
+44,MW532105.1,MW532105.1,"Human coronavirus 229E strain 229E/China/05/2017, complete genome",06-Sep-2017,['China'],27237,Homo sapiens,972.0,324.0
+45,MW532104.1,MW532104.1,"Human coronavirus 229E strain 229E/China/04/2017, complete genome",02-Aug-2017,['China'],27234,Homo sapiens,949.0,237.25
+46,MW532103.1,MW532103.1,"Human coronavirus 229E strain 229E/China/03/2017, complete genome",02-May-2017,['China'],27161,Homo sapiens,764.0,382.0
+47,MT118677.1,MT118677.1,"Human coronavirus 229E strain 2018_9879, partial genome",2018,['USA'],27241,Homo sapiens,741.0,148.2
+48,MW039392.1,MW039392.1,"Human coronavirus 229E isolate HCoV 229E/human/ITA/TE5146/2020 replicase polyprotein 1ab and replicase polyprotein 1a genes, partial cds; and spike protein, ORF4a, ORF4b, envelope protein, membrane protein, and nucleocapsid protein genes, complete cds",18-Mar-2020,['Italy: Atri-Teramo'],26811,Homo sapiens; male,0.0,
+49,MT438700.1,MT438700.1,"Human coronavirus 229E isolate HCoV-229E/USA/UAMS_DID_0108/2017, complete genome",27-Jan-2017,"['USA: Little Rock, Arkansas']",27307,Homo sapiens,693.0,138.6
+50,MT438699.1,MT438699.1,"Human coronavirus 229E isolate HCoV-229E/USA/ACRI_0246/2017, complete genome",27-Feb-2017,"['USA: Little Rock, Arkansas']",27060,Homo sapiens,626.0,313.0
+51,MT438698.1,MT438698.1,"Human coronavirus 229E isolate HCoV-229E/USA/ACRI_0256/2017, complete genome",24-Feb-2017,"['USA: Little Rock, Arkansas']",27297,Homo sapiens,643.0,128.6
+52,MT438697.1,MT438697.1,"Human coronavirus 229E isolate HCoV-229E/USA/ACRI_0244/2017, complete genome",24-Feb-2017,"['USA: Little Rock, Arkansas']",27305,Homo sapiens,670.0,223.33333333333334
+53,MT438696.1,MT438696.1,"Human coronavirus 229E isolate HCoV-229E/USA/UNM_0186/2016, complete genome",09-Feb-2016,"['USA: Albuquerque, New Mexico']",27297,Homo sapiens,898.0,89.8
+54,MN369046.1,MN369046.1,"Human coronavirus 229E strain HCoV_229E/Seattle/USA/SC9724/2018, complete genome",2018,['USA'],27075,Homo sapiens,736.0,92.0
+55,MN306046.1,MN306046.1,"Human coronavirus 229E strain HCoV_229E/Seattle/USA/SC0865/2019, complete genome",2019,['USA'],27270,Homo sapiens,1148.0,191.33333333333334
+56,KY369913.1,KY369913.1,"Human coronavirus 229E strain HCoV_229E/Seattle/USA/SC1073/2016, complete genome",2016,['USA'],27238,Homo sapiens,889.0,111.125
+57,KY369911.1,KY369911.1,"Human coronavirus 229E strain HCoV_229E/Seattle/USA/SC1212/2016, complete genome",2016,['USA'],27226,Homo sapiens,969.0,242.25
+58,KY369910.1,KY369910.1,"Human coronavirus 229E strain HCoV_229E/Seattle/USA/SC1143/2016, complete genome",2016,['USA'],27182,Homo sapiens,977.0,108.55555555555556
+59,KY369908.1,KY369908.1,"Human coronavirus 229E strain HCoV_229E/Seattle/USA/SC579/2016, complete genome",2016,['USA'],27193,Homo sapiens,1319.0,329.75
+60,MF542265.1,MF542265.1,"Human coronavirus 229E strain 229E/Haiti-1/2016, complete genome",Mar-2016,['Haiti'],27271,Homo sapiens,1148.0,191.33333333333334
+61,KU291448.1,KU291448.1,"Human coronavirus 229E isolate HCoV-229E/BN1/GER/2015, complete genome",2015,['Germany'],27022,Homo sapiens,496.0,248.0
+62,KF514433.1,KF514433.1,"Human coronavirus 229E strain 229E/human/USA/933-40/1993, complete genome",11-Mar-1993,"['USA: Nashville, TN']",27165,Homo sapiens; sex: F; age: 12Y,1243.0,138.11111111111111
+63,KF514432.1,KF514432.1,"Human coronavirus 229E strain 229E/human/USA/932-72/1993, complete genome",22-Feb-1993,"['USA: Nashville, TN']",27138,Homo sapiens; sex: F; age: 8Y,959.0,191.8
+64,KF514431.1,KF514431.1,"Human coronavirus 229E strain 229E/human/USA/953-49/1995, partial genome",23-Mar-1995,"['USA: Nashville, TN']",27117,Homo sapiens; sex: M; age: 8Y,964.0,160.66666666666666
+65,KF514430.1,KF514430.1,"Human coronavirus 229E strain 229E/human/USA/933-50/1993, complete genome",18-Mar-1993,"['USA: Nashville, TN']",27169,Homo sapiens; sex: M; age: 4Y,1560.0,260.0
+66,KF514429.1,KF514429.1,"Human coronavirus 229E strain 229E/human/USA/892-11/1989, partial genome",07-Feb-1989,"['USA: Nashville, TN']",27163,Homo sapiens; sex: M; age: 16Y,1499.0,136.27272727272728
+67,AF304460.1,AF304460.1,"Human coronavirus 229E, complete genome",11-JUL-2001,,27317,,744.0,248.0
+68,KT253272.1,KT253272.1,"229E-related bat coronavirus isolate BtCoV/AT1A-F1/Hip_aba/GHA/2010 orf1ab, orf1a, spike glycoprotein, orf4, E, M, N, and orf8 genes, complete cds",2010,['Ghana'],28688,Hipposideros abae,1378.0,153.11111111111111
+69,KT253271.1,KT253271.1,"229E-related bat coronavirus isolate BtCoV/KW2E-F56/Hip_cf._rub/GHA/2011 orf1ab, orf1a, spike glycoprotein, orf4, E, M, N, and orf8 genes, complete cds",2011,['Ghana'],28754,Hipposideros cf. ruber,3627.0,259.07142857142856
+70,KT253270.1,KT253270.1,"229E-related bat coronavirus isolate BtCoV/FO1A-F2/Hip_aba/GHA/2010 orf1ab, orf1a, spike glycoprotein, orf4, E, M, N, and orf8 genes, complete cds",2010,['Ghana'],28020,Hipposideros abae,1766.0,294.3333333333333
+71,KT253269.1,KT253269.1,"229E-related bat coronavirus isolate BtCoV/KW2E-F151/Hip_cf._rub/GHA/2011 orf1ab, orf1a, spike glycoprotein, orf4, E, M, N, and orf8 genes, complete cds",2011,['Ghana'],28026,Hipposideros cf. ruber,2201.0,366.8333333333333
+72,JQ410000.1,JQ410000.1,"Alpaca respiratory coronavirus isolate CA08-1/2008, complete genome",2008,['USA'],27374,Vicugna pacos,1473.0,184.125
+73,NC_028752.1,NC_028752.1,"Camel alphacoronavirus isolate camel/Riyadh/Ry141/2015, complete genome",Mar-2015,['Saudi Arabia'],27395,camel,1913.0,106.27777777777777
+74,MF593473.1,MF593473.1,"Camel alphacoronavirus Abu Dhabi B38, complete genome",2015,['United Arab Emirates'],27389,camel,1764.0,117.6
+75,KY073748.1,KY073748.1,"229E-related bat coronavirus strain BtKY229E-8, complete genome",Jun-2010,['Kenya'],27636,Hipposideros vittatus,1335.0,166.875
+76,KY073747.1,KY073747.1,"229E-related bat coronavirus strain BtKY229E-1, complete genome",20-Jun-2009,['Kenya'],27837,Hipposideros sp.,1058.0,58.77777777777778
+77,KT253328.1,KT253328.1,"Camel alphacoronavirus Camel229E isolate Camel229E-CoV/JC50_HUH7/KSA/2014, complete genome",2014,['Saudi Arabia'],27270,Camelus dromedarius,840.0,168.0
+78,KT253327.1,KT253327.1,"Camel alphacoronavirus Camel229E isolate Camel229E-CoV/AC04/KSA/2014, complete genome",2014,['Saudi Arabia'],27241,Camelus dromedarius,845.0,211.25
+79,KT253326.1,KT253326.1,"Camel alphacoronavirus Camel229E isolate Camel229E-CoV/JC52/KSA/2014, complete genome",2014,['Saudi Arabia'],27193,Camelus dromedarius,839.0,209.75
+80,KT253325.1,KT253325.1,"Camel alphacoronavirus Camel229E isolate Camel229E-CoV/JC49/KSA/2014, complete genome",2014,['Saudi Arabia'],27193,Camelus dromedarius,839.0,209.75
+81,KT253324.1,KT253324.1,"Camel alphacoronavirus Camel229E isolate Camel229E-CoV/JC50/KSA/2014, complete genome",2014,['Saudi Arabia'],27395,Camelus dromedarius,1914.0,106.33333333333333
+82,KU291449.1,KU291449.1,"Camel alphacoronavirus Camel229E isolate Camel229E-CoV/KCSP1/KEN/2015, complete genome",2015,['Kenya'],27164,Camelus dromedarius,941.0,104.55555555555556
+83,KT368916.1,KT368916.1,"Camel alphacoronavirus isolate camel/Taif/T193/2015, complete genome",Mar-2015,['Saudi Arabia'],27390,camel,1922.0,87.36363636363636
+84,KT368915.1,KT368915.1,"Camel alphacoronavirus isolate camel/Taif/T157(a)/2015, complete genome",Mar-2015,['Saudi Arabia'],27392,camel,1791.0,111.9375
+85,KT368914.1,KT368914.1,"Camel alphacoronavirus isolate camel/Taif/T96/2015, complete genome",Apr-2015,['Saudi Arabia'],27392,camel,1764.0,117.6
+86,KT368913.1,KT368913.1,"Camel alphacoronavirus isolate camel/Taif/T91(a)/2015, complete genome",Apr-2015,['Saudi Arabia'],27388,camel,1764.0,117.6
+87,KT368912.1,KT368912.1,"Camel alphacoronavirus isolate camel/Jeddah/Jd28/2015, complete genome",Jan-2015,['Saudi Arabia'],27395,camel,1750.0,125.0
+88,KT368911.1,KT368911.1,"Camel alphacoronavirus isolate camel/Jeddah/Jd8/2015, complete genome",Jan-2015,['Saudi Arabia'],27393,camel,1750.0,125.0
+89,KT368910.1,KT368910.1,"Camel alphacoronavirus isolate camel/Jeddah/Jd6(a)/2015, complete genome",Jan-2015,['Saudi Arabia'],27387,camel,1764.0,117.6
+90,KT368909.1,KT368909.1,"Camel alphacoronavirus isolate camel/Jeddah/Jd1(a)/2015, complete genome",Jan-2015,['Saudi Arabia'],27386,camel,1764.0,117.6
+91,KT368908.1,KT368908.1,"Camel alphacoronavirus isolate camel/Riyadh/Ry159(a)/2015, complete genome",Mar-2015,['Saudi Arabia'],27395,camel,1912.0,91.04761904761905
+92,KT368907.1,KT368907.1,"Camel alphacoronavirus isolate camel/Riyadh/Ry141/2015, complete genome",Mar-2015,['Saudi Arabia'],27395,camel,1913.0,106.27777777777777
+93,KT368906.1,KT368906.1,"Camel alphacoronavirus isolate camel/Jeddah/D50(a)/2014, complete genome",Dec-2014,['Saudi Arabia'],27395,camel,1781.0,161.9090909090909
+94,KT368905.1,KT368905.1,"Camel alphacoronavirus isolate camel/Jeddah/D46(a)/2014, complete genome",Dec-2014,['Saudi Arabia'],27397,camel,1750.0,125.0
+95,KT368904.1,KT368904.1,"Camel alphacoronavirus isolate camel/Jeddah/D43(a)/2014, complete genome",Dec-2014,['Saudi Arabia'],27395,camel,1750.0,125.0
+96,KT368903.1,KT368903.1,"Camel alphacoronavirus isolate camel/Jeddah/D38(a)/2014, complete genome",Dec-2014,['Saudi Arabia'],27384,camel,1843.0,83.77272727272727
+97,KT368902.1,KT368902.1,"Camel alphacoronavirus isolate camel/Jeddah/D33(a)/2014, complete genome",Dec-2014,['Saudi Arabia'],27396,camel,1764.0,117.6
+98,KT368901.1,KT368901.1,"Camel alphacoronavirus isolate camel/Jeddah/N68(a)/2014, complete genome",Nov-2014,['Saudi Arabia'],27396,camel,1788.0,111.75
+99,KT368900.1,KT368900.1,"Camel alphacoronavirus isolate camel/Jeddah/N62(a)/2014, complete genome",Nov-2014,['Saudi Arabia'],27390,camel,1842.0,92.1
+100,KT368899.1,KT368899.1,"Camel alphacoronavirus isolate camel/Jeddah/N60/2014, complete genome",Nov-2014,['Saudi Arabia'],27390,camel,1764.0,117.6
+101,KT368898.1,KT368898.1,"Camel alphacoronavirus isolate camel/Jeddah/N38/2014, complete genome",Nov-2014,['Saudi Arabia'],27395,camel,1774.0,110.875
+102,KT368897.1,KT368897.1,"Camel alphacoronavirus isolate camel/Jeddah/O100/2014, complete genome",Oct-2014,['Saudi Arabia'],27395,camel,1767.0,126.21428571428571
+103,KT368896.1,KT368896.1,"Camel alphacoronavirus isolate camel/Jeddah/O47(a)/2014, complete genome",Oct-2014,['Saudi Arabia'],27389,camel,1764.0,117.6
+104,KT368895.1,KT368895.1,"Camel alphacoronavirus isolate camel/Jeddah/O23(a)/2014, complete genome",Oct-2014,['Saudi Arabia'],27396,camel,1764.0,117.6
+105,KT368894.1,KT368894.1,"Camel alphacoronavirus isolate camel/Jeddah/Jd63/2014, complete genome",Jun-2014,['Saudi Arabia'],27397,camel,1737.0,108.5625
+106,KT368893.1,KT368893.1,"Camel alphacoronavirus isolate camel/Jeddah/Jd55/2014, complete genome",Jun-2014,['Saudi Arabia'],27386,camel,1764.0,117.6
+107,KT368892.1,KT368892.1,"Camel alphacoronavirus isolate camel/Jeddah/Jd29/2014, complete genome",Jun-2014,['Saudi Arabia'],27391,camel,1764.0,117.6
+108,JACTAM010002747.1,JACTAM010002747.1,"Labeo rohita strain BAU-BD-2019 scaffold_888, whole genome shotgun sequence",14-SEP-2022,,33530,,3397.0,308.8181818181818
+109,MT786446.1,MT786446.1,"Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/human/HKG/HK13/2020, complete genome",2020-01,['Hong Kong'],29888,Homo sapiens,1017.0,145.28571428571428
+110,NC_003436.1,NC_003436.1,"Porcine epidemic diarrhea virus, complete genome",13-AUG-2018,,28033,,2296.0,191.33333333333334
+111,AF353511.1,AF353511.1,"Porcine epidemic diarrhea virus strain CV777, complete genome",29-NOV-2001,,28033,,2296.0,191.33333333333334
