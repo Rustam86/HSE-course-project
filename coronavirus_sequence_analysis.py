@@ -426,7 +426,7 @@ def plot_time_length_regression(meta_df: pd.DataFrame, clusterd_df: pd.DataFrame
     plt.show()
 
 
-def create_genbank_info_df_prog(intervals_file: str, show_progress: bool = False) -> pd.DataFrame:
+def create_genbank_info_df_prog(intervals: Dict, show_progress: bool = False) -> pd.DataFrame:
     """
     This function fetches information for each GenBank ID from the NCBI database and stores it in a pandas DataFrame.
 
@@ -438,7 +438,6 @@ def create_genbank_info_df_prog(intervals_file: str, show_progress: bool = False
     - df (pd.DataFrame): A pandas DataFrame containing the fetched information.
     """
 
-    intervals = parse_prediction_files(intervals_file)
     ids =  list(intervals.keys())
 
     # Entrez email (required for accessing NCBI databases)
