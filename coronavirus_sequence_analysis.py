@@ -1,7 +1,7 @@
 import os
 import subprocess
 import tempfile
-from typing import List, Tuple, Dict
+from typing import Dict, List, Tuple, Callable
 
 import matplotlib.pyplot as plt
 import numpy as np
@@ -106,7 +106,7 @@ def run_zdnabert(sequence: str, model: BertForTokenClassification, tokenizer: Be
     return labeled_regions
 
 
-def run_zhunt(sequence: str, zhunt_path: str, window_size: int = 6, min_size: int = 3, max_size: int = 6) -> List[Tuple[int, int]]:
+def run_zhunt(sequence: str, zhunt_path: str, score: int = 500, window_size: int = 6, min_size: int = 3, max_size: int = 6) -> List[Tuple[int, int]]:
     """
     Run the ZHunt program to predict Z-DNA forming regions in a DNA sequence.
 
@@ -121,7 +121,7 @@ def run_zhunt(sequence: str, zhunt_path: str, window_size: int = 6, min_size: in
     List[Tuple[int, int]]: A list of tuples representing the start and end positions of the predicted Z-DNA forming regions.
     """
     # Ensure the sequence only contains valid DNA bases
-    assert set(sequence).issubset({"A", "C", "G", "T", "N"}), "Invalid DNA sequence"
+    # assert set(sequence).issubset({"A", "C", "G", "T", "N"}), "Invalid DNA sequence"
 
     # Create a temporary file
     file_descriptor, temp_file_path = tempfile.mkstemp()
@@ -142,12 +142,12 @@ def run_zhunt(sequence: str, zhunt_path: str, window_size: int = 6, min_size: in
         # Read the ZHunt output into a DataFrame
         with open(temp_file_path + ".Z-SCORE", 'r') as zhunt_output:
             output_data = pd.read_csv(zhunt_output,
-                             names=['Start', 'End', 'nu-1', 'nu-2', 'nu-3', 
+                             names=['Start', 'End', 'nu-1', 'nu-2', 'nu-3',
                                     'ZH-Score', 'Sequence', 'Conformation'],
                              skiprows=1, sep='\s+')
 
         # Filter the DataFrame to only include rows with a ZH-Score greater than 500
-        filtered_data = output_data[output_data['ZH-Score'] > 500]
+        filtered_data = output_data[output_data['ZH-Score'] > score]
 
         # Return a list of tuples representing the start and end positions of the predicted Z-DNA forming regions
         return list(zip(filtered_data['Start'], filtered_data['End']))
@@ -256,7 +256,6 @@ def compute_jaccard_index(set_intervals1: List[Tuple[int, int]], set_intervals2:
     return jaccard_index
 
 
-
 def create_clustered_dataframe(zrna_intervals_file_path: str, virus_name: str) -> Tuple[pd.DataFrame, np.ndarray, int]:
     """
     This function creates a clustered dataframe based on Jaccard indices of intervals.
@@ -307,61 +306,6 @@ def create_clustered_dataframe(zrna_intervals_file_path: str, virus_name: str) -
             optimal_color_threshold = color_threshold
 
     return clustered_dataframe, row_linkage_matrix, optimal_color_threshold
-
-
-
-def create_clustered_dataframe(zrna_intervals_file_path: str, virus_name: str) -> Tuple[pd.DataFrame, np.ndarray, int]:
-    """
-    This function creates a clustered dataframe based on Jaccard indices of intervals.
-
-    Parameters:
-    zrna_intervals_file_path (str): The file containing Z-RNA interval data.
-    virus_name (str): The name of the virus.
-    dataframe_subset (pd.DataFrame): The subset of the dataframe to be clustered.
-
-    Returns:
-    clustered_dataframe (pd.DataFrame): The clustered dataframe.
-    row_linkage_matrix (np.ndarray): The hierarchical clustering encoded as a linkage matrix.
-    optimal_color_threshold (int): The optimal color threshold for the clusters.
-    """
-
-    # Parse the intervals file
-    intervals_dict = parse_prediction_files(zrna_intervals_file_path)
-    sequence_ids = list(intervals_dict.keys())
-
-    # Check if there are enough sequences
-    if len(sequence_ids) < 5:
-        return 'Less than 5 sequences'
-
-    # Compute the Jaccard index matrix
-    intervals_list = list(intervals_dict.items())
-    interval_count = len(intervals_list)
-    sequence_labels = [intervals_list[i][0] for i in range(interval_count)]
-    jaccard_index_matrix = [[compute_jaccard_index(intervals_list[i][1], intervals_list[j][1]) for j in range(interval_count)] for i in range(interval_count)]
-    jaccard_dataframe = pd.DataFrame(jaccard_index_matrix, index=sequence_labels, columns=sequence_labels)
-
-    # Perform hierarchical clustering on rows and columns
-    row_linkage_matrix = linkage(jaccard_dataframe.values, method='average', metric='euclidean')
-    column_linkage_matrix = linkage(jaccard_dataframe.values.T, method='average', metric='euclidean')
-
-    # Reorder the dataframe based on the clustering
-    row_dendrogram = dendrogram(row_linkage_matrix, no_plot=True)
-    column_dendrogram = dendrogram(column_linkage_matrix, no_plot=True)
-    clustered_dataframe = jaccard_dataframe.iloc[row_dendrogram['leaves'], column_dendrogram['leaves']]
-
-    # Find the optimal color threshold for the clusters
-    max_cluster_count = -1
-    optimal_color_threshold = -1
-    for color_threshold in range(2, 7):
-        cluster_index = fcluster(row_linkage_matrix, t=color_threshold, criterion='distance')
-        cluster_count = len(set(cluster_index))
-        if cluster_count <= 10 and cluster_count > max_cluster_count:
-            max_cluster_count = cluster_count
-            optimal_color_threshold = color_threshold
-
-    return clustered_dataframe, row_linkage_matrix, optimal_color_threshold
-
-
 
 
 def plot_time_length_regression(meta_df: pd.DataFrame, clusterd_df: pd.DataFrame, row_linkage: np.ndarray, color_threshold: float,
@@ -480,7 +424,6 @@ def plot_time_length_regression(meta_df: pd.DataFrame, clusterd_df: pd.DataFrame
 
     # Show the plot
     plt.show()
-
 
 
 def create_genbank_info_df_prog(intervals_file: str, show_progress: bool = False) -> pd.DataFrame:
@@ -1028,3 +971,110 @@ VIRUS_TAXA_SPECIES = {
     'Wigeon coronavirus HKU20': ('Birds', 'Deltacoronavirus'),
     'SARS-CoV-2': ('Human', 'Betacoronavirus')
 }
+
+
+def plot_heatmap_with_dendrogram(clustered_dataframe: pd.DataFrame, row_linkage_matrix: np.ndarray, color_threshold: float,
+                                 title: str = 'Heat map with dendrogram', figsize: Tuple[int, int] = (10, 10),
+                                 save_figure: bool = False, file_name: str = 'results', close_figure: bool = False) -> None:
+    """
+    This function plots a heatmap with a dendrogram.
+
+    Parameters:
+    clustered_dataframe (pd.DataFrame): The clustered dataframe to be plotted.
+    row_linkage_matrix (np.ndarray): The hierarchical clustering encoded as a linkage matrix.
+    color_threshold (float): The color threshold for the dendrogram.
+    title (str): The title of the plot.
+    figsize (tuple): The size of the figure.
+    save_figure (bool): Whether to save the figure.
+    file_name (str): The name of the file to save the figure as.
+    close_figure (bool): Whether to close the figure after plotting.
+
+    Returns:
+    None
+    """
+
+    # Create a figure to contain the plot elements
+    figure = plt.figure(figsize=figsize)
+
+    # Create a gridspec to handle the layout
+    grid_spec = figure.add_gridspec(2, 2, width_ratios=[0.05, 1], height_ratios=[0.2, 1], wspace=0.02, hspace=0.02)
+
+    # Add dendrogram on top
+    dendrogram_axis = figure.add_subplot(grid_spec[0, 1])
+    with plt.rc_context({'lines.linewidth': 0.5}):
+        dendro = dendrogram(row_linkage_matrix, ax=dendrogram_axis, orientation='top', color_threshold=color_threshold)
+    dendrogram_axis.axis('off')
+
+    # Assign each data point to a cluster
+    clusters = fcluster(row_linkage_matrix, color_threshold, criterion='distance')
+
+    # Create a color map
+    color_map = {
+        1: "#1f77b4",
+        2: "#ff7f0e",
+        3: "#2ca02c",
+        4: "#d62728",
+        5: "#9467bd",
+        6: "#8c564b",
+        7: "#e377c2",
+        8: "#7f7f7f",
+        9: "#bcbd22",
+        10: "#17becf",
+        11: "#ff00ff",
+        12: "#00ffff",
+        13: "#ffff00",
+        14: "#800080",
+        15: "#008080",
+        16: "#008000",
+        17: "#800000",
+        18: "#000080",
+        19: "#808080",
+        20: "#ff0000"
+    }
+
+    # Change the color of each line to match the cluster colors
+    for i, d, c in zip(dendro['icoord'], dendro['dcoord'], clusters):
+        for j in range(4):
+            x = 0.5 * sum(i[j:j+2])
+            y = d[j]
+            dendrogram_axis.plot(x, y, color=color_map[c])
+
+    # Add heatmap
+    heatmap_axis = figure.add_subplot(grid_spec[1, 1])
+    sns.heatmap(clustered_dataframe, annot=False, ax=heatmap_axis, cbar=False, xticklabels=False, yticklabels=False)
+
+    # Add title to the entire figure
+    figure.suptitle(title, fontsize=10, y=0.91)
+
+    plt.tick_params(labelsize=5)
+    if save_figure:
+        plt.savefig(f"{file_name}_heatmap.png")
+        plt.savefig(f"{file_name}_heatmap.pdf")
+    if close_figure:
+        plt.close()
+
+def process_fasta_with_function(fasta_path: str, function: Callable, params: Dict) -> Dict[str, List[Tuple[int, int]]]:
+    """
+    Run a function on a multi-fasta file.
+
+    Parameters:
+    fasta_path (str): The path to the fasta file.
+    function (Callable): The function to run on each sequence.
+    params (Dict): A dictionary containing the parameters for the function.
+
+    Returns:
+    Dict[str, List[Tuple[int, int]]]: A dictionary where the keys are the sequence identifiers and the values are the results of the function for each sequence.
+    """
+    results = {}
+
+    # Load all the sequences into a list to compute the total number of sequences
+    sequences = list(SeqIO.parse(fasta_path, "fasta"))
+
+    # Parse the fasta file and run the function on each sequence
+    for record in tqdm(sequences, desc="Processing sequences"):
+        sequence_id = record.id
+        sequence = str(record.seq)
+        results[sequence_id] = function(sequence, **params)
+
+    return results
+
