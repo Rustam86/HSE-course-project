@@ -861,7 +861,7 @@ data_4k = {
 def draw_boxplot_who(
         df_subset: pd.DataFrame,
         label: str = 'WHO label',
-        values: str = 'Intervals total length',
+        values: str = 'Intervals Total Length',
         title: str = '',
         figsize: Tuple[int, int] = (15, 6),
         pos: Tuple[float, float] = (0.02, 0.02)) -> None:
