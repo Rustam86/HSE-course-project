@@ -889,6 +889,9 @@ def draw_boxplot_who(
     for pangolin in pangolin_values:
         data.append(df_subset[df_subset[label] == pangolin][values].values)
 
+    # Assuming that this function exists
+    data = filter_arrays(data)
+
     # Perform the ANOVA
     f_value, p_value = stats.f_oneway(*data)
 
