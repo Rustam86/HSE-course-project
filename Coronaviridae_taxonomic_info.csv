@@ -1,0 +1,60 @@
+Subfamily;Genus;Subgenus;Species;Virus name;Isolate;Accession;Available sequence;Abbrev.
+Letovirinae;Alphaletovirus;Milecovirus;Microhyla letovirus 1;Microhyla letovirus 1;;GECV01031551;Partial genome;MLeV
+Orthocoronavirinae;Alphacoronavirus;Amalacovirus;Alphacoronavirus AMALF;bat alphacoronavirus isolate AMA_L_F;AMA_L_F;MT663548;Complete genome;BtCoV-AMA-L-F
+Orthocoronavirinae;Alphacoronavirus;Colacovirus;Bat coronavirus CDPHE15;bat coronavirus CDPHE15;bat/USA/CDPHE15/2006;KF430219;Complete genome;BtCoV CDPHE15
+Orthocoronavirinae;Alphacoronavirus;Decacovirus;Alphacoronavirus CHB25;Hipposideros pomona bat coronavirus CHB25;CHB0025;MN611525;Complete genome;HipPBCoV-CHB25
+Orthocoronavirinae;Alphacoronavirus;Decacovirus;Alphacoronavirus WA3607;alphacoronavirus sp. WA3607;WA3607;MK472070;Complete genome;ACoV-WA3607
+Orthocoronavirinae;Alphacoronavirus;Decacovirus;Bat coronavirus HKU10;Rousettus bat coronavirus HKU10;183A;JQ989270;Complete genome;BtCoV HKU10
+Orthocoronavirinae;Alphacoronavirus;Decacovirus;Rhinolophus ferrumequinum alphacoronavirus HuB-2013;BtRf-AlphaCoV/HuB2013;BtRf-HuB2013;KJ473807;Complete genome;BtRf-AlphaCoV
+Orthocoronavirinae;Alphacoronavirus;Duvinacovirus;Human coronavirus 229E;human coronavirus 229E;229E;AF304460;Complete genome;HCoV_229E
+Orthocoronavirinae;Alphacoronavirus;Duvinacovirus;Human coronavirus 229E;human coronavirus 229E;J0304;JX503061;Complete genome;HCoV_229E
+Orthocoronavirinae;Alphacoronavirus;Luchacovirus;Lucheng Rn rat coronavirus;Lucheng Rn rat coronavirus;Lucheng-19;KF294380;Complete genome;LRNV
+Orthocoronavirinae;Alphacoronavirus;Minacovirus;Mink coronavirus 1;mink coronavirus;WD1127;HM245925;Complete genome;MCoV
+Orthocoronavirinae;Alphacoronavirus;Minunacovirus;Miniopterus bat coronavirus 1;Miniopterus bat coronavirus 1;AFCD62;EU420138;Complete genome;Mi-BatCoV_1A
+Orthocoronavirinae;Alphacoronavirus;Minunacovirus;Miniopterus bat coronavirus HKU8;Miniopterus bat coronavirus HKU8;AFCD77;EU420139;Complete genome;Mi-BatCoV_HKU8
+Orthocoronavirinae;Alphacoronavirus;Myotacovirus;Myotis ricketti alphacoronavirus Sax-2011;BtMr-AlphaCoV/SAX2011;BtMr-SAX2011;KJ473806;Complete genome;BtMr-AlphaCoV
+Orthocoronavirinae;Alphacoronavirus;Nyctacovirus;Alphacoronavirus HKU33;Tylonycteris bat coronavirus HKU33;GZ151867;MK720944;Complete genome;TyBCoV-HKU33
+Orthocoronavirinae;Alphacoronavirus;Nyctacovirus;Alphacoronavirus WA2028;alphacoronavirus sp. WA2028;WA2028;MK472068;Complete genome;ACoV-WA2028
+Orthocoronavirinae;Alphacoronavirus;Nyctacovirus;Nyctalus velutinus alphacoronavirus SC-2013;BtNv-AlphaCoV/SC2013;BtNv-SC2013;KJ473809;Complete genome;BtNv-AlphaCoV
+Orthocoronavirinae;Alphacoronavirus;Nyctacovirus;Pipistrellus kuhlii coronavirus 3398;alphacoronavirus bat coronavirus;P.kuhlii/Italy/3398/2015;MH938449;Complete genome;PK-BatCoV
+Orthocoronavirinae;Alphacoronavirus;Pedacovirus;Alphacoronavirus BT020;bat alphacoronavirus BtCoV/020_16/M.dau/FIN/2016;020_16;MG923574;Coding-complete genome;BtCoV/020_16/M.dau/FIN/2016
+Orthocoronavirinae;Alphacoronavirus;Pedacovirus;Alphacoronavirus WA1087;alphacoronavirus sp. WA1087;WA1087;MK472067;Complete genome;ACoV-WA1087
+Orthocoronavirinae;Alphacoronavirus;Pedacovirus;Porcine epidemic diarrhea virus;porcine epidemic diarrhea virus;CV777;AF353511;Complete genome;PEDV
+Orthocoronavirinae;Alphacoronavirus;Pedacovirus;Scotophilus bat coronavirus 512;Scotophilus bat coronavirus 512;512/2005;DQ648858;Complete genome;Sc-BatCoV_512
+Orthocoronavirinae;Alphacoronavirus;Rhinacovirus;Rhinolophus bat coronavirus HKU2;Rhinolophus bat coronavirus HKU2;GD/430/2006;EF203064;Complete genome;Rh-BatCoV_HKU2
+Orthocoronavirinae;Alphacoronavirus;Setracovirus;Human coronavirus NL63;human coronavirus NL63;Amsterdam I;AY567487;Complete genome;HCoV_NL63
+Orthocoronavirinae;Alphacoronavirus;Setracovirus;NL63-related bat coronavirus strain BtKYNL63-9b;NL63-related bat coronavirus;BtKYNL63-9b;KY073745;Complete genome;BtKYNL63
+Orthocoronavirinae;Alphacoronavirus;Soracovirus;Sorex araneus coronavirus T14;common shrew coronavirus Tibet-2014;;KY370053;Complete genome;Sa-CoV_T14
+Orthocoronavirinae;Alphacoronavirus;Sunacovirus;Suncus murinus coronavirus X74;Suncus murinus coronavirus Xingguo-74;;KY967715;Coding-complete genome;Sm-CoV_X74
+Orthocoronavirinae;Alphacoronavirus;Tegacovirus;Alphacoronavirus 1;transmissible gastroenteritis virus;PUR46-MAD;AJ271965;Complete genome;TGEV
+Orthocoronavirinae;Betacoronavirus;Embecovirus;Betacoronavirus 1;human coronavirus OC43;ATCC VR-759;AY585228;Complete genome;HCoV_OC43
+Orthocoronavirinae;Betacoronavirus;Embecovirus;China Rattus coronavirus HKU24;betacoronavirus HKU24;HKU24-R05005I;KM349742;Complete genome;ChRCoV_HKU24
+Orthocoronavirinae;Betacoronavirus;Embecovirus;Human coronavirus HKU1;human coronavirus HKU1;HKU1;AY597011;Complete genome;HCoV_HKU1
+Orthocoronavirinae;Betacoronavirus;Embecovirus;Murine coronavirus;murine hepatitis virus;A59;AY700211;Complete genome;MHV
+Orthocoronavirinae;Betacoronavirus;Embecovirus;Myodes coronavirus 2JL14;Myodes rufocanus vole coronavirus 2/JL2014;;KY370046;Complete genome;MrufCoV_2JL14
+Orthocoronavirinae;Betacoronavirus;Hibecovirus;Bat Hp-betacoronavirus Zhejiang2013;bat Hp-betacoronavirus/Zhejiang2013;Zhejiang2013;KF636752;Complete genome;Bat_Hp-BetaCoV
+Orthocoronavirinae;Betacoronavirus;Merbecovirus;Hedgehog coronavirus 1;hedgehog coronavirus 1;2012-174/GER/2012;KC545383;Complete genome;EriCoV
+Orthocoronavirinae;Betacoronavirus;Merbecovirus;Middle East respiratory syndrome-related coronavirus;Middle East respiratory syndrome-related coronavirus;HCoV-EMC;JX869059;Complete genome;MERS-CoV
+Orthocoronavirinae;Betacoronavirus;Merbecovirus;Pipistrellus bat coronavirus HKU5;Pipistrellus bat coronavirus HKU5;LMH03f;EF065509;Complete genome;Pi-BatCoV_HKU5
+Orthocoronavirinae;Betacoronavirus;Merbecovirus;Tylonycteris bat coronavirus HKU4;Tylonycteris bat coronavirus HKU4;B04f;EF065505;Complete genome;Ty-BatCoV-HKU4
+Orthocoronavirinae;Betacoronavirus;Nobecovirus;Eidolon bat coronavirus C704;Eidolon helvum bat coronavirus CMR704-P12;;MG693168;Complete genome;Ei-BatCoV_C704
+Orthocoronavirinae;Betacoronavirus;Nobecovirus;Rousettus bat coronavirus GCCDC1;Rousettus bat coronavirus;GCCDC1 356;KU762338;Complete genome;Ro-BatCoV_GCCDC1
+Orthocoronavirinae;Betacoronavirus;Nobecovirus;Rousettus bat coronavirus HKU9;Rousettus bat coronavirus HKU9;BF_005I;EF065513;Complete genome;Ro-BatCoV_HKU9
+Orthocoronavirinae;Betacoronavirus;Sarbecovirus;Severe acute respiratory syndrome-related coronavirus;severe acute respiratory syndrome coronavirus;Tor2;AY274119;Complete genome;SARS-CoV
+Orthocoronavirinae;Betacoronavirus;Sarbecovirus;Severe acute respiratory syndrome-related coronavirus;severe acute respiratory syndrome-related coronavirus;BtKY72;KY352407;Complete genome;SARSr-CoV
+Orthocoronavirinae;Betacoronavirus;Sarbecovirus;Severe acute respiratory syndrome-related coronavirus;severe acute respiratory syndrome coronavirus 2 ;Wuhan-Hu-1;MN908947;Complete genome;SARS-CoV-2
+Orthocoronavirinae;Betacoronavirus;Sarbecovirus;Severe acute respiratory syndrome-related coronavirus;SARS coronavirus;PC4-227;AY613950;Complete genome;SARS-CoV
+Orthocoronavirinae;Deltacoronavirus;Andecovirus;Wigeon coronavirus HKU20;wigeon coronavirus HKU20;9243;JQ065048;Complete genome;WiCoV_HKU20
+Orthocoronavirinae;Deltacoronavirus;Buldecovirus;Bulbul coronavirus HKU11;bulbul coronavirus HKU11;934;FJ376619;Complete genome;BulCV_HKU11
+Orthocoronavirinae;Deltacoronavirus;Buldecovirus;Common moorhen coronavirus HKU21;common moorhen coronavirus HKU21;;JQ065049;Complete genome;CMCoV_HKU21
+Orthocoronavirinae;Deltacoronavirus;Buldecovirus;Coronavirus HKU15;porcine coronavirus HKU15;155;JQ065043;Complete genome;PoCoV_HKU15
+Orthocoronavirinae;Deltacoronavirus;Buldecovirus;Munia coronavirus HKU13;munia coronavirus HKU13;3514;FJ376622;Complete genome;MunCV_HKU13
+Orthocoronavirinae;Deltacoronavirus;Buldecovirus;White-eye coronavirus HKU16;white-eye coronavirus HKU16;6847;JQ065044;Complete genome;WECoV_HKU16
+Orthocoronavirinae;Deltacoronavirus;Herdecovirus;Night heron coronavirus HKU19;night heron coronavirus HKU19;6918;JQ065047;Complete genome;NHCoV_HKU19
+Orthocoronavirinae;Gammacoronavirus;Brangacovirus;Goose coronavirus CB17;Canada goose-Branta canadensis-coronavirus-Cambridge Bay 2017;;MK359255;Complete genome;BcanCoV_CB17
+Orthocoronavirinae;Gammacoronavirus;Cegacovirus;Beluga whale coronavirus SW1;beluga whale coronavirus;SW1;EU111742;Complete genome;BWCoV
+Orthocoronavirinae;Gammacoronavirus;Cegacovirus;Beluga whale coronavirus SW1;bottlenose dolphin coronavirus HKU22;CF090325;KF793824;Complete genome;BdCoV_HKU22
+Orthocoronavirinae;Gammacoronavirus;Igacovirus;Avian coronavirus;infectious bronchitis virus;Beaudette;M95169;Complete genome;IBV
+Orthocoronavirinae;Gammacoronavirus;Igacovirus;Avian coronavirus 9203;infectious bronchitis virus Ind-TN92-03;;KR902510;Complete genome;ACoV_9203
+Orthocoronavirinae;Gammacoronavirus;Igacovirus;Duck coronavirus 2714;duck coronavirus DK/GD/27/2014;;KM454473;Complete genome;DuCoV_2714
+Pitovirinae;Alphapironavirus;Samovirus;Alphapironavirus bona;Pacific salmon nidovirus;H14;MK611985;Complete genome;PsNV
