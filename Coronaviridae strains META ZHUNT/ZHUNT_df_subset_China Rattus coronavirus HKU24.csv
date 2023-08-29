@@ -1,9 +1,0 @@
-,GenBank ID,Accession,Description,Collection Date,Geographic Location,Sequence Length,Host,Intervals Total Length,Intervals Mean Length
-0,NC_026011.1,NC_026011.1,"Betacoronavirus HKU24 strain HKU24-R05005I, complete genome",17-May-2012,['China'],31249,Rattus norvegicus (Norway rat),364.0,9.578947368421053
-1,KM349744.1,KM349744.1,"Betacoronavirus HKU24 strain HKU24-R05010I, complete genome",17-May-2012,['China'],31249,Rattus norvegicus (Norway rat),364.0,9.578947368421053
-2,KM349743.1,KM349743.1,"Betacoronavirus HKU24 strain HKU24-R05009I, complete genome",17-May-2012,['China'],31249,Rattus norvegicus (Norway rat),364.0,9.578947368421053
-3,KM349742.1,KM349742.1,"Betacoronavirus HKU24 strain HKU24-R05005I, complete genome",17-May-2012,['China'],31249,Rattus norvegicus (Norway rat),364.0,9.578947368421053
-4,MT820631.1,MT820631.1,"Betacoronavirus HKU24 isolate Ruili-874, partial genome",2014,['China'],30801,Rattus tanezumi,606.0,10.271186440677965
-5,MT820630.1,MT820630.1,"Betacoronavirus HKU24 isolate Longquan-723, partial genome",2014,['China'],30788,Apodemus agrarius,340.0,10.0
-6,MT820629.1,MT820629.1,"Betacoronavirus HKU24 isolate Lijiang-53, partial genome",2014,['China'],30865,Apodemus chevrieri,452.0,10.044444444444444
-7,MT820628.1,MT820628.1,"Betacoronavirus HKU24 isolate Lijiang-41, partial genome",2015,['China'],30711,Apodemus latronum,492.0,10.040816326530612

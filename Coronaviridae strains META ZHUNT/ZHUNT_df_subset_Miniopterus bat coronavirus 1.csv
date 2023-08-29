@@ -1,6 +1,0 @@
-,GenBank ID,Accession,Description,Collection Date,Geographic Location,Sequence Length,Host,Intervals Total Length,Intervals Mean Length
-0,EU420138.1,EU420138.1,"Miniopterus bat coronavirus 1, complete genome",21-FEB-2018,['Hong Kong'],28326,,262.0,10.076923076923077
-1,NC_010437.1,NC_010437.1,"Bat coronavirus 1A, complete genome",13-AUG-2018,['Hong Kong'],28326,,262.0,10.076923076923077
-2,KJ473796.1,KJ473796.1,"BtMf-AlphaCoV/JX2012, complete genome",2012,['China'],28311,Miniopterus fuliginosus,274.0,10.148148148148149
-3,KJ473795.1,KJ473795.1,"BtMf-AlphaCoV/AH2011, complete genome",2011,['China'],28310,Miniopterus fuliginosus,244.0,10.166666666666666
-4,EU420137.1,EU420137.1,"Bat coronavirus 1B strain AFCD307, complete genome",21-APR-2008,['Hong Kong'],28476,,292.0,10.068965517241379
