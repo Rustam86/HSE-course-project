@@ -270,11 +270,6 @@ def get_high_contrast_colors_gr(n):
         colors.append(mcolors.hsv_to_rgb([h, 1, 1]))
     return colors
 
-unique_values = [...]  # Your list of unique values
-colors = get_high_contrast_colors(len(unique_values))
-color_map = dict(zip(unique_values, colors))
-
-
 def fetch_gb_files(accession_list: List[str], email: str, output_dir: str = ".") -> None:
     """
     Fetch GB (GenBank) files for a list of accession numbers.
