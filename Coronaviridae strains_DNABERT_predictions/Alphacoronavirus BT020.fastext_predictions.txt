@@ -1,4 +1,0 @@
-Alphacoronavirus BT020.fas
-MG923574.2
-  start     end
-   26082   26287

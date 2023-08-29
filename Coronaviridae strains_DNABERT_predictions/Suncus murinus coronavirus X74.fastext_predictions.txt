@@ -1,5 +1,0 @@
-Suncus murinus coronavirus X74.fas
-NC_048211.1
-  start     end
-KY967715.1
-  start     end
