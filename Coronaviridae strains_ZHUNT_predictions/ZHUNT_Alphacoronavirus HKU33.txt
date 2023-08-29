@@ -1,7 +1,0 @@
-Alphacoronavirus HKU33.fas
-MK720944.1
-  start     end
-   89   101
-   25752   25764
-   25754   25764
-   25756   25764
